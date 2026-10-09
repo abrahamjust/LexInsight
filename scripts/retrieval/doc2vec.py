@@ -5,7 +5,7 @@ from pathlib import Path
 from gensim.models.doc2vec import Doc2Vec, TaggedDocument
 
 from bm25 import load_cases, tokenize, make_snippet
-
+import numpy as np
 
 ROOT = Path(__file__).resolve().parents[2]
 MODEL_PATH = ROOT / "data" / "processed" / "doc2vec.model"
@@ -92,9 +92,19 @@ def retrieve(query, cases, model, top_k=TOP_K):
         if tag not in model.dv:
             continue
 
-        similarity = float(
-            model.dv.similarity(tag, query_vector)
+        document_vector = model.dv[tag]
+
+        denominator = (
+            np.linalg.norm(document_vector)
+            * np.linalg.norm(query_vector)
         )
+
+        if denominator == 0:
+            similarity = 0.0
+        else:
+            similarity = float(
+                np.dot(document_vector, query_vector) / denominator
+            )
 
         scored_cases.append((similarity, index))
 
