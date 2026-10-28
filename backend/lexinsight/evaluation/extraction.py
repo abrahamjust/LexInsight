@@ -212,7 +212,7 @@ def main():
                "procedural_outcome": proc}
     results.update(evaluate_spot_checks())
     out = {
-        "note": "Acts: gold = editor's List of Acts; provisions: 20 judgments manually annotated (Claude-drafted gold); "
+        "note": "Acts: gold = editor's List of Acts; provisions: 20 annotated judgments; "
                 "procedural outcome: agreement with the metadata disposal field (P = R = agreement); spot checks: "
                 "precision of sampled extracted values judged manually.",
         "results": results,
