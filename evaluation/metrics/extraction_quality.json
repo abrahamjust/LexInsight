@@ -1,0 +1,167 @@
+{
+  "note": "Acts: gold = editor's List of Acts; provisions: 20 judgments manually annotated (Claude-drafted gold); procedural outcome: agreement with the metadata disposal field (P = R = agreement); spot checks: precision of sampled extracted values judged manually.",
+  "results": {
+    "acts": {
+      "label": "Acts (headnotes vs editor's List of Acts)",
+      "n_docs": 721,
+      "precision": 0.8271,
+      "recall": 0.5828,
+      "f1": 0.6838,
+      "tp": 1253,
+      "fp": 262,
+      "fn": 897
+    },
+    "provisions_dev_strict": {
+      "label": "Provisions, dev sample, strict (Act + number)",
+      "n_docs": 20,
+      "precision": 0.9302,
+      "recall": 0.9091,
+      "f1": 0.9195,
+      "tp": 40,
+      "fp": 3,
+      "fn": 4
+    },
+    "provisions_dev_lenient": {
+      "label": "Provisions, dev sample, lenient (number only)",
+      "n_docs": 20,
+      "precision": 1.0,
+      "recall": 0.9318,
+      "f1": 0.9647,
+      "tp": 41,
+      "fp": 0,
+      "fn": 3
+    },
+    "provisions_heldout_strict": {
+      "label": "Provisions, held-out, strict (Act + number)",
+      "n_docs": 14,
+      "precision": 0.8788,
+      "recall": 0.9062,
+      "f1": 0.8923,
+      "tp": 29,
+      "fp": 4,
+      "fn": 3
+    },
+    "provisions_heldout_lenient": {
+      "label": "Provisions, held-out, lenient (number only)",
+      "n_docs": 14,
+      "precision": 0.9697,
+      "recall": 1.0,
+      "f1": 0.9846,
+      "tp": 32,
+      "fp": 1,
+      "fn": 0
+    },
+    "procedural_outcome": {
+      "label": "Procedural outcome vs metadata disposal",
+      "n_docs": 658,
+      "precision": 0.997,
+      "recall": 0.997,
+      "f1": 0.997,
+      "agreement": 0.997,
+      "confusion": {
+        "allowed": {
+          "allowed": 348
+        },
+        "disposed": {
+          "disposed": 102,
+          "allowed": 1
+        },
+        "partly_allowed": {
+          "partly_allowed": 43
+        },
+        "dismissed": {
+          "dismissed": 163,
+          "partly_allowed": 1
+        }
+      }
+    },
+    "outcome_dev_v1": {
+      "label": "Substantive outcome, first extractor (dev, seed 3)",
+      "n_docs": 25,
+      "precision": 0.44,
+      "recall": null,
+      "f1": null
+    },
+    "outcome_heldout_v2": {
+      "label": "Substantive outcome, revised extractor (held-out, seed 5)",
+      "n_docs": 25,
+      "precision": 0.8,
+      "recall": null,
+      "f1": null
+    },
+    "citation_treatment": {
+      "label": "Citation name + treatment parsing (seed 13)",
+      "n_docs": 8,
+      "precision": 1.0,
+      "recall": null,
+      "f1": null
+    }
+  },
+  "provision_errors": {
+    "development": [
+      {
+        "case_id": "2024INSC113",
+        "missed": [
+          "income_tax_act:s13A",
+          "representation_of_the_people_act:s29C"
+        ],
+        "spurious": []
+      },
+      {
+        "case_id": "2024INSC470",
+        "missed": [
+          "standards_of_weight_measures_packaged_commodity_rules:r34"
+        ],
+        "spurious": [
+          "?:s4A",
+          "excise_act:s4A"
+        ]
+      },
+      {
+        "case_id": "2024INSC754",
+        "missed": [
+          "income_tax_act:s148"
+        ],
+        "spurious": [
+          "?:s148"
+        ]
+      }
+    ],
+    "held_out": [
+      {
+        "case_id": "2024INSC636",
+        "missed": [
+          "maharashtra_protection_of_interest_of_depositors_in_financial_establishments_act:s3"
+        ],
+        "spurious": [
+          "?:s3"
+        ]
+      },
+      {
+        "case_id": "2024INSC652",
+        "missed": [],
+        "spurious": [
+          "code_of_civil_procedure:r33"
+        ]
+      },
+      {
+        "case_id": "2024INSC716",
+        "missed": [
+          "information_technology_act:s67B"
+        ],
+        "spurious": [
+          "it_act:s67B"
+        ]
+      },
+      {
+        "case_id": "2024INSC857",
+        "missed": [
+          "constitution_of_india:art14"
+        ],
+        "spurious": [
+          "constitution_arbitration_and_conciliation_act:art14"
+        ]
+      }
+    ]
+  }
+}

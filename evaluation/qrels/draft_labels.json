@@ -1,0 +1,6962 @@
+{
+ "annotator": "Claude (draft, from Issue/Headnotes/Keywords/cited authorities of each pooled judgment)",
+ "scale": "0 not relevant, 1 partially relevant, 2 highly relevant",
+ "labels": {
+  "q03": {
+   "2024INSC393": {
+    "grade": 0,
+    "reason": "not a false-promise-of-marriage / consent case"
+   },
+   "2024INSC216": {
+    "grade": 2,
+    "reason": "quashing plea; rape alleged on false promise of marriage, consent"
+   },
+   "2024INSC448": {
+    "grade": 0,
+    "reason": "not a false-promise-of-marriage / consent case"
+   },
+   "2024INSC782": {
+    "grade": 2,
+    "reason": "quashing s.376 FIR; rape on false promise of marriage, long relationship"
+   },
+   "2024INSC156": {
+    "grade": 0,
+    "reason": "not a false-promise-of-marriage / consent case"
+   },
+   "2024INSC953": {
+    "grade": 0,
+    "reason": "not a false-promise-of-marriage / consent case"
+   },
+   "2024_12_1072_1092": {
+    "grade": 0,
+    "reason": "not a false-promise-of-marriage / consent case"
+   },
+   "2024INSC623": {
+    "grade": 0,
+    "reason": "not a false-promise-of-marriage / consent case"
+   },
+   "2024INSC1014": {
+    "grade": 0,
+    "reason": "not a false-promise-of-marriage / consent case"
+   },
+   "2024INSC877": {
+    "grade": 0,
+    "reason": "not a false-promise-of-marriage / consent case"
+   },
+   "2024INSC737": {
+    "grade": 0,
+    "reason": "not a false-promise-of-marriage / consent case"
+   },
+   "2024INSC483": {
+    "grade": 0,
+    "reason": "not a false-promise-of-marriage / consent case"
+   },
+   "2024INSC181": {
+    "grade": 2,
+    "reason": "quashing s.376(2)(n) FIR on false pretext of marriage"
+   },
+   "2024INSC908": {
+    "grade": 0,
+    "reason": "not a false-promise-of-marriage / consent case"
+   },
+   "2024INSC897": {
+    "grade": 2,
+    "reason": "quashing s.376 FIR; false promise of marriage, long consensual relationship"
+   },
+   "2024INSC771": {
+    "grade": 0,
+    "reason": "not a false-promise-of-marriage / consent case"
+   },
+   "2024INSC614": {
+    "grade": 1,
+    "reason": "sexual offence case discussing consent of adolescent (POCSO), not promise of marriage"
+   },
+   "2024INSC369": {
+    "grade": 0,
+    "reason": "not a false-promise-of-marriage / consent case"
+   },
+   "2024INSC879": {
+    "grade": 2,
+    "reason": "quashing s.376(2)(n) FIR; consensual relationship vs assurance of marriage"
+   },
+   "2024INSC481": {
+    "grade": 2,
+    "reason": "discharge; rape on false pretext of marriage, consensual relationship gone sour"
+   },
+   "2024INSC919": {
+    "grade": 0,
+    "reason": "not a false-promise-of-marriage / consent case"
+   }
+  },
+  "q04": {
+   "2024INSC156": {
+    "grade": 0,
+    "reason": "not a medical-negligence or professional-service claim"
+   },
+   "2024_9_999_1010": {
+    "grade": 0,
+    "reason": "not a medical-negligence or professional-service claim"
+   },
+   "2024INSC328": {
+    "grade": 0,
+    "reason": "not a medical-negligence or professional-service claim"
+   },
+   "2024INSC330": {
+    "grade": 2,
+    "reason": "medical negligence; needle left in abdomen; consumer compensation"
+   },
+   "2024INSC397": {
+    "grade": 0,
+    "reason": "not a medical-negligence or professional-service claim"
+   },
+   "2024INSC825": {
+    "grade": 2,
+    "reason": "doctor's negligence in eye surgery; NCDRC compensation"
+   },
+   "2024_12_958_986": {
+    "grade": 0,
+    "reason": "not a medical-negligence or professional-service claim"
+   },
+   "2024INSC496": {
+    "grade": 0,
+    "reason": "not a medical-negligence or professional-service claim"
+   },
+   "2024INSC598": {
+    "grade": 0,
+    "reason": "not a medical-negligence or professional-service claim"
+   },
+   "2024INSC902": {
+    "grade": 0,
+    "reason": "not a medical-negligence or professional-service claim"
+   },
+   "2024_12_652_664": {
+    "grade": 0,
+    "reason": "not a medical-negligence or professional-service claim"
+   },
+   "2024INSC431": {
+    "grade": 0,
+    "reason": "not a medical-negligence or professional-service claim"
+   },
+   "2024INSC184": {
+    "grade": 2,
+    "reason": "medical negligence in cataract surgery causing loss of vision"
+   },
+   "2024_12_1108_1116": {
+    "grade": 0,
+    "reason": "not a medical-negligence or professional-service claim"
+   },
+   "2024INSC410": {
+    "grade": 1,
+    "reason": "deficiency-in-service claims against professionals (advocates)"
+   },
+   "2024INSC788": {
+    "grade": 0,
+    "reason": "not a medical-negligence or professional-service claim"
+   },
+   "2024INSC613": {
+    "grade": 0,
+    "reason": "not a medical-negligence or professional-service claim"
+   },
+   "2024INSC162": {
+    "grade": 0,
+    "reason": "not a medical-negligence or professional-service claim"
+   },
+   "2024_12_1143_1147": {
+    "grade": 0,
+    "reason": "not a medical-negligence or professional-service claim"
+   },
+   "2024INSC403": {
+    "grade": 0,
+    "reason": "not a medical-negligence or professional-service claim"
+   },
+   "2024INSC6": {
+    "grade": 0,
+    "reason": "not a medical-negligence or professional-service claim"
+   },
+   "2024INSC1035": {
+    "grade": 2,
+    "reason": "medical negligence; cataract surgery infection (endophthalmitis)"
+   },
+   "2024INSC167": {
+    "grade": 0,
+    "reason": "not a medical-negligence or professional-service claim"
+   },
+   "2024INSC296": {
+    "grade": 0,
+    "reason": "not a medical-negligence or professional-service claim"
+   },
+   "2024INSC657": {
+    "grade": 0,
+    "reason": "not a medical-negligence or professional-service claim"
+   },
+   "2024INSC212": {
+    "grade": 0,
+    "reason": "not a medical-negligence or professional-service claim"
+   },
+   "2024INSC932": {
+    "grade": 0,
+    "reason": "not a medical-negligence or professional-service claim"
+   },
+   "2024INSC457": {
+    "grade": 0,
+    "reason": "not a medical-negligence or professional-service claim"
+   },
+   "2024INSC627": {
+    "grade": 1,
+    "reason": "consumer complaint against doctors; procedural issue (delay in written statement)"
+   },
+   "2024INSC506": {
+    "grade": 0,
+    "reason": "not a medical-negligence or professional-service claim"
+   },
+   "2024INSC369": {
+    "grade": 0,
+    "reason": "not a medical-negligence or professional-service claim"
+   },
+   "2024INSC251": {
+    "grade": 0,
+    "reason": "not a medical-negligence or professional-service claim"
+   },
+   "2024INSC72": {
+    "grade": 0,
+    "reason": "unrelated legal issue"
+   },
+   "2024INSC610": {
+    "grade": 0,
+    "reason": "unrelated legal issue"
+   },
+   "2024INSC1014": {
+    "grade": 0,
+    "reason": "unrelated legal issue"
+   }
+  },
+  "q08": {
+   "2024INSC369": {
+    "grade": 2,
+    "reason": "quashing s.498A proceedings; vague, sweeping allegations"
+   },
+   "2024INSC823": {
+    "grade": 0,
+    "reason": "not a matrimonial criminal case"
+   },
+   "2024INSC713": {
+    "grade": 1,
+    "reason": "dowry death trial against husband and in-laws"
+   },
+   "2024INSC149": {
+    "grade": 1,
+    "reason": "abetment of suicide of married woman"
+   },
+   "2024INSC156": {
+    "grade": 0,
+    "reason": "not a matrimonial criminal case"
+   },
+   "2024INSC13": {
+    "grade": 0,
+    "reason": "not a matrimonial criminal case"
+   },
+   "2024INSC665": {
+    "grade": 1,
+    "reason": "498A/304B conviction including sister-in-law"
+   },
+   "2024INSC211": {
+    "grade": 0,
+    "reason": "not a matrimonial criminal case"
+   },
+   "2024INSC22": {
+    "grade": 0,
+    "reason": "not a matrimonial criminal case"
+   },
+   "2024INSC879": {
+    "grade": 0,
+    "reason": "not a matrimonial criminal case"
+   },
+   "2024INSC233": {
+    "grade": 0,
+    "reason": "not a matrimonial criminal case"
+   },
+   "2024INSC737": {
+    "grade": 2,
+    "reason": "quashing s.498A FIR; vague omnibus allegations against in-laws"
+   },
+   "2024INSC717": {
+    "grade": 1,
+    "reason": "498A/306 conviction of husband"
+   },
+   "2024INSC1014": {
+    "grade": 0,
+    "reason": "not a matrimonial criminal case"
+   },
+   "2024INSC101": {
+    "grade": 1,
+    "reason": "quashing re-initiated matrimonial case (498A/dowry) after compromise"
+   },
+   "2024INSC1019": {
+    "grade": 2,
+    "reason": "quashing s.498A proceedings; vague allegations, ulterior motive"
+   },
+   "2024INSC617": {
+    "grade": 0,
+    "reason": "not a matrimonial criminal case"
+   },
+   "2024INSC960": {
+    "grade": 1,
+    "reason": "discharge plea in s.498A/306 matrimonial case"
+   },
+   "2024INSC782": {
+    "grade": 0,
+    "reason": "not a matrimonial criminal case"
+   },
+   "2024INSC482": {
+    "grade": 0,
+    "reason": "not a matrimonial criminal case"
+   },
+   "2024INSC517": {
+    "grade": 0,
+    "reason": "not a matrimonial criminal case"
+   },
+   "2024INSC1020": {
+    "grade": 0,
+    "reason": "not a matrimonial criminal case"
+   },
+   "2024INSC953": {
+    "grade": 2,
+    "reason": "quashing s.498A/dowry case against husband's family members"
+   },
+   "2024INSC366": {
+    "grade": 0,
+    "reason": "not a matrimonial criminal case"
+   },
+   "2024INSC986": {
+    "grade": 0,
+    "reason": "unrelated legal issue"
+   },
+   "2024INSC846": {
+    "grade": 0,
+    "reason": "unrelated legal issue"
+   },
+   "2024INSC614": {
+    "grade": 0,
+    "reason": "unrelated legal issue"
+   }
+  },
+  "q13": {
+   "2024INSC628": {
+    "grade": 0,
+    "reason": "no confession issue"
+   },
+   "2024INSC902": {
+    "grade": 0,
+    "reason": "no confession issue"
+   },
+   "2024INSC290": {
+    "grade": 1,
+    "reason": "confessional statement in NDPS prosecution"
+   },
+   "2024INSC655": {
+    "grade": 0,
+    "reason": "no confession issue"
+   },
+   "2024INSC21": {
+    "grade": 1,
+    "reason": "weak circumstantial evidence, acquittal"
+   },
+   "2024INSC677": {
+    "grade": 0,
+    "reason": "no confession issue"
+   },
+   "2024INSC198": {
+    "grade": 1,
+    "reason": "confession of co-accused / custodial confession in circumstantial case"
+   },
+   "2024INSC475": {
+    "grade": 2,
+    "reason": "reliability of extra-judicial confession"
+   },
+   "2024INSC841": {
+    "grade": 0,
+    "reason": "no confession issue"
+   },
+   "2024INSC668": {
+    "grade": 0,
+    "reason": "no confession issue"
+   },
+   "2024INSC13": {
+    "grade": 1,
+    "reason": "disclosure statement in circumstantial case"
+   },
+   "2024INSC320": {
+    "grade": 0,
+    "reason": "no confession issue"
+   },
+   "2024INSC470": {
+    "grade": 0,
+    "reason": "no confession issue"
+   },
+   "2024INSC487": {
+    "grade": 2,
+    "reason": "murder conviction resting on extra-judicial confession and last seen"
+   },
+   "2024INSC42": {
+    "grade": 0,
+    "reason": "no confession issue"
+   },
+   "2024INSC99": {
+    "grade": 0,
+    "reason": "no confession issue"
+   },
+   "2024INSC124": {
+    "grade": 2,
+    "reason": "admissibility and credibility of extra-judicial confession"
+   },
+   "2024INSC460": {
+    "grade": 0,
+    "reason": "no confession issue"
+   },
+   "2024_11_1647_2038": {
+    "grade": 0,
+    "reason": "no confession issue"
+   },
+   "2024INSC299": {
+    "grade": 1,
+    "reason": "disclosure statement and circumstantial evidence"
+   },
+   "2024INSC158": {
+    "grade": 1,
+    "reason": "confession-cum-seizure panchnama in NDPS case"
+   },
+   "2024INSC586": {
+    "grade": 0,
+    "reason": "no confession issue"
+   },
+   "2024INSC727": {
+    "grade": 0,
+    "reason": "no confession issue"
+   },
+   "2024INSC953": {
+    "grade": 0,
+    "reason": "no confession issue"
+   },
+   "2024INSC482": {
+    "grade": 0,
+    "reason": "no confession issue"
+   },
+   "2024INSC840": {
+    "grade": 0,
+    "reason": "no confession issue"
+   },
+   "2024INSC718": {
+    "grade": 0,
+    "reason": "no confession issue"
+   },
+   "2024INSC789": {
+    "grade": 0,
+    "reason": "no confession issue"
+   },
+   "2024INSC887": {
+    "grade": 1,
+    "reason": "confessional statement among evidence in murder case"
+   },
+   "2024INSC24": {
+    "grade": 0,
+    "reason": "no confession issue"
+   },
+   "2024INSC295": {
+    "grade": 0,
+    "reason": "no confession issue"
+   },
+   "2024INSC637": {
+    "grade": 1,
+    "reason": "statements to ED as confessions (s.25 Evidence Act)"
+   },
+   "2024INSC96": {
+    "grade": 0,
+    "reason": "no confession issue"
+   },
+   "2024INSC251": {
+    "grade": 0,
+    "reason": "no confession issue"
+   },
+   "2024INSC590": {
+    "grade": 0,
+    "reason": "unrelated legal issue"
+   },
+   "2024INSC812": {
+    "grade": 0,
+    "reason": "unrelated legal issue"
+   },
+   "2024INSC835": {
+    "grade": 0,
+    "reason": "unrelated legal issue"
+   },
+   "2024INSC134": {
+    "grade": 0,
+    "reason": "unrelated legal issue"
+   }
+  },
+  "q14": {
+   "2024INSC554": {
+    "grade": 0,
+    "reason": "no condonation-of-delay issue"
+   },
+   "2024INSC782": {
+    "grade": 0,
+    "reason": "no condonation-of-delay issue"
+   },
+   "2024_12_866_892": {
+    "grade": 0,
+    "reason": "no condonation-of-delay issue"
+   },
+   "2024INSC14": {
+    "grade": 0,
+    "reason": "no condonation-of-delay issue"
+   },
+   "2024INSC811": {
+    "grade": 0,
+    "reason": "no condonation-of-delay issue"
+   },
+   "2024INSC286": {
+    "grade": 2,
+    "reason": "refusal to condone 5659 days delay; sufficient cause, liberal construction"
+   },
+   "2024INSC99": {
+    "grade": 0,
+    "reason": "no condonation-of-delay issue"
+   },
+   "2024INSC877": {
+    "grade": 0,
+    "reason": "no condonation-of-delay issue"
+   },
+   "2024INSC891": {
+    "grade": 2,
+    "reason": "condonation of delay; negligence of advocate as sufficient cause"
+   },
+   "2024INSC970": {
+    "grade": 0,
+    "reason": "no condonation-of-delay issue"
+   },
+   "2024_12_837_842": {
+    "grade": 0,
+    "reason": "no condonation-of-delay issue"
+   },
+   "2024INSC340": {
+    "grade": 0,
+    "reason": "no condonation-of-delay issue"
+   },
+   "2024INSC456": {
+    "grade": 2,
+    "reason": "sufficient cause for condonation; subsequent change of law"
+   },
+   "2024INSC208": {
+    "grade": 0,
+    "reason": "no condonation-of-delay issue"
+   },
+   "2024INSC852": {
+    "grade": 0,
+    "reason": "no condonation-of-delay issue"
+   },
+   "2024INSC812": {
+    "grade": 0,
+    "reason": "no condonation-of-delay issue"
+   },
+   "2024INSC774": {
+    "grade": 1,
+    "reason": "condonation of delay under NCLT/NCLAT rules"
+   },
+   "2024INSC281": {
+    "grade": 2,
+    "reason": "sufficient cause for 14 years delay"
+   },
+   "2024INSC262": {
+    "grade": 2,
+    "reason": "condonation of 12-year delay; sufficient cause"
+   },
+   "2024INSC932": {
+    "grade": 2,
+    "reason": "state's 5-year delay in second appeal not explained"
+   },
+   "2024INSC339": {
+    "grade": 2,
+    "reason": "s.5 Limitation Act condonation for delayed change report"
+   },
+   "2024INSC889": {
+    "grade": 1,
+    "reason": "sufficient cause for extending arbitral mandate after expiry"
+   },
+   "2024_12_1143_1147": {
+    "grade": 1,
+    "reason": "delay and interest; condonation incidental"
+   },
+   "2024INSC640": {
+    "grade": 1,
+    "reason": "delay condonation, liberal approach (incidental)"
+   },
+   "2024INSC125": {
+    "grade": 1,
+    "reason": "availability of s.5 Limitation Act in appeal against acquittal"
+   },
+   "2024INSC96": {
+    "grade": 0,
+    "reason": "no condonation-of-delay issue"
+   },
+   "2024INSC1060": {
+    "grade": 0,
+    "reason": "no condonation-of-delay issue"
+   },
+   "2024INSC835": {
+    "grade": 0,
+    "reason": "no condonation-of-delay issue"
+   },
+   "2024INSC902": {
+    "grade": 2,
+    "reason": "condonation of delay in written statement; blame on advocate"
+   },
+   "2024INSC295": {
+    "grade": 0,
+    "reason": "no condonation-of-delay issue"
+   },
+   "2024INSC655": {
+    "grade": 0,
+    "reason": "no condonation-of-delay issue"
+   },
+   "2024INSC659": {
+    "grade": 0,
+    "reason": "no condonation-of-delay issue"
+   },
+   "2024INSC316": {
+    "grade": 0,
+    "reason": "no condonation-of-delay issue"
+   },
+   "2024INSC851": {
+    "grade": 1,
+    "reason": "limitation (s.14) for fresh s.11(6) application"
+   },
+   "2024INSC105": {
+    "grade": 0,
+    "reason": "no condonation-of-delay issue"
+   },
+   "2024INSC544": {
+    "grade": 0,
+    "reason": "no condonation-of-delay issue"
+   },
+   "2024INSC470": {
+    "grade": 0,
+    "reason": "no condonation-of-delay issue"
+   },
+   "2024INSC718": {
+    "grade": 0,
+    "reason": "no condonation-of-delay issue"
+   },
+   "2024INSC134": {
+    "grade": 0,
+    "reason": "unrelated legal issue"
+   },
+   "2024INSC756": {
+    "grade": 0,
+    "reason": "unrelated legal issue"
+   },
+   "2024INSC41": {
+    "grade": 0,
+    "reason": "unrelated legal issue"
+   },
+   "2024_11_1647_2038": {
+    "grade": 0,
+    "reason": "unrelated legal issue"
+   }
+  },
+  "q16": {
+   "2024INSC284": {
+    "grade": 1,
+    "reason": "cheating and conspiracy; discharge"
+   },
+   "2024INSC772": {
+    "grade": 1,
+    "reason": "cheating over truck hire; dishonest intention a question of fact"
+   },
+   "2024INSC416": {
+    "grade": 2,
+    "reason": "criminal prosecution for what is a civil wrong (benami); abuse of process"
+   },
+   "2024_9_999_1010": {
+    "grade": 0,
+    "reason": "not a civil-vs-criminal colour dispute"
+   },
+   "2024INSC623": {
+    "grade": 1,
+    "reason": "cheating charges in commercial coal contracts"
+   },
+   "2024INSC227": {
+    "grade": 2,
+    "reason": "refusal to quash FIR where dispute essentially civil"
+   },
+   "2024INSC750": {
+    "grade": 2,
+    "reason": "quashing criminal case of predominantly civil character (loan)"
+   },
+   "2024INSC902": {
+    "grade": 0,
+    "reason": "not a civil-vs-criminal colour dispute"
+   },
+   "2024INSC189": {
+    "grade": 0,
+    "reason": "not a civil-vs-criminal colour dispute"
+   },
+   "2024INSC233": {
+    "grade": 2,
+    "reason": "s.420 not attracted; quashing as abuse of process"
+   },
+   "2024INSC444": {
+    "grade": 0,
+    "reason": "not a civil-vs-criminal colour dispute"
+   },
+   "2024INSC909": {
+    "grade": 0,
+    "reason": "not a civil-vs-criminal colour dispute"
+   },
+   "2024INSC846": {
+    "grade": 0,
+    "reason": "not a civil-vs-criminal colour dispute"
+   },
+   "2024INSC752": {
+    "grade": 1,
+    "reason": "criminal proceedings after bank compromise"
+   },
+   "2024INSC1060": {
+    "grade": 1,
+    "reason": "cheating and breach of trust ingredients in loan default"
+   },
+   "2024INSC897": {
+    "grade": 0,
+    "reason": "not a civil-vs-criminal colour dispute"
+   },
+   "2024INSC363": {
+    "grade": 0,
+    "reason": "not a civil-vs-criminal colour dispute"
+   },
+   "2024INSC834": {
+    "grade": 0,
+    "reason": "not a civil-vs-criminal colour dispute"
+   },
+   "2024INSC49": {
+    "grade": 1,
+    "reason": "components of cheating examined; proceedings quashed"
+   },
+   "2024INSC347": {
+    "grade": 1,
+    "reason": "transaction civil in nature; compounding of NI Act offence"
+   },
+   "2024INSC32": {
+    "grade": 2,
+    "reason": "commercial dispute given criminal colour; FIR quashed"
+   },
+   "2024INSC72": {
+    "grade": 2,
+    "reason": "commercial dispute without criminality; summons quashed"
+   },
+   "2024INSC472": {
+    "grade": 1,
+    "reason": "quashing complaint arising from agreements for sale"
+   },
+   "2024INSC317": {
+    "grade": 1,
+    "reason": "dispute alleged civil in nature; territorial jurisdiction"
+   },
+   "2024INSC316": {
+    "grade": 0,
+    "reason": "not a civil-vs-criminal colour dispute"
+   },
+   "2024INSC196": {
+    "grade": 2,
+    "reason": "quashing proceedings arising out of a civil transaction"
+   },
+   "2024INSC626": {
+    "grade": 2,
+    "reason": "406/420 summoning quashed; entrustment and mens rea absent"
+   },
+   "2024INSC690": {
+    "grade": 0,
+    "reason": "unrelated legal issue"
+   },
+   "2024INSC764": {
+    "grade": 0,
+    "reason": "unrelated legal issue"
+   }
+  },
+  "q21": {
+   "2024INSC551": {
+    "grade": 2,
+    "reason": "s.138/141/143A; whether authorised signatory is the drawer"
+   },
+   "2024INSC628": {
+    "grade": 0,
+    "reason": "no s.138 NI Act issue"
+   },
+   "2024INSC789": {
+    "grade": 0,
+    "reason": "no s.138 NI Act issue"
+   },
+   "2024INSC586": {
+    "grade": 2,
+    "reason": "acquittal under s.138; presumption under ss.118/139"
+   },
+   "2024INSC1049": {
+    "grade": 0,
+    "reason": "no s.138 NI Act issue"
+   },
+   "2024INSC602": {
+    "grade": 2,
+    "reason": "s.138 conviction; cheque in part discharge of loan"
+   },
+   "2024INSC902": {
+    "grade": 0,
+    "reason": "no s.138 NI Act issue"
+   },
+   "2024INSC927": {
+    "grade": 0,
+    "reason": "no s.138 NI Act issue"
+   },
+   "2024INSC347": {
+    "grade": 1,
+    "reason": "compounding of s.138 offence after settlement"
+   },
+   "2024INSC462": {
+    "grade": 0,
+    "reason": "no s.138 NI Act issue"
+   },
+   "2024INSC295": {
+    "grade": 0,
+    "reason": "no s.138 NI Act issue"
+   },
+   "2024INSC740": {
+    "grade": 0,
+    "reason": "no s.138 NI Act issue"
+   },
+   "2024INSC720": {
+    "grade": 0,
+    "reason": "no s.138 NI Act issue"
+   },
+   "2024INSC24": {
+    "grade": 0,
+    "reason": "no s.138 NI Act issue"
+   },
+   "2024INSC205": {
+    "grade": 1,
+    "reason": "interim compensation under s.143A in s.138 cases"
+   },
+   "2024INSC99": {
+    "grade": 0,
+    "reason": "no s.138 NI Act issue"
+   },
+   "2024INSC677": {
+    "grade": 0,
+    "reason": "no s.138 NI Act issue"
+   },
+   "2024INSC260": {
+    "grade": 2,
+    "reason": "s.138 prosecution after civil decree on same transaction"
+   },
+   "2024INSC84": {
+    "grade": 2,
+    "reason": "summoning under s.138; time-barred debt as legally enforceable"
+   },
+   "2024INSC607": {
+    "grade": 0,
+    "reason": "no s.138 NI Act issue"
+   },
+   "2024INSC782": {
+    "grade": 0,
+    "reason": "no s.138 NI Act issue"
+   },
+   "2024INSC835": {
+    "grade": 0,
+    "reason": "no s.138 NI Act issue"
+   },
+   "2024INSC134": {
+    "grade": 0,
+    "reason": "no s.138 NI Act issue"
+   },
+   "2024INSC535": {
+    "grade": 1,
+    "reason": "compounding s.138 conviction after settlement"
+   },
+   "2024INSC258": {
+    "grade": 0,
+    "reason": "no s.138 NI Act issue"
+   },
+   "2024_12_954_957": {
+    "grade": 0,
+    "reason": "no s.138 NI Act issue"
+   },
+   "2024INSC206": {
+    "grade": 1,
+    "reason": "quashing s.138/142 complaint against company in-charge"
+   },
+   "2024INSC655": {
+    "grade": 0,
+    "reason": "no s.138 NI Act issue"
+   },
+   "2024INSC288": {
+    "grade": 2,
+    "reason": "s.138; rebuttal of presumption, legally enforceable debt"
+   },
+   "2024INSC113": {
+    "grade": 0,
+    "reason": "no s.138 NI Act issue"
+   },
+   "2024INSC1024": {
+    "grade": 2,
+    "reason": "s.138/141 vicarious liability of director-signatory"
+   },
+   "2024INSC1059": {
+    "grade": 2,
+    "reason": "s.138 conviction for dishonoured cheques"
+   },
+   "2024INSC690": {
+    "grade": 1,
+    "reason": "compounding s.138 without complainant's consent"
+   },
+   "2024INSC918": {
+    "grade": 1,
+    "reason": "s.148 deposit as condition for suspension in s.138 appeal"
+   },
+   "2024_12_769_776": {
+    "grade": 0,
+    "reason": "no s.138 NI Act issue"
+   },
+   "2024INSC460": {
+    "grade": 0,
+    "reason": "no s.138 NI Act issue"
+   },
+   "2024INSC172": {
+    "grade": 0,
+    "reason": "no s.138 NI Act issue"
+   },
+   "2024INSC63": {
+    "grade": 2,
+    "reason": "s.138 conviction; signature mismatch, presumptions"
+   },
+   "2024INSC252": {
+    "grade": 0,
+    "reason": "unrelated legal issue"
+   },
+   "2024INSC562": {
+    "grade": 0,
+    "reason": "unrelated legal issue"
+   },
+   "2024INSC554": {
+    "grade": 0,
+    "reason": "unrelated legal issue"
+   },
+   "2024_11_1647_2038": {
+    "grade": 0,
+    "reason": "unrelated legal issue"
+   },
+   "2024INSC812": {
+    "grade": 0,
+    "reason": "unrelated legal issue"
+   }
+  },
+  "q26": {
+   "2024INSC211": {
+    "grade": 0,
+    "reason": "no summoning/cognizance issue"
+   },
+   "2024INSC342": {
+    "grade": 1,
+    "reason": "prima facie case for summoning accused"
+   },
+   "2024INSC96": {
+    "grade": 0,
+    "reason": "no summoning/cognizance issue"
+   },
+   "2024_12_777_836": {
+    "grade": 1,
+    "reason": "cognizance without sanction"
+   },
+   "2024INSC483": {
+    "grade": 2,
+    "reason": "summoning under s.319 CrPC; need for sanction"
+   },
+   "2024INSC134": {
+    "grade": 0,
+    "reason": "no summoning/cognizance issue"
+   },
+   "2024INSC655": {
+    "grade": 0,
+    "reason": "no summoning/cognizance issue"
+   },
+   "2024INSC1060": {
+    "grade": 0,
+    "reason": "no summoning/cognizance issue"
+   },
+   "2024INSC63": {
+    "grade": 0,
+    "reason": "no summoning/cognizance issue"
+   },
+   "2024INSC718": {
+    "grade": 0,
+    "reason": "no summoning/cognizance issue"
+   },
+   "2024INSC84": {
+    "grade": 1,
+    "reason": "quashing of summoning order"
+   },
+   "2024INSC899": {
+    "grade": 0,
+    "reason": "no summoning/cognizance issue"
+   },
+   "2024INSC669": {
+    "grade": 0,
+    "reason": "no summoning/cognizance issue"
+   },
+   "2024INSC740": {
+    "grade": 0,
+    "reason": "no summoning/cognizance issue"
+   },
+   "2024INSC794": {
+    "grade": 2,
+    "reason": "s.319 application before cross-examination"
+   },
+   "2024INSC878": {
+    "grade": 0,
+    "reason": "no summoning/cognizance issue"
+   },
+   "2024INSC363": {
+    "grade": 1,
+    "reason": "chargesheets, cognizance and summoning"
+   },
+   "2024INSC316": {
+    "grade": 1,
+    "reason": "cognizance on protest petition, summoning"
+   },
+   "2024INSC902": {
+    "grade": 0,
+    "reason": "no summoning/cognizance issue"
+   },
+   "2024INSC967": {
+    "grade": 1,
+    "reason": "summoning order and prior sanction"
+   },
+   "2024INSC205": {
+    "grade": 0,
+    "reason": "no summoning/cognizance issue"
+   },
+   "2024INSC325": {
+    "grade": 0,
+    "reason": "no summoning/cognizance issue"
+   },
+   "2024INSC907": {
+    "grade": 0,
+    "reason": "no summoning/cognizance issue"
+   },
+   "2024INSC877": {
+    "grade": 0,
+    "reason": "no summoning/cognizance issue"
+   },
+   "2024INSC272": {
+    "grade": 0,
+    "reason": "no summoning/cognizance issue"
+   },
+   "2024INSC77": {
+    "grade": 0,
+    "reason": "no summoning/cognizance issue"
+   },
+   "2024INSC626": {
+    "grade": 1,
+    "reason": "quashing summoning order"
+   },
+   "2024INSC261": {
+    "grade": 1,
+    "reason": "quashing summons for s.306"
+   },
+   "2024INSC782": {
+    "grade": 0,
+    "reason": "no summoning/cognizance issue"
+   },
+   "2024INSC846": {
+    "grade": 0,
+    "reason": "no summoning/cognizance issue"
+   },
+   "2024INSC130": {
+    "grade": 2,
+    "reason": "application u/ss.216/319 CrPC to summon additional accused"
+   },
+   "2024INSC366": {
+    "grade": 2,
+    "reason": "sufficient material for s.319 summoning order"
+   },
+   "2024INSC24": {
+    "grade": 0,
+    "reason": "no summoning/cognizance issue"
+   },
+   "2024INSC666": {
+    "grade": 0,
+    "reason": "no summoning/cognizance issue"
+   },
+   "2024INSC681": {
+    "grade": 2,
+    "reason": "s.319 summoning of a witness as additional accused; s.132 protection"
+   },
+   "2024INSC462": {
+    "grade": 0,
+    "reason": "no summoning/cognizance issue"
+   },
+   "2024INSC22": {
+    "grade": 2,
+    "reason": "revision against s.319 summoning of police officials"
+   },
+   "2024INSC385": {
+    "grade": 0,
+    "reason": "unrelated legal issue"
+   },
+   "2024INSC716": {
+    "grade": 0,
+    "reason": "unrelated legal issue"
+   },
+   "2024INSC986": {
+    "grade": 0,
+    "reason": "unrelated legal issue"
+   },
+   "2024INSC887": {
+    "grade": 0,
+    "reason": "unrelated legal issue"
+   },
+   "2024INSC713": {
+    "grade": 0,
+    "reason": "unrelated legal issue"
+   },
+   "2024INSC198": {
+    "grade": 0,
+    "reason": "unrelated legal issue"
+   },
+   "2024INSC960": {
+    "grade": 0,
+    "reason": "unrelated legal issue"
+   }
+  },
+  "q28": {
+   "2024INSC744": {
+    "grade": 0,
+    "reason": "no threshold rejection-of-plaint issue"
+   },
+   "2024INSC515": {
+    "grade": 2,
+    "reason": "rejection of plaint; bar under Order II Rule 2"
+   },
+   "2024INSC211": {
+    "grade": 0,
+    "reason": "no threshold rejection-of-plaint issue"
+   },
+   "2024INSC752": {
+    "grade": 0,
+    "reason": "no threshold rejection-of-plaint issue"
+   },
+   "2024INSC12": {
+    "grade": 0,
+    "reason": "no threshold rejection-of-plaint issue"
+   },
+   "2024INSC36": {
+    "grade": 0,
+    "reason": "no threshold rejection-of-plaint issue"
+   },
+   "2024INSC460": {
+    "grade": 0,
+    "reason": "no threshold rejection-of-plaint issue"
+   },
+   "2024INSC599": {
+    "grade": 0,
+    "reason": "no threshold rejection-of-plaint issue"
+   },
+   "2024INSC1049": {
+    "grade": 2,
+    "reason": "Order VII Rule 11 rejection of plaint on limitation"
+   },
+   "2024INSC978": {
+    "grade": 0,
+    "reason": "no threshold rejection-of-plaint issue"
+   },
+   "2024INSC181": {
+    "grade": 0,
+    "reason": "no threshold rejection-of-plaint issue"
+   },
+   "2024INSC444": {
+    "grade": 0,
+    "reason": "no threshold rejection-of-plaint issue"
+   },
+   "2024INSC352": {
+    "grade": 0,
+    "reason": "no threshold rejection-of-plaint issue"
+   },
+   "2024INSC96": {
+    "grade": 0,
+    "reason": "no threshold rejection-of-plaint issue"
+   },
+   "2024_12_719_731": {
+    "grade": 0,
+    "reason": "no threshold rejection-of-plaint issue"
+   },
+   "2024INSC497": {
+    "grade": 1,
+    "reason": "bar on civil court jurisdiction"
+   },
+   "2024INSC391": {
+    "grade": 0,
+    "reason": "no threshold rejection-of-plaint issue"
+   },
+   "2024INSC502": {
+    "grade": 1,
+    "reason": "maintainability of original suit at the threshold"
+   },
+   "2024INSC740": {
+    "grade": 0,
+    "reason": "no threshold rejection-of-plaint issue"
+   },
+   "2024INSC691": {
+    "grade": 0,
+    "reason": "no threshold rejection-of-plaint issue"
+   },
+   "2024_12_954_957": {
+    "grade": 0,
+    "reason": "no threshold rejection-of-plaint issue"
+   },
+   "2024INSC295": {
+    "grade": 0,
+    "reason": "no threshold rejection-of-plaint issue"
+   },
+   "2024INSC121": {
+    "grade": 0,
+    "reason": "no threshold rejection-of-plaint issue"
+   },
+   "2024INSC770": {
+    "grade": 0,
+    "reason": "no threshold rejection-of-plaint issue"
+   },
+   "2024INSC689": {
+    "grade": 2,
+    "reason": "dismissal of election petition at threshold under Order VII Rule 11"
+   },
+   "2024INSC282": {
+    "grade": 0,
+    "reason": "no threshold rejection-of-plaint issue"
+   },
+   "2024INSC1021": {
+    "grade": 0,
+    "reason": "no threshold rejection-of-plaint issue"
+   },
+   "2024INSC902": {
+    "grade": 2,
+    "reason": "rejection of election petition under Order VII Rule 11"
+   },
+   "2024INSC655": {
+    "grade": 0,
+    "reason": "no threshold rejection-of-plaint issue"
+   },
+   "2024INSC1060": {
+    "grade": 0,
+    "reason": "no threshold rejection-of-plaint issue"
+   },
+   "2024INSC1025": {
+    "grade": 2,
+    "reason": "Order VII Rule 11(d) rejection of plaint as time-barred"
+   },
+   "2024INSC445": {
+    "grade": 0,
+    "reason": "no threshold rejection-of-plaint issue"
+   },
+   "2024INSC913": {
+    "grade": 0,
+    "reason": "unrelated legal issue"
+   },
+   "2024INSC491": {
+    "grade": 0,
+    "reason": "unrelated legal issue"
+   },
+   "2024INSC1022": {
+    "grade": 0,
+    "reason": "unrelated legal issue"
+   },
+   "2024INSC737": {
+    "grade": 0,
+    "reason": "unrelated legal issue"
+   }
+  },
+  "q34": {
+   "2024_12_680_692": {
+    "grade": 0,
+    "reason": "does not concern Arnesh Kumar or arrest safeguards"
+   },
+   "2024INSC232": {
+    "grade": 1,
+    "reason": "arrest and custody safeguards, police excess"
+   },
+   "2024INSC290": {
+    "grade": 0,
+    "reason": "does not concern Arnesh Kumar or arrest safeguards"
+   },
+   "2024INSC512": {
+    "grade": 2,
+    "reason": "necessity of arrest under s.19 PMLA; Arnesh Kumar cited"
+   },
+   "2024INSC261": {
+    "grade": 0,
+    "reason": "does not concern Arnesh Kumar or arrest safeguards"
+   },
+   "2024INSC567": {
+    "grade": 0,
+    "reason": "does not concern Arnesh Kumar or arrest safeguards"
+   },
+   "2024INSC1032": {
+    "grade": 0,
+    "reason": "does not concern Arnesh Kumar or arrest safeguards"
+   },
+   "2024INSC369": {
+    "grade": 2,
+    "reason": "relies on Arnesh Kumar on misuse of s.498A arrests"
+   },
+   "2024INSC687": {
+    "grade": 2,
+    "reason": "legality of arrest, s.41A CrPC; relies on Arnesh Kumar"
+   },
+   "2024INSC363": {
+    "grade": 0,
+    "reason": "does not concern Arnesh Kumar or arrest safeguards"
+   },
+   "2024INSC546": {
+    "grade": 0,
+    "reason": "does not concern Arnesh Kumar or arrest safeguards"
+   },
+   "2024INSC239": {
+    "grade": 0,
+    "reason": "does not concern Arnesh Kumar or arrest safeguards"
+   },
+   "2024INSC242": {
+    "grade": 0,
+    "reason": "does not concern Arnesh Kumar or arrest safeguards"
+   },
+   "2024INSC866": {
+    "grade": 0,
+    "reason": "does not concern Arnesh Kumar or arrest safeguards"
+   },
+   "2024INSC960": {
+    "grade": 0,
+    "reason": "does not concern Arnesh Kumar or arrest safeguards"
+   },
+   "2024INSC669": {
+    "grade": 0,
+    "reason": "does not concern Arnesh Kumar or arrest safeguards"
+   },
+   "2024INSC434": {
+    "grade": 1,
+    "reason": "arrest and summons under PMLA complaint"
+   },
+   "2024INSC447": {
+    "grade": 0,
+    "reason": "does not concern Arnesh Kumar or arrest safeguards"
+   },
+   "2024INSC202": {
+    "grade": 0,
+    "reason": "does not concern Arnesh Kumar or arrest safeguards"
+   },
+   "2024INSC13": {
+    "grade": 0,
+    "reason": "does not concern Arnesh Kumar or arrest safeguards"
+   },
+   "2024INSC134": {
+    "grade": 2,
+    "reason": "compliance with s.41/41A directions; Arnesh Kumar cited"
+   },
+   "2024INSC588": {
+    "grade": 0,
+    "reason": "does not concern Arnesh Kumar or arrest safeguards"
+   },
+   "2024INSC753": {
+    "grade": 1,
+    "reason": "cites Arnesh Kumar (referred) in prison-reform context"
+   },
+   "2024INSC953": {
+    "grade": 1,
+    "reason": "cites Arnesh Kumar (referred) on s.498A misuse"
+   },
+   "2024INSC414": {
+    "grade": 1,
+    "reason": "arrest safeguard (grounds of arrest) without citing it"
+   },
+   "2024INSC625": {
+    "grade": 2,
+    "reason": "anticipatory bail; relies on Arnesh Kumar"
+   },
+   "2024INSC92": {
+    "grade": 0,
+    "reason": "unrelated legal issue"
+   },
+   "2024INSC4": {
+    "grade": 0,
+    "reason": "unrelated legal issue"
+   }
+  },
+  "q38": {
+   "2024INSC626": {
+    "grade": 0,
+    "reason": "not a s.319 CrPC case"
+   },
+   "2024_12_743_754": {
+    "grade": 0,
+    "reason": "not a s.319 CrPC case"
+   },
+   "2024INSC189": {
+    "grade": 0,
+    "reason": "not a s.319 CrPC case"
+   },
+   "2024INSC953": {
+    "grade": 0,
+    "reason": "not a s.319 CrPC case"
+   },
+   "2024INSC366": {
+    "grade": 2,
+    "reason": "s.319 summoning; cites Hardeep Singh"
+   },
+   "2024INSC316": {
+    "grade": 0,
+    "reason": "not a s.319 CrPC case"
+   },
+   "2024INSC363": {
+    "grade": 0,
+    "reason": "not a s.319 CrPC case"
+   },
+   "2024INSC63": {
+    "grade": 0,
+    "reason": "not a s.319 CrPC case"
+   },
+   "2024INSC918": {
+    "grade": 0,
+    "reason": "not a s.319 CrPC case"
+   },
+   "2024INSC681": {
+    "grade": 1,
+    "reason": "s.319 additional accused without citing Hardeep Singh"
+   },
+   "2024INSC22": {
+    "grade": 2,
+    "reason": "s.319 summoning of police officials; follows Hardeep Singh"
+   },
+   "2024INSC205": {
+    "grade": 0,
+    "reason": "not a s.319 CrPC case"
+   },
+   "2024INSC1059": {
+    "grade": 0,
+    "reason": "not a s.319 CrPC case"
+   },
+   "2024INSC4": {
+    "grade": 0,
+    "reason": "not a s.319 CrPC case"
+   },
+   "2024INSC106": {
+    "grade": 0,
+    "reason": "not a s.319 CrPC case"
+   },
+   "2024INSC636": {
+    "grade": 0,
+    "reason": "not a s.319 CrPC case"
+   },
+   "2024INSC794": {
+    "grade": 2,
+    "reason": "s.319 timing; follows Hardeep Singh"
+   },
+   "2024INSC1046": {
+    "grade": 0,
+    "reason": "not a s.319 CrPC case"
+   },
+   "2024INSC483": {
+    "grade": 1,
+    "reason": "s.319 summoning and sanction without citing it"
+   },
+   "2024INSC967": {
+    "grade": 0,
+    "reason": "not a s.319 CrPC case"
+   },
+   "2024INSC272": {
+    "grade": 0,
+    "reason": "not a s.319 CrPC case"
+   },
+   "2024INSC84": {
+    "grade": 0,
+    "reason": "not a s.319 CrPC case"
+   },
+   "2024INSC602": {
+    "grade": 0,
+    "reason": "not a s.319 CrPC case"
+   },
+   "2024_12_680_692": {
+    "grade": 0,
+    "reason": "not a s.319 CrPC case"
+   },
+   "2024INSC342": {
+    "grade": 0,
+    "reason": "not a s.319 CrPC case"
+   },
+   "2024INSC130": {
+    "grade": 2,
+    "reason": "ss.216/319 summoning; relies on Hardeep Singh"
+   },
+   "2024INSC716": {
+    "grade": 0,
+    "reason": "unrelated legal issue"
+   }
+  },
+  "q39": {
+   "2024INSC512": {
+    "grade": 2,
+    "reason": "PMLA s.19 arrest; relies on Vijay Madanlal Choudhary"
+   },
+   "2024INSC632": {
+    "grade": 1,
+    "reason": "PMLA bail proviso, no reliance shown"
+   },
+   "2024INSC843": {
+    "grade": 1,
+    "reason": "PMLA cognizance/sanction, no reliance shown"
+   },
+   "2024INSC782": {
+    "grade": 0,
+    "reason": "not a PMLA judgment"
+   },
+   "2024INSC907": {
+    "grade": 0,
+    "reason": "not a PMLA judgment"
+   },
+   "2024INSC637": {
+    "grade": 2,
+    "reason": "PMLA s.50 statements; relies on Vijay Madanlal Choudhary"
+   },
+   "2024INSC546": {
+    "grade": 1,
+    "reason": "bail stay in ED case"
+   },
+   "2024INSC434": {
+    "grade": 1,
+    "reason": "PMLA complaint procedure; only refers to Vijay Madanlal"
+   },
+   "2024INSC414": {
+    "grade": 0,
+    "reason": "not a PMLA judgment"
+   },
+   "2024_12_627_636": {
+    "grade": 1,
+    "reason": "PMLA bail, no reliance shown"
+   },
+   "2024INSC452": {
+    "grade": 0,
+    "reason": "not a PMLA judgment"
+   },
+   "2024INSC668": {
+    "grade": 2,
+    "reason": "ED summons under PMLA; relies on Vijay Madanlal Choudhary"
+   },
+   "2024INSC269": {
+    "grade": 0,
+    "reason": "not a PMLA judgment"
+   },
+   "2024INSC595": {
+    "grade": 1,
+    "reason": "PMLA bail; only refers to Vijay Madanlal"
+   },
+   "2024INSC217": {
+    "grade": 1,
+    "reason": "PMLA twin conditions; only refers to Vijay Madanlal"
+   },
+   "2024INSC301": {
+    "grade": 1,
+    "reason": "PMLA scheduled offence, no reliance shown"
+   },
+   "2024INSC687": {
+    "grade": 0,
+    "reason": "not a PMLA judgment"
+   },
+   "2024INSC739": {
+    "grade": 1,
+    "reason": "PMLA bail on long custody, no reliance shown"
+   },
+   "2024INSC11": {
+    "grade": 0,
+    "reason": "unrelated legal issue"
+   }
+  },
+  "q47": {
+   "2024INSC677": {
+    "grade": 0,
+    "reason": "not a special-statute bail case"
+   },
+   "2024INSC625": {
+    "grade": 0,
+    "reason": "not a special-statute bail case"
+   },
+   "2024INSC134": {
+    "grade": 0,
+    "reason": "not a special-statute bail case"
+   },
+   "2024INSC537": {
+    "grade": 0,
+    "reason": "not a special-statute bail case"
+   },
+   "2024INSC877": {
+    "grade": 0,
+    "reason": "not a special-statute bail case"
+   },
+   "2024INSC271": {
+    "grade": 0,
+    "reason": "not a special-statute bail case"
+   },
+   "2024INSC191": {
+    "grade": 0,
+    "reason": "not a special-statute bail case"
+   },
+   "2024INSC953": {
+    "grade": 0,
+    "reason": "not a special-statute bail case"
+   },
+   "2024INSC669": {
+    "grade": 0,
+    "reason": "not a special-statute bail case"
+   },
+   "2024INSC343": {
+    "grade": 0,
+    "reason": "not a special-statute bail case"
+   },
+   "2024INSC789": {
+    "grade": 0,
+    "reason": "not a special-statute bail case"
+   },
+   "2024INSC604": {
+    "grade": 1,
+    "reason": "UAPA s.43D(5) bail granted; refers to Gurwinder Singh"
+   },
+   "2024INSC546": {
+    "grade": 0,
+    "reason": "not a special-statute bail case"
+   },
+   "2024INSC602": {
+    "grade": 1,
+    "reason": "PMLA bail granted despite twin test, long custody"
+   },
+   "2024INSC595": {
+    "grade": 0,
+    "reason": "not a special-statute bail case"
+   },
+   "2024INSC269": {
+    "grade": 1,
+    "reason": "UAPA bail on long detention; refers to Gurwinder Singh"
+   },
+   "2024INSC502": {
+    "grade": 0,
+    "reason": "not a special-statute bail case"
+   },
+   "2024INSC534": {
+    "grade": 2,
+    "reason": "UAPA bail on long incarceration; distinguishes Gurwinder Singh"
+   },
+   "2024INSC479": {
+    "grade": 0,
+    "reason": "not a special-statute bail case"
+   },
+   "2024INSC739": {
+    "grade": 1,
+    "reason": "PMLA bail on long incarceration"
+   },
+   "2024INSC716": {
+    "grade": 0,
+    "reason": "not a special-statute bail case"
+   },
+   "2024INSC101": {
+    "grade": 0,
+    "reason": "not a special-statute bail case"
+   },
+   "2024INSC1039": {
+    "grade": 0,
+    "reason": "not a special-statute bail case"
+   },
+   "2024INSC452": {
+    "grade": 1,
+    "reason": "UAPA bail cancelled; relies on Gurwinder Singh (opposite direction)"
+   },
+   "2024INSC512": {
+    "grade": 0,
+    "reason": "not a special-statute bail case"
+   },
+   "2024INSC323": {
+    "grade": 0,
+    "reason": "not a special-statute bail case"
+   },
+   "2024INSC645": {
+    "grade": 1,
+    "reason": "UAPA bail on speedy-trial ground"
+   },
+   "2024INSC92": {
+    "grade": 1,
+    "reason": "the Gurwinder Singh judgment itself (bail refused)"
+   },
+   "2024INSC1032": {
+    "grade": 0,
+    "reason": "not a special-statute bail case"
+   },
+   "2024INSC438": {
+    "grade": 0,
+    "reason": "not a special-statute bail case"
+   },
+   "2024INSC687": {
+    "grade": 0,
+    "reason": "not a special-statute bail case"
+   },
+   "2024INSC750": {
+    "grade": 0,
+    "reason": "not a special-statute bail case"
+   },
+   "2024INSC636": {
+    "grade": 0,
+    "reason": "not a special-statute bail case"
+   },
+   "2024INSC690": {
+    "grade": 0,
+    "reason": "not a special-statute bail case"
+   },
+   "2024INSC46": {
+    "grade": 0,
+    "reason": "not a special-statute bail case"
+   },
+   "2024INSC483": {
+    "grade": 0,
+    "reason": "not a special-statute bail case"
+   },
+   "2024INSC217": {
+    "grade": 0,
+    "reason": "unrelated legal issue"
+   },
+   "2024INSC466": {
+    "grade": 0,
+    "reason": "unrelated legal issue"
+   }
+  },
+  "q48": {
+   "2024INSC8": {
+    "grade": 1,
+    "reason": "judicial discipline; lower courts contradicting higher courts"
+   },
+   "2024INSC1049": {
+    "grade": 0,
+    "reason": "no precedent declared per incuriam or departed from"
+   },
+   "2024INSC607": {
+    "grade": 1,
+    "reason": "prospective effect of overruling"
+   },
+   "2024INSC24": {
+    "grade": 0,
+    "reason": "no precedent declared per incuriam or departed from"
+   },
+   "2024INSC332": {
+    "grade": 1,
+    "reason": "Umadevi distinguished"
+   },
+   "2024INSC692": {
+    "grade": 0,
+    "reason": "no precedent declared per incuriam or departed from"
+   },
+   "2024INSC799": {
+    "grade": 1,
+    "reason": "earlier judgment recalled"
+   },
+   "2024INSC599": {
+    "grade": 0,
+    "reason": "no precedent declared per incuriam or departed from"
+   },
+   "2024INSC902": {
+    "grade": 0,
+    "reason": "no precedent declared per incuriam or departed from"
+   },
+   "2024INSC873": {
+    "grade": 0,
+    "reason": "no precedent declared per incuriam or departed from"
+   },
+   "2024INSC292": {
+    "grade": 0,
+    "reason": "no precedent declared per incuriam or departed from"
+   },
+   "2024INSC460": {
+    "grade": 0,
+    "reason": "no precedent declared per incuriam or departed from"
+   },
+   "2024INSC809": {
+    "grade": 0,
+    "reason": "no precedent declared per incuriam or departed from"
+   },
+   "2024INSC438": {
+    "grade": 0,
+    "reason": "no precedent declared per incuriam or departed from"
+   },
+   "2024INSC534": {
+    "grade": 1,
+    "reason": "Gurwinder Singh distinguished"
+   },
+   "2024INSC554": {
+    "grade": 1,
+    "reason": "India Cement overruled (not per incuriam)"
+   },
+   "2024INSC677": {
+    "grade": 0,
+    "reason": "no precedent declared per incuriam or departed from"
+   },
+   "2024INSC898": {
+    "grade": 1,
+    "reason": "per incuriam plea considered; earlier decision held good law"
+   },
+   "2024INSC51": {
+    "grade": 0,
+    "reason": "no precedent declared per incuriam or departed from"
+   },
+   "2024INSC265": {
+    "grade": 1,
+    "reason": "precedents held inapplicable"
+   },
+   "2024INSC88": {
+    "grade": 0,
+    "reason": "no precedent declared per incuriam or departed from"
+   },
+   "2024INSC454": {
+    "grade": 1,
+    "reason": "earlier propositions distinguished on review maintainability"
+   },
+   "2024INSC344": {
+    "grade": 1,
+    "reason": "coordinate bench conflicting decisions"
+   },
+   "2024INSC456": {
+    "grade": 1,
+    "reason": "precedents distinguished"
+   },
+   "2024INSC99": {
+    "grade": 0,
+    "reason": "no precedent declared per incuriam or departed from"
+   },
+   "2024INSC835": {
+    "grade": 1,
+    "reason": "earlier interpretation held erroneous"
+   },
+   "2024INSC840": {
+    "grade": 1,
+    "reason": "earlier insurance precedents overruled"
+   },
+   "2024INSC951": {
+    "grade": 2,
+    "reason": "Ramsingbhai Jerambhai declared per incuriam"
+   },
+   "2024INSC670": {
+    "grade": 0,
+    "reason": "no precedent declared per incuriam or departed from"
+   },
+   "2024INSC857": {
+    "grade": 0,
+    "reason": "no precedent declared per incuriam or departed from"
+   },
+   "2024INSC854": {
+    "grade": 1,
+    "reason": "earlier view disapproved on review"
+   },
+   "2024INSC812": {
+    "grade": 1,
+    "reason": "Synthetics and Chemicals overruled"
+   },
+   "2024INSC789": {
+    "grade": 0,
+    "reason": "unrelated legal issue"
+   },
+   "2024INSC562": {
+    "grade": 1,
+    "reason": "E.V. Chinnaiah overruled (not per incuriam)"
+   },
+   "2024INSC911": {
+    "grade": 1,
+    "reason": "Umadevi distinguished"
+   },
+   "2024INSC852": {
+    "grade": 0,
+    "reason": "unrelated legal issue"
+   },
+   "2024INSC455": {
+    "grade": 0,
+    "reason": "unrelated legal issue"
+   }
+  },
+  "q50": {
+   "2024INSC486": {
+    "grade": 0,
+    "reason": "no change-of-law reason for departing from precedent"
+   },
+   "2024INSC454": {
+    "grade": 2,
+    "reason": "review after change/reversal of proposition of law; precedents distinguished"
+   },
+   "2024INSC890": {
+    "grade": 0,
+    "reason": "no change-of-law reason for departing from precedent"
+   },
+   "2024INSC847": {
+    "grade": 0,
+    "reason": "no change-of-law reason for departing from precedent"
+   },
+   "2024INSC460": {
+    "grade": 0,
+    "reason": "no change-of-law reason for departing from precedent"
+   },
+   "2024INSC324": {
+    "grade": 0,
+    "reason": "no change-of-law reason for departing from precedent"
+   },
+   "2024INSC607": {
+    "grade": 1,
+    "reason": "prospective effect after overruling"
+   },
+   "2024INSC83": {
+    "grade": 0,
+    "reason": "no change-of-law reason for departing from precedent"
+   },
+   "2024INSC840": {
+    "grade": 1,
+    "reason": "earlier precedents overruled considering 1994 amendment"
+   },
+   "2024_11_1647_2038": {
+    "grade": 0,
+    "reason": "no change-of-law reason for departing from precedent"
+   },
+   "2024INSC344": {
+    "grade": 0,
+    "reason": "no change-of-law reason for departing from precedent"
+   },
+   "2024INSC24": {
+    "grade": 0,
+    "reason": "no change-of-law reason for departing from precedent"
+   },
+   "2024INSC927": {
+    "grade": 0,
+    "reason": "no change-of-law reason for departing from precedent"
+   },
+   "2024INSC902": {
+    "grade": 0,
+    "reason": "no change-of-law reason for departing from precedent"
+   },
+   "2024INSC101": {
+    "grade": 0,
+    "reason": "no change-of-law reason for departing from precedent"
+   },
+   "2024INSC829": {
+    "grade": 1,
+    "reason": "effect of new Electricity Act on old dues"
+   },
+   "2024INSC677": {
+    "grade": 0,
+    "reason": "no change-of-law reason for departing from precedent"
+   },
+   "2024INSC554": {
+    "grade": 0,
+    "reason": "no change-of-law reason for departing from precedent"
+   },
+   "2024INSC884": {
+    "grade": 0,
+    "reason": "no change-of-law reason for departing from precedent"
+   },
+   "2024INSC833": {
+    "grade": 2,
+    "reason": "change in law under PPA; earlier precedents held inapplicable"
+   },
+   "2024INSC789": {
+    "grade": 0,
+    "reason": "no change-of-law reason for departing from precedent"
+   },
+   "2024INSC539": {
+    "grade": 2,
+    "reason": "subsequent change of policy; earlier precedents held inapplicable"
+   },
+   "2024INSC17": {
+    "grade": 0,
+    "reason": "no change-of-law reason for departing from precedent"
+   },
+   "2024INSC835": {
+    "grade": 2,
+    "reason": "subsequent change of law by later judgments; precedents distinguished"
+   },
+   "2024INSC562": {
+    "grade": 0,
+    "reason": "no change-of-law reason for departing from precedent"
+   },
+   "2024INSC456": {
+    "grade": 0,
+    "reason": "no change-of-law reason for departing from precedent"
+   },
+   "2024INSC491": {
+    "grade": 0,
+    "reason": "no change-of-law reason for departing from precedent"
+   },
+   "2024INSC23": {
+    "grade": 0,
+    "reason": "no change-of-law reason for departing from precedent"
+   },
+   "2024INSC623": {
+    "grade": 0,
+    "reason": "no change-of-law reason for departing from precedent"
+   },
+   "2024INSC99": {
+    "grade": 0,
+    "reason": "no change-of-law reason for departing from precedent"
+   },
+   "2024INSC425": {
+    "grade": 0,
+    "reason": "no change-of-law reason for departing from precedent"
+   },
+   "2024INSC951": {
+    "grade": 0,
+    "reason": "no change-of-law reason for departing from precedent"
+   },
+   "2024INSC243": {
+    "grade": 0,
+    "reason": "no change-of-law reason for departing from precedent"
+   },
+   "2024INSC519": {
+    "grade": 0,
+    "reason": "no change-of-law reason for departing from precedent"
+   },
+   "2024_12_954_957": {
+    "grade": 0,
+    "reason": "no change-of-law reason for departing from precedent"
+   },
+   "2024INSC690": {
+    "grade": 0,
+    "reason": "no change-of-law reason for departing from precedent"
+   },
+   "2024INSC286": {
+    "grade": 0,
+    "reason": "no change-of-law reason for departing from precedent"
+   },
+   "2024INSC634": {
+    "grade": 1,
+    "reason": "effect of de-scheduling of castes"
+   },
+   "2024INSC953": {
+    "grade": 0,
+    "reason": "no change-of-law reason for departing from precedent"
+   },
+   "2024INSC827": {
+    "grade": 0,
+    "reason": "unrelated legal issue"
+   },
+   "2024INSC942": {
+    "grade": 0,
+    "reason": "unrelated legal issue"
+   }
+  },
+  "q01": {
+   "2024INSC735": {
+    "grade": 0,
+    "reason": "not a matrimonial death or dowry case"
+   },
+   "2024INSC766": {
+    "grade": 2,
+    "reason": "death of wife; ill-treatment by husband and in-laws; abetment charges"
+   },
+   "2024INSC167": {
+    "grade": 1,
+    "reason": "husband burnt wife to death; no dowry allegation"
+   },
+   "2024INSC1014": {
+    "grade": 0,
+    "reason": "not a matrimonial death or dowry case"
+   },
+   "2024INSC626": {
+    "grade": 0,
+    "reason": "not a matrimonial death or dowry case"
+   },
+   "2024INSC156": {
+    "grade": 0,
+    "reason": "not a matrimonial death or dowry case"
+   },
+   "2024INSC665": {
+    "grade": 2,
+    "reason": "498A/304B/306 conviction of husband and in-laws for wife's death"
+   },
+   "2024INSC101": {
+    "grade": 1,
+    "reason": "498A/dowry case re-initiated"
+   },
+   "2024INSC960": {
+    "grade": 2,
+    "reason": "wife's suicide after harassment; 498A/306 discharge plea"
+   },
+   "2024INSC639": {
+    "grade": 1,
+    "reason": "dowry articles (s.6 Dowry Prohibition Act) dispute"
+   },
+   "2024INSC1019": {
+    "grade": 1,
+    "reason": "498A cruelty case without death"
+   },
+   "2024INSC1020": {
+    "grade": 0,
+    "reason": "not a matrimonial death or dowry case"
+   },
+   "2024INSC149": {
+    "grade": 2,
+    "reason": "abetment of suicide of married woman within seven years"
+   },
+   "2024INSC211": {
+    "grade": 0,
+    "reason": "not a matrimonial death or dowry case"
+   },
+   "2024INSC737": {
+    "grade": 1,
+    "reason": "dowry/cruelty FIR without death"
+   },
+   "2024INSC717": {
+    "grade": 2,
+    "reason": "wife's suicide after cruelty by husband (498A/306)"
+   },
+   "2024INSC369": {
+    "grade": 1,
+    "reason": "dowry harassment case without death"
+   },
+   "2024INSC558": {
+    "grade": 0,
+    "reason": "not a matrimonial death or dowry case"
+   },
+   "2024INSC530": {
+    "grade": 0,
+    "reason": "not a matrimonial death or dowry case"
+   },
+   "2024INSC953": {
+    "grade": 1,
+    "reason": "498A/dowry case without death"
+   },
+   "2024INSC113": {
+    "grade": 0,
+    "reason": "not a matrimonial death or dowry case"
+   },
+   "2024INSC905": {
+    "grade": 0,
+    "reason": "not a matrimonial death or dowry case"
+   },
+   "2024INSC790": {
+    "grade": 0,
+    "reason": "not a matrimonial death or dowry case"
+   },
+   "2024INSC713": {
+    "grade": 2,
+    "reason": "dowry death under s.304B against husband and in-laws"
+   },
+   "2024INSC422": {
+    "grade": 0,
+    "reason": "not a matrimonial death or dowry case"
+   },
+   "2024INSC754": {
+    "grade": 0,
+    "reason": "not a matrimonial death or dowry case"
+   }
+  },
+  "q02": {
+   "2024INSC753": {
+    "grade": 0,
+    "reason": "not about false or suppressed information in appointment"
+   },
+   "2024_12_777_836": {
+    "grade": 0,
+    "reason": "not about false or suppressed information in appointment"
+   },
+   "2024INSC531": {
+    "grade": 0,
+    "reason": "not about false or suppressed information in appointment"
+   },
+   "2024INSC590": {
+    "grade": 0,
+    "reason": "not about false or suppressed information in appointment"
+   },
+   "2024INSC312": {
+    "grade": 0,
+    "reason": "not about false or suppressed information in appointment"
+   },
+   "2024INSC2": {
+    "grade": 1,
+    "reason": "candidate failed for an error in application form"
+   },
+   "2024INSC98": {
+    "grade": 0,
+    "reason": "not about false or suppressed information in appointment"
+   },
+   "2024INSC887": {
+    "grade": 0,
+    "reason": "not about false or suppressed information in appointment"
+   },
+   "2024INSC252": {
+    "grade": 0,
+    "reason": "not about false or suppressed information in appointment"
+   },
+   "2024INSC488": {
+    "grade": 0,
+    "reason": "not about false or suppressed information in appointment"
+   },
+   "2024INSC97": {
+    "grade": 0,
+    "reason": "not about false or suppressed information in appointment"
+   },
+   "2024INSC967": {
+    "grade": 0,
+    "reason": "not about false or suppressed information in appointment"
+   },
+   "2024INSC771": {
+    "grade": 0,
+    "reason": "not about false or suppressed information in appointment"
+   },
+   "2024INSC1020": {
+    "grade": 0,
+    "reason": "not about false or suppressed information in appointment"
+   },
+   "2024INSC953": {
+    "grade": 0,
+    "reason": "not about false or suppressed information in appointment"
+   },
+   "2024INSC24": {
+    "grade": 0,
+    "reason": "not about false or suppressed information in appointment"
+   },
+   "2024INSC907": {
+    "grade": 0,
+    "reason": "not about false or suppressed information in appointment"
+   },
+   "2024INSC733": {
+    "grade": 0,
+    "reason": "not about false or suppressed information in appointment"
+   },
+   "2024INSC266": {
+    "grade": 0,
+    "reason": "not about false or suppressed information in appointment"
+   },
+   "2024INSC675": {
+    "grade": 0,
+    "reason": "not about false or suppressed information in appointment"
+   },
+   "2024INSC188": {
+    "grade": 0,
+    "reason": "not about false or suppressed information in appointment"
+   },
+   "2024INSC128": {
+    "grade": 0,
+    "reason": "not about false or suppressed information in appointment"
+   },
+   "2024INSC908": {
+    "grade": 0,
+    "reason": "not about false or suppressed information in appointment"
+   },
+   "2024INSC550": {
+    "grade": 2,
+    "reason": "CRPF constable terminated for suppressing information in verification"
+   },
+   "2024INSC289": {
+    "grade": 0,
+    "reason": "not about false or suppressed information in appointment"
+   },
+   "2024INSC800": {
+    "grade": 0,
+    "reason": "not about false or suppressed information in appointment"
+   },
+   "2024INSC789": {
+    "grade": 0,
+    "reason": "not about false or suppressed information in appointment"
+   },
+   "2024INSC149": {
+    "grade": 0,
+    "reason": "not about false or suppressed information in appointment"
+   },
+   "2024INSC823": {
+    "grade": 0,
+    "reason": "not about false or suppressed information in appointment"
+   },
+   "2024INSC235": {
+    "grade": 0,
+    "reason": "not about false or suppressed information in appointment"
+   },
+   "2024INSC325": {
+    "grade": 0,
+    "reason": "not about false or suppressed information in appointment"
+   },
+   "2024INSC940": {
+    "grade": 1,
+    "reason": "termination after adverse police verification of antecedents"
+   },
+   "2024_12_1253_1266": {
+    "grade": 1,
+    "reason": "dealership cancelled for false information in application"
+   },
+   "2024INSC192": {
+    "grade": 0,
+    "reason": "not about false or suppressed information in appointment"
+   },
+   "2024INSC211": {
+    "grade": 0,
+    "reason": "not about false or suppressed information in appointment"
+   },
+   "2024INSC911": {
+    "grade": 0,
+    "reason": "not about false or suppressed information in appointment"
+   },
+   "2024INSC381": {
+    "grade": 0,
+    "reason": "not about false or suppressed information in appointment"
+   },
+   "2024INSC1055": {
+    "grade": 0,
+    "reason": "not about false or suppressed information in appointment"
+   },
+   "2024INSC947": {
+    "grade": 0,
+    "reason": "not about false or suppressed information in appointment"
+   },
+   "2024INSC272": {
+    "grade": 0,
+    "reason": "not about false or suppressed information in appointment"
+   },
+   "2024INSC131": {
+    "grade": 2,
+    "reason": "selection cancelled for non-disclosure of criminal case ending in acquittal"
+   },
+   "2024INSC727": {
+    "grade": 0,
+    "reason": "not about false or suppressed information in appointment"
+   },
+   "2024INSC368": {
+    "grade": 0,
+    "reason": "not about false or suppressed information in appointment"
+   }
+  },
+  "q05": {
+   "2024INSC652": {
+    "grade": 1,
+    "reason": "liability of dealer for accidental death compensation"
+   },
+   "2024_12_652_664": {
+    "grade": 1,
+    "reason": "MACT award set aside for want of proof of accident"
+   },
+   "2024INSC13": {
+    "grade": 0,
+    "reason": "not a motor accident claim"
+   },
+   "2024INSC12": {
+    "grade": 0,
+    "reason": "not a motor accident claim"
+   },
+   "2024INSC787": {
+    "grade": 2,
+    "reason": "motorcycle victim's death; negligence and compensation"
+   },
+   "2024INSC706": {
+    "grade": 1,
+    "reason": "compensation reduced for contributory negligence"
+   },
+   "2024INSC788": {
+    "grade": 0,
+    "reason": "not a motor accident claim"
+   },
+   "2024INSC886": {
+    "grade": 1,
+    "reason": "injury claim; pain and suffering"
+   },
+   "2024INSC87": {
+    "grade": 0,
+    "reason": "not a motor accident claim"
+   },
+   "2024_12_1143_1147": {
+    "grade": 1,
+    "reason": "MACT compensation interest"
+   },
+   "2024INSC573": {
+    "grade": 2,
+    "reason": "death claim; loss of dependency and future prospects"
+   },
+   "2024_12_958_986": {
+    "grade": 1,
+    "reason": "injury claim; disability"
+   },
+   "2024INSC368": {
+    "grade": 0,
+    "reason": "not a motor accident claim"
+   },
+   "2024INSC356": {
+    "grade": 0,
+    "reason": "not a motor accident claim"
+   },
+   "2024INSC713": {
+    "grade": 0,
+    "reason": "not a motor accident claim"
+   },
+   "2024_12_1072_1092": {
+    "grade": 0,
+    "reason": "not a motor accident claim"
+   },
+   "2024INSC191": {
+    "grade": 0,
+    "reason": "not a motor accident claim"
+   },
+   "2024INSC816": {
+    "grade": 2,
+    "reason": "motorcycle death; age and multiplier for compensation"
+   },
+   "2024INSC291": {
+    "grade": 1,
+    "reason": "injury claim; disability"
+   },
+   "2024INSC598": {
+    "grade": 1,
+    "reason": "injury claim; disability percentage"
+   },
+   "2024INSC887": {
+    "grade": 0,
+    "reason": "not a motor accident claim"
+   },
+   "2024INSC790": {
+    "grade": 0,
+    "reason": "not a motor accident claim"
+   },
+   "2024INSC198": {
+    "grade": 0,
+    "reason": "not a motor accident claim"
+   },
+   "2024_9_999_1010": {
+    "grade": 1,
+    "reason": "insurer liability dispute"
+   },
+   "2024INSC529": {
+    "grade": 0,
+    "reason": "not a motor accident claim"
+   },
+   "2024INSC296": {
+    "grade": 0,
+    "reason": "not a motor accident claim"
+   },
+   "2024INSC840": {
+    "grade": 1,
+    "reason": "insurer liability; driving licence"
+   },
+   "2024INSC648": {
+    "grade": 0,
+    "reason": "not a motor accident claim"
+   },
+   "2024INSC496": {
+    "grade": 0,
+    "reason": "not a motor accident claim"
+   },
+   "2024INSC215": {
+    "grade": 0,
+    "reason": "not a motor accident claim"
+   },
+   "2024INSC21": {
+    "grade": 0,
+    "reason": "not a motor accident claim"
+   },
+   "2024INSC361": {
+    "grade": 1,
+    "reason": "MACT claim; jurisdiction"
+   },
+   "2024INSC777": {
+    "grade": 1,
+    "reason": "injury claim; enhancement"
+   },
+   "2024INSC482": {
+    "grade": 0,
+    "reason": "not a motor accident claim"
+   },
+   "2024INSC809": {
+    "grade": 0,
+    "reason": "not a motor accident claim"
+   },
+   "2024INSC251": {
+    "grade": 2,
+    "reason": "multiplier based on age of deceased"
+   },
+   "2024INSC735": {
+    "grade": 0,
+    "reason": "not a motor accident claim"
+   }
+  },
+  "q06": {
+   "2024INSC438": {
+    "grade": 0,
+    "reason": "not a special-statute or delay bail case"
+   },
+   "2024INSC819": {
+    "grade": 0,
+    "reason": "not a special-statute or delay bail case"
+   },
+   "2024INSC645": {
+    "grade": 2,
+    "reason": "UAPA undertrial bail granted on speedy-trial ground"
+   },
+   "2024INSC604": {
+    "grade": 1,
+    "reason": "UAPA s.43D(5) bail"
+   },
+   "2024INSC546": {
+    "grade": 1,
+    "reason": "stay of bail order in ED case"
+   },
+   "2024INSC595": {
+    "grade": 2,
+    "reason": "PMLA bail after 17 months, trial not commenced"
+   },
+   "2024_12_627_636": {
+    "grade": 1,
+    "reason": "PMLA bail"
+   },
+   "2024_12_1072_1092": {
+    "grade": 0,
+    "reason": "not a special-statute or delay bail case"
+   },
+   "2024INSC899": {
+    "grade": 1,
+    "reason": "bail and time-bound trial schedule"
+   },
+   "2024INSC534": {
+    "grade": 2,
+    "reason": "UAPA/fake currency undertrial in custody 9 years; bail"
+   },
+   "2024INSC739": {
+    "grade": 2,
+    "reason": "PMLA bail after 15 months incarceration"
+   },
+   "2024INSC215": {
+    "grade": 0,
+    "reason": "not a special-statute or delay bail case"
+   },
+   "2025INSC1045": {
+    "grade": 0,
+    "reason": "not a special-statute or delay bail case"
+   },
+   "2024INSC687": {
+    "grade": 0,
+    "reason": "not a special-statute or delay bail case"
+   },
+   "2024_12_1093_1107": {
+    "grade": 1,
+    "reason": "UAPA s.43D(5) bail"
+   },
+   "2024_12_837_842": {
+    "grade": 2,
+    "reason": "prolonged incarceration, non-production; bail granted"
+   },
+   "2024INSC636": {
+    "grade": 0,
+    "reason": "not a special-statute or delay bail case"
+   },
+   "2024_12_954_957": {
+    "grade": 0,
+    "reason": "not a special-statute or delay bail case"
+   },
+   "2024INSC323": {
+    "grade": 0,
+    "reason": "not a special-statute or delay bail case"
+   },
+   "2024INSC92": {
+    "grade": 1,
+    "reason": "UAPA bail refused"
+   },
+   "2024INSC24": {
+    "grade": 0,
+    "reason": "not a special-statute or delay bail case"
+   },
+   "2024INSC512": {
+    "grade": 1,
+    "reason": "PMLA interim bail"
+   },
+   "2024INSC669": {
+    "grade": 0,
+    "reason": "not a special-statute or delay bail case"
+   },
+   "2024INSC813": {
+    "grade": 0,
+    "reason": "not a special-statute or delay bail case"
+   },
+   "2024INSC479": {
+    "grade": 1,
+    "reason": "NDPS bail conditions"
+   },
+   "2024INSC96": {
+    "grade": 0,
+    "reason": "not a special-statute or delay bail case"
+   },
+   "2024INSC312": {
+    "grade": 0,
+    "reason": "not a special-statute or delay bail case"
+   },
+   "2024INSC909": {
+    "grade": 0,
+    "reason": "not a special-statute or delay bail case"
+   }
+  },
+  "q07": {
+   "2024INSC781": {
+    "grade": 0,
+    "reason": "not a specific-performance / agreement-to-sell dispute"
+   },
+   "2024INSC804": {
+    "grade": 0,
+    "reason": "not a specific-performance / agreement-to-sell dispute"
+   },
+   "2024INSC491": {
+    "grade": 1,
+    "reason": "specific performance; sham agreement and subsequent purchasers"
+   },
+   "2024INSC949": {
+    "grade": 1,
+    "reason": "execution of specific-performance decree"
+   },
+   "2024INSC310": {
+    "grade": 0,
+    "reason": "not a specific-performance / agreement-to-sell dispute"
+   },
+   "2024INSC484": {
+    "grade": 0,
+    "reason": "not a specific-performance / agreement-to-sell dispute"
+   },
+   "2024INSC946": {
+    "grade": 0,
+    "reason": "not a specific-performance / agreement-to-sell dispute"
+   },
+   "2024INSC884": {
+    "grade": 2,
+    "reason": "readiness and willingness and balance consideration not proved"
+   },
+   "2024INSC599": {
+    "grade": 1,
+    "reason": "limitation for specific-performance suit"
+   },
+   "2024INSC651": {
+    "grade": 1,
+    "reason": "extension of time to deposit balance consideration in execution"
+   },
+   "2024INSC920": {
+    "grade": 1,
+    "reason": "territorial jurisdiction for specific-performance suit"
+   },
+   "2024INSC902": {
+    "grade": 0,
+    "reason": "not a specific-performance / agreement-to-sell dispute"
+   },
+   "2024INSC778": {
+    "grade": 2,
+    "reason": "continuous readiness and willingness under s.16(c)"
+   },
+   "2024INSC148": {
+    "grade": 0,
+    "reason": "not a specific-performance / agreement-to-sell dispute"
+   },
+   "2024INSC533": {
+    "grade": 2,
+    "reason": "readiness and willingness to perform agreement to sell"
+   },
+   "2024INSC927": {
+    "grade": 2,
+    "reason": "readiness and willingness; availability of funds"
+   },
+   "2024INSC990": {
+    "grade": 0,
+    "reason": "not a specific-performance / agreement-to-sell dispute"
+   },
+   "2024INSC880": {
+    "grade": 0,
+    "reason": "not a specific-performance / agreement-to-sell dispute"
+   },
+   "2024INSC444": {
+    "grade": 2,
+    "reason": "proof of readiness and willingness through PoA holder"
+   },
+   "2024INSC744": {
+    "grade": 1,
+    "reason": "disputed agreement to sell; earnest money"
+   },
+   "2024INSC865": {
+    "grade": 1,
+    "reason": "specific performance of agreement to sell"
+   },
+   "2024INSC80": {
+    "grade": 0,
+    "reason": "not a specific-performance / agreement-to-sell dispute"
+   },
+   "2024INSC411": {
+    "grade": 0,
+    "reason": "not a specific-performance / agreement-to-sell dispute"
+   },
+   "2024INSC28": {
+    "grade": 2,
+    "reason": "time for payment of balance consideration under agreement for sale"
+   },
+   "2024INSC812": {
+    "grade": 0,
+    "reason": "not a specific-performance / agreement-to-sell dispute"
+   },
+   "2024INSC861": {
+    "grade": 1,
+    "reason": "review in specific-performance suit"
+   },
+   "2024INSC770": {
+    "grade": 1,
+    "reason": "lis pendens in specific-performance litigation"
+   },
+   "2024INSC1022": {
+    "grade": 1,
+    "reason": "refusal of specific performance on hardship"
+   },
+   "2024INSC835": {
+    "grade": 0,
+    "reason": "not a specific-performance / agreement-to-sell dispute"
+   }
+  },
+  "q09": {
+   "2024INSC232": {
+    "grade": 0,
+    "reason": "not a disciplinary-penalty challenge"
+   },
+   "2024INSC608": {
+    "grade": 0,
+    "reason": "not a disciplinary-penalty challenge"
+   },
+   "2024INSC131": {
+    "grade": 0,
+    "reason": "not a disciplinary-penalty challenge"
+   },
+   "2024INSC654": {
+    "grade": 0,
+    "reason": "not a disciplinary-penalty challenge"
+   },
+   "2024INSC564": {
+    "grade": 2,
+    "reason": "dismissal set aside; no opportunity of hearing in enquiry"
+   },
+   "2024INSC671": {
+    "grade": 0,
+    "reason": "not a disciplinary-penalty challenge"
+   },
+   "2024INSC237": {
+    "grade": 0,
+    "reason": "not a disciplinary-penalty challenge"
+   },
+   "2024INSC115": {
+    "grade": 2,
+    "reason": "dismissal after departmental inquiry; perverse findings"
+   },
+   "2024INSC95": {
+    "grade": 1,
+    "reason": "dismissal for false certificate; evidence not considered"
+   },
+   "2024INSC984": {
+    "grade": 0,
+    "reason": "not a disciplinary-penalty challenge"
+   },
+   "2024INSC264": {
+    "grade": 0,
+    "reason": "not a disciplinary-penalty challenge"
+   },
+   "2024INSC591": {
+    "grade": 0,
+    "reason": "not a disciplinary-penalty challenge"
+   },
+   "2024INSC448": {
+    "grade": 0,
+    "reason": "not a disciplinary-penalty challenge"
+   },
+   "2024INSC265": {
+    "grade": 0,
+    "reason": "not a disciplinary-penalty challenge"
+   },
+   "2024INSC935": {
+    "grade": 1,
+    "reason": "dismissal for misconduct; retiral benefits"
+   },
+   "2024INSC563": {
+    "grade": 1,
+    "reason": "termination for forged documents"
+   },
+   "2024INSC392": {
+    "grade": 1,
+    "reason": "CRPF dismissal; punishments under rules"
+   },
+   "2024INSC634": {
+    "grade": 0,
+    "reason": "not a disciplinary-penalty challenge"
+   },
+   "2024INSC590": {
+    "grade": 0,
+    "reason": "not a disciplinary-penalty challenge"
+   },
+   "2024INSC592": {
+    "grade": 1,
+    "reason": "removal order after departmental enquiry quashed by High Court"
+   },
+   "2024INSC266": {
+    "grade": 0,
+    "reason": "not a disciplinary-penalty challenge"
+   },
+   "2024INSC919": {
+    "grade": 0,
+    "reason": "not a disciplinary-penalty challenge"
+   },
+   "2024INSC873": {
+    "grade": 2,
+    "reason": "major penalty without recording evidence or examining witnesses"
+   },
+   "2024INSC252": {
+    "grade": 0,
+    "reason": "not a disciplinary-penalty challenge"
+   },
+   "2024INSC127": {
+    "grade": 0,
+    "reason": "not a disciplinary-penalty challenge"
+   },
+   "2024INSC988": {
+    "grade": 0,
+    "reason": "not a disciplinary-penalty challenge"
+   },
+   "2024INSC289": {
+    "grade": 0,
+    "reason": "not a disciplinary-penalty challenge"
+   },
+   "2024INSC332": {
+    "grade": 0,
+    "reason": "not a disciplinary-penalty challenge"
+   },
+   "2024INSC874": {
+    "grade": 1,
+    "reason": "disciplinary proceedings after superannuation"
+   },
+   "2024INSC1042": {
+    "grade": 0,
+    "reason": "not a disciplinary-penalty challenge"
+   },
+   "2024INSC673": {
+    "grade": 1,
+    "reason": "termination of judicial officer; reinstatement"
+   },
+   "2024INSC310": {
+    "grade": 0,
+    "reason": "not a disciplinary-penalty challenge"
+   },
+   "2024INSC550": {
+    "grade": 1,
+    "reason": "termination after departmental inquiry for suppression"
+   },
+   "2024INSC621": {
+    "grade": 0,
+    "reason": "not a disciplinary-penalty challenge"
+   }
+  },
+  "q10": {
+   "2024INSC446": {
+    "grade": 2,
+    "reason": "permanent status/regularisation of long-serving workmen"
+   },
+   "2024INSC555": {
+    "grade": 1,
+    "reason": "pension of employees of temporary department"
+   },
+   "2024INSC199": {
+    "grade": 1,
+    "reason": "regularisation and wrongful denial of employment in industrial settlement"
+   },
+   "2024INSC840": {
+    "grade": 0,
+    "reason": "not a temporary-employee service claim"
+   },
+   "2024INSC563": {
+    "grade": 0,
+    "reason": "not a temporary-employee service claim"
+   },
+   "2024INSC306": {
+    "grade": 1,
+    "reason": "temporary vacancies and regularisation in transfer appointments"
+   },
+   "2024INSC7": {
+    "grade": 1,
+    "reason": "salary stoppage of appointed teachers"
+   },
+   "2024INSC902": {
+    "grade": 0,
+    "reason": "not a temporary-employee service claim"
+   },
+   "2024INSC230": {
+    "grade": 0,
+    "reason": "not a temporary-employee service claim"
+   },
+   "2024INSC460": {
+    "grade": 0,
+    "reason": "not a temporary-employee service claim"
+   },
+   "2024INSC911": {
+    "grade": 1,
+    "reason": "outsourced manpower experience; Umadevi distinguished"
+   },
+   "2024INSC757": {
+    "grade": 0,
+    "reason": "not a temporary-employee service claim"
+   },
+   "2024INSC847": {
+    "grade": 0,
+    "reason": "not a temporary-employee service claim"
+   },
+   "2024INSC802": {
+    "grade": 1,
+    "reason": "termination of workman"
+   },
+   "2024INSC425": {
+    "grade": 0,
+    "reason": "not a temporary-employee service claim"
+   },
+   "2024INSC1042": {
+    "grade": 0,
+    "reason": "not a temporary-employee service claim"
+   },
+   "2024INSC26": {
+    "grade": 0,
+    "reason": "not a temporary-employee service claim"
+   },
+   "2024INSC1027": {
+    "grade": 0,
+    "reason": "not a temporary-employee service claim"
+   },
+   "2024INSC663": {
+    "grade": 0,
+    "reason": "not a temporary-employee service claim"
+   },
+   "2024INSC608": {
+    "grade": 0,
+    "reason": "not a temporary-employee service claim"
+   },
+   "2024INSC549": {
+    "grade": 0,
+    "reason": "not a temporary-employee service claim"
+   },
+   "2024INSC1034": {
+    "grade": 2,
+    "reason": "regularisation of long-serving contractual employees"
+   },
+   "2024INSC515": {
+    "grade": 0,
+    "reason": "not a temporary-employee service claim"
+   },
+   "2024INSC332": {
+    "grade": 2,
+    "reason": "regularisation of temporarily appointed clerks with continuous service"
+   },
+   "2024INSC803": {
+    "grade": 0,
+    "reason": "not a temporary-employee service claim"
+   },
+   "2024INSC1003": {
+    "grade": 0,
+    "reason": "not a temporary-employee service claim"
+   },
+   "2024INSC621": {
+    "grade": 1,
+    "reason": "pension claim of temporary employees"
+   },
+   "2024INSC857": {
+    "grade": 0,
+    "reason": "not a temporary-employee service claim"
+   },
+   "2024INSC984": {
+    "grade": 0,
+    "reason": "not a temporary-employee service claim"
+   },
+   "2024INSC616": {
+    "grade": 2,
+    "reason": "regularisation against lien vacancy"
+   },
+   "2024_12_1253_1266": {
+    "grade": 0,
+    "reason": "not a temporary-employee service claim"
+   }
+  },
+  "q11": {
+   "2024INSC908": {
+    "grade": 1,
+    "reason": "dying declaration in abetment-of-suicide case"
+   },
+   "2024INSC721": {
+    "grade": 0,
+    "reason": "no dying-declaration issue"
+   },
+   "2024INSC720": {
+    "grade": 1,
+    "reason": "dying declarations alongside DNA evidence"
+   },
+   "2024INSC169": {
+    "grade": 2,
+    "reason": "conviction solely on dying declaration; corroboration rule of prudence"
+   },
+   "2024INSC271": {
+    "grade": 0,
+    "reason": "no dying-declaration issue"
+   },
+   "2024INSC172": {
+    "grade": 0,
+    "reason": "no dying-declaration issue"
+   },
+   "2024INSC295": {
+    "grade": 0,
+    "reason": "no dying-declaration issue"
+   },
+   "2024INSC475": {
+    "grade": 1,
+    "reason": "dying declaration with extra-judicial confession"
+   },
+   "2024INSC734": {
+    "grade": 0,
+    "reason": "no dying-declaration issue"
+   },
+   "2024INSC422": {
+    "grade": 2,
+    "reason": "dying declaration as sole basis of conviction"
+   },
+   "2024INSC167": {
+    "grade": 1,
+    "reason": "dying declaration in wife-burning case"
+   },
+   "2024INSC143": {
+    "grade": 0,
+    "reason": "no dying-declaration issue"
+   },
+   "2024INSC809": {
+    "grade": 0,
+    "reason": "no dying-declaration issue"
+   },
+   "2024INSC735": {
+    "grade": 0,
+    "reason": "no dying-declaration issue"
+   },
+   "2024INSC376": {
+    "grade": 0,
+    "reason": "no dying-declaration issue"
+   },
+   "2024INSC665": {
+    "grade": 0,
+    "reason": "no dying-declaration issue"
+   },
+   "2024INSC99": {
+    "grade": 0,
+    "reason": "no dying-declaration issue"
+   },
+   "2024INSC788": {
+    "grade": 0,
+    "reason": "no dying-declaration issue"
+   },
+   "2024INSC24": {
+    "grade": 0,
+    "reason": "no dying-declaration issue"
+   },
+   "2024INSC789": {
+    "grade": 0,
+    "reason": "no dying-declaration issue"
+   },
+   "2024INSC320": {
+    "grade": 0,
+    "reason": "no dying-declaration issue"
+   },
+   "2024INSC21": {
+    "grade": 0,
+    "reason": "no dying-declaration issue"
+   },
+   "2024INSC480": {
+    "grade": 2,
+    "reason": "reliability of dying declaration; medical fitness certificate"
+   },
+   "2024INSC258": {
+    "grade": 0,
+    "reason": "no dying-declaration issue"
+   },
+   "2024INSC655": {
+    "grade": 0,
+    "reason": "no dying-declaration issue"
+   },
+   "2024INSC299": {
+    "grade": 0,
+    "reason": "no dying-declaration issue"
+   },
+   "2024INSC460": {
+    "grade": 0,
+    "reason": "no dying-declaration issue"
+   },
+   "2024INSC902": {
+    "grade": 0,
+    "reason": "no dying-declaration issue"
+   },
+   "2024INSC462": {
+    "grade": 0,
+    "reason": "no dying-declaration issue"
+   },
+   "2024INSC433": {
+    "grade": 0,
+    "reason": "no dying-declaration issue"
+   },
+   "2024INSC823": {
+    "grade": 2,
+    "reason": "oral dying declaration to relative not a strong piece of evidence"
+   },
+   "2024INSC211": {
+    "grade": 0,
+    "reason": "no dying-declaration issue"
+   },
+   "2024INSC600": {
+    "grade": 0,
+    "reason": "no dying-declaration issue"
+   },
+   "2024INSC960": {
+    "grade": 0,
+    "reason": "no dying-declaration issue"
+   },
+   "2024INSC878": {
+    "grade": 0,
+    "reason": "no dying-declaration issue"
+   },
+   "2024INSC835": {
+    "grade": 0,
+    "reason": "no dying-declaration issue"
+   },
+   "2024INSC156": {
+    "grade": 0,
+    "reason": "no dying-declaration issue"
+   }
+  },
+  "q12": {
+   "2024INSC99": {
+    "grade": 0,
+    "reason": "no appeal-against-acquittal issue"
+   },
+   "2024INSC835": {
+    "grade": 0,
+    "reason": "no appeal-against-acquittal issue"
+   },
+   "2024INSC721": {
+    "grade": 1,
+    "reason": "conviction of one accused, acquittal of other"
+   },
+   "2024INSC655": {
+    "grade": 0,
+    "reason": "no appeal-against-acquittal issue"
+   },
+   "2024INSC633": {
+    "grade": 0,
+    "reason": "no appeal-against-acquittal issue"
+   },
+   "2024INSC191": {
+    "grade": 0,
+    "reason": "no appeal-against-acquittal issue"
+   },
+   "2024INSC462": {
+    "grade": 0,
+    "reason": "no appeal-against-acquittal issue"
+   },
+   "2024INSC475": {
+    "grade": 0,
+    "reason": "no appeal-against-acquittal issue"
+   },
+   "2024INSC211": {
+    "grade": 0,
+    "reason": "no appeal-against-acquittal issue"
+   },
+   "2024INSC21": {
+    "grade": 0,
+    "reason": "no appeal-against-acquittal issue"
+   },
+   "2024INSC1049": {
+    "grade": 0,
+    "reason": "no appeal-against-acquittal issue"
+   },
+   "2024INSC740": {
+    "grade": 0,
+    "reason": "no appeal-against-acquittal issue"
+   },
+   "2024INSC735": {
+    "grade": 2,
+    "reason": "reversal of acquittal not in line with settled law"
+   },
+   "2024INSC1007": {
+    "grade": 1,
+    "reason": "retrial after acquittal; double jeopardy"
+   },
+   "2024INSC198": {
+    "grade": 2,
+    "reason": "scope of interference with acquittal"
+   },
+   "2024INSC470": {
+    "grade": 0,
+    "reason": "no appeal-against-acquittal issue"
+   },
+   "2024INSC438": {
+    "grade": 0,
+    "reason": "no appeal-against-acquittal issue"
+   },
+   "2024INSC809": {
+    "grade": 2,
+    "reason": "reversal of acquittal requires perversity"
+   },
+   "2024INSC96": {
+    "grade": 0,
+    "reason": "no appeal-against-acquittal issue"
+   },
+   "2024INSC908": {
+    "grade": 2,
+    "reason": "High Court reversing acquittal"
+   },
+   "2024INSC782": {
+    "grade": 0,
+    "reason": "no appeal-against-acquittal issue"
+   },
+   "2024INSC482": {
+    "grade": 2,
+    "reason": "acquittal reversed despite doubt on identity"
+   },
+   "2024INSC788": {
+    "grade": 0,
+    "reason": "no appeal-against-acquittal issue"
+   },
+   "2024INSC24": {
+    "grade": 0,
+    "reason": "no appeal-against-acquittal issue"
+   },
+   "2024INSC104": {
+    "grade": 2,
+    "reason": "qualified power of High Court to reverse acquittal"
+   },
+   "2024INSC295": {
+    "grade": 2,
+    "reason": "overturning acquittal; plausible view"
+   },
+   "2024INSC523": {
+    "grade": 0,
+    "reason": "no appeal-against-acquittal issue"
+   },
+   "2024INSC134": {
+    "grade": 0,
+    "reason": "no appeal-against-acquittal issue"
+   },
+   "2024INSC789": {
+    "grade": 0,
+    "reason": "no appeal-against-acquittal issue"
+   },
+   "2024INSC902": {
+    "grade": 0,
+    "reason": "no appeal-against-acquittal issue"
+   },
+   "2024INSC125": {
+    "grade": 1,
+    "reason": "limitation for appeal against acquittal"
+   },
+   "2024_12_769_776": {
+    "grade": 1,
+    "reason": "conviction of one and acquittal of co-accused on same evidence"
+   },
+   "2024INSC258": {
+    "grade": 2,
+    "reason": "reversal of acquittal; two possible views"
+   },
+   "2024INSC320": {
+    "grade": 2,
+    "reason": "High Court reversing acquittal; perversity required"
+   },
+   "2024INSC154": {
+    "grade": 2,
+    "reason": "state appeal against acquittal; presumption of innocence"
+   },
+   "2024INSC124": {
+    "grade": 2,
+    "reason": "acquittal reversed; two possible views"
+   }
+  },
+  "q15": {
+   "2024INSC317": {
+    "grade": 1,
+    "reason": "quashing FIR on territorial jurisdiction"
+   },
+   "2024INSC189": {
+    "grade": 2,
+    "reason": "quashing on settlement agreement; principles under s.482"
+   },
+   "2024INSC416": {
+    "grade": 1,
+    "reason": "quashing criminal case on civil wrong"
+   },
+   "2024INSC902": {
+    "grade": 0,
+    "reason": "not a quashing/compromise matter"
+   },
+   "2024INSC535": {
+    "grade": 1,
+    "reason": "compounding s.138 after conviction"
+   },
+   "2024INSC251": {
+    "grade": 0,
+    "reason": "not a quashing/compromise matter"
+   },
+   "2024INSC24": {
+    "grade": 0,
+    "reason": "not a quashing/compromise matter"
+   },
+   "2024INSC172": {
+    "grade": 0,
+    "reason": "not a quashing/compromise matter"
+   },
+   "2024INSC614": {
+    "grade": 0,
+    "reason": "not a quashing/compromise matter"
+   },
+   "2024INSC343": {
+    "grade": 0,
+    "reason": "not a quashing/compromise matter"
+   },
+   "2024INSC106": {
+    "grade": 0,
+    "reason": "not a quashing/compromise matter"
+   },
+   "2024INSC677": {
+    "grade": 0,
+    "reason": "not a quashing/compromise matter"
+   },
+   "2024INSC750": {
+    "grade": 2,
+    "reason": "quashing predominantly civil case after compromise"
+   },
+   "2024_12_954_957": {
+    "grade": 0,
+    "reason": "not a quashing/compromise matter"
+   },
+   "2024INSC866": {
+    "grade": 0,
+    "reason": "not a quashing/compromise matter"
+   },
+   "2024INSC782": {
+    "grade": 1,
+    "reason": "quashing rape FIR in consensual relationship"
+   },
+   "2024INSC347": {
+    "grade": 1,
+    "reason": "compounding s.138 and quashing"
+   },
+   "2024INSC1039": {
+    "grade": 2,
+    "reason": "quashing on settlement before DRT; economic offences"
+   },
+   "2024INSC661": {
+    "grade": 1,
+    "reason": "compounding after conviction for hurt"
+   },
+   "2024INSC196": {
+    "grade": 1,
+    "reason": "quashing proceedings arising from civil transaction"
+   },
+   "2024INSC49": {
+    "grade": 1,
+    "reason": "quashing for absence of cheating ingredients"
+   },
+   "2024INSC562": {
+    "grade": 0,
+    "reason": "not a quashing/compromise matter"
+   },
+   "2024INSC1024": {
+    "grade": 0,
+    "reason": "not a quashing/compromise matter"
+   },
+   "2024INSC846": {
+    "grade": 2,
+    "reason": "quashing on compromise in heinous offence set aside"
+   },
+   "2024INSC227": {
+    "grade": 1,
+    "reason": "quashing where dispute essentially civil"
+   },
+   "2024INSC690": {
+    "grade": 1,
+    "reason": "compounding s.138 without consent"
+   },
+   "2024INSC869": {
+    "grade": 2,
+    "reason": "quashing non-compoundable offences on settlement"
+   },
+   "2024INSC737": {
+    "grade": 1,
+    "reason": "quashing vague matrimonial FIR"
+   },
+   "2024INSC752": {
+    "grade": 2,
+    "reason": "quashing after bank compromise"
+   },
+   "2024_12_769_776": {
+    "grade": 0,
+    "reason": "not a quashing/compromise matter"
+   }
+  },
+  "q17": {
+   "2024INSC788": {
+    "grade": 0,
+    "reason": "not a divorce / irretrievable-breakdown matter"
+   },
+   "2024INSC899": {
+    "grade": 0,
+    "reason": "not a divorce / irretrievable-breakdown matter"
+   },
+   "2024_12_755_768": {
+    "grade": 2,
+    "reason": "divorce; cruelty, desertion, irretrievable breakdown"
+   },
+   "2024INSC554": {
+    "grade": 0,
+    "reason": "not a divorce / irretrievable-breakdown matter"
+   },
+   "2024INSC524": {
+    "grade": 0,
+    "reason": "not a divorce / irretrievable-breakdown matter"
+   },
+   "2024INSC381": {
+    "grade": 0,
+    "reason": "not a divorce / irretrievable-breakdown matter"
+   },
+   "2024INSC226": {
+    "grade": 0,
+    "reason": "not a divorce / irretrievable-breakdown matter"
+   },
+   "2024INSC454": {
+    "grade": 0,
+    "reason": "not a divorce / irretrievable-breakdown matter"
+   },
+   "2024INSC835": {
+    "grade": 0,
+    "reason": "not a divorce / irretrievable-breakdown matter"
+   },
+   "2024INSC517": {
+    "grade": 2,
+    "reason": "Article 142 dissolution for irretrievable breakdown"
+   },
+   "2024INSC460": {
+    "grade": 0,
+    "reason": "not a divorce / irretrievable-breakdown matter"
+   },
+   "2024INSC369": {
+    "grade": 0,
+    "reason": "not a divorce / irretrievable-breakdown matter"
+   },
+   "2024INSC24": {
+    "grade": 0,
+    "reason": "not a divorce / irretrievable-breakdown matter"
+   },
+   "2024INSC725": {
+    "grade": 0,
+    "reason": "not a divorce / irretrievable-breakdown matter"
+   },
+   "2024INSC295": {
+    "grade": 0,
+    "reason": "not a divorce / irretrievable-breakdown matter"
+   },
+   "2024INSC717": {
+    "grade": 0,
+    "reason": "not a divorce / irretrievable-breakdown matter"
+   },
+   "2024_12_954_957": {
+    "grade": 0,
+    "reason": "not a divorce / irretrievable-breakdown matter"
+   },
+   "2024_11_1647_2038": {
+    "grade": 0,
+    "reason": "not a divorce / irretrievable-breakdown matter"
+   },
+   "2024INSC927": {
+    "grade": 0,
+    "reason": "not a divorce / irretrievable-breakdown matter"
+   },
+   "2024INSC382": {
+    "grade": 2,
+    "reason": "decree of divorce under Art.142(1) for irretrievable breakdown"
+   },
+   "2024INSC1020": {
+    "grade": 0,
+    "reason": "not a divorce / irretrievable-breakdown matter"
+   },
+   "2024INSC161": {
+    "grade": 0,
+    "reason": "not a divorce / irretrievable-breakdown matter"
+   },
+   "2024INSC233": {
+    "grade": 0,
+    "reason": "not a divorce / irretrievable-breakdown matter"
+   },
+   "2024INSC213": {
+    "grade": 0,
+    "reason": "not a divorce / irretrievable-breakdown matter"
+   },
+   "2024INSC891": {
+    "grade": 0,
+    "reason": "not a divorce / irretrievable-breakdown matter"
+   },
+   "2024INSC506": {
+    "grade": 1,
+    "reason": "maintenance of divorced Muslim women"
+   },
+   "2024INSC953": {
+    "grade": 0,
+    "reason": "not a divorce / irretrievable-breakdown matter"
+   },
+   "2024INSC902": {
+    "grade": 0,
+    "reason": "not a divorce / irretrievable-breakdown matter"
+   },
+   "2024INSC134": {
+    "grade": 0,
+    "reason": "not a divorce / irretrievable-breakdown matter"
+   },
+   "2024INSC594": {
+    "grade": 0,
+    "reason": "not a divorce / irretrievable-breakdown matter"
+   },
+   "2024INSC1014": {
+    "grade": 2,
+    "reason": "Art.142 divorce on irretrievable breakdown"
+   },
+   "2024INSC961": {
+    "grade": 1,
+    "reason": "permanent alimony and maintenance on divorce"
+   },
+   "2024INSC732": {
+    "grade": 0,
+    "reason": "not a divorce / irretrievable-breakdown matter"
+   },
+   "2024INSC55": {
+    "grade": 2,
+    "reason": "divorce for irretrievable breakdown under Art.142(1)"
+   },
+   "2024INSC530": {
+    "grade": 2,
+    "reason": "Art.142 power to dissolve marriage"
+   },
+   "2024INSC150": {
+    "grade": 0,
+    "reason": "not a divorce / irretrievable-breakdown matter"
+   },
+   "2024INSC502": {
+    "grade": 0,
+    "reason": "not a divorce / irretrievable-breakdown matter"
+   },
+   "2024INSC750": {
+    "grade": 0,
+    "reason": "not a divorce / irretrievable-breakdown matter"
+   },
+   "2024INSC450": {
+    "grade": 2,
+    "reason": "Art.142 divorce after wife resiled from settlement"
+   }
+  },
+  "q18": {
+   "2024INSC344": {
+    "grade": 0,
+    "reason": "not a detention or liberty case"
+   },
+   "2024INSC18": {
+    "grade": 2,
+    "reason": "detention order; communication of right of representation"
+   },
+   "2024INSC448": {
+    "grade": 0,
+    "reason": "not a detention or liberty case"
+   },
+   "2024INSC512": {
+    "grade": 1,
+    "reason": "validity of arrest under PMLA"
+   },
+   "2024INSC801": {
+    "grade": 0,
+    "reason": "not a detention or liberty case"
+   },
+   "2024INSC790": {
+    "grade": 0,
+    "reason": "not a detention or liberty case"
+   },
+   "2024INSC546": {
+    "grade": 0,
+    "reason": "not a detention or liberty case"
+   },
+   "2024INSC654": {
+    "grade": 0,
+    "reason": "not a detention or liberty case"
+   },
+   "2024INSC813": {
+    "grade": 1,
+    "reason": "legal aid to prisoners"
+   },
+   "2024INSC241": {
+    "grade": 0,
+    "reason": "not a detention or liberty case"
+   },
+   "2024INSC612": {
+    "grade": 2,
+    "reason": "non-supply of relevant documents to detenu; release"
+   },
+   "2024INSC902": {
+    "grade": 0,
+    "reason": "not a detention or liberty case"
+   },
+   "2024INSC486": {
+    "grade": 0,
+    "reason": "not a detention or liberty case"
+   },
+   "2024INSC967": {
+    "grade": 0,
+    "reason": "not a detention or liberty case"
+   },
+   "2024INSC687": {
+    "grade": 1,
+    "reason": "legality of arrest"
+   },
+   "2024INSC753": {
+    "grade": 0,
+    "reason": "not a detention or liberty case"
+   },
+   "2024INSC460": {
+    "grade": 0,
+    "reason": "not a detention or liberty case"
+   },
+   "2024INSC683": {
+    "grade": 2,
+    "reason": "Art.22(5) effective representation; delay in deciding representation"
+   },
+   "2024INSC500": {
+    "grade": 0,
+    "reason": "not a detention or liberty case"
+   },
+   "2024INSC381": {
+    "grade": 0,
+    "reason": "not a detention or liberty case"
+   },
+   "2024INSC1026": {
+    "grade": 0,
+    "reason": "not a detention or liberty case"
+   },
+   "2024INSC183": {
+    "grade": 0,
+    "reason": "not a detention or liberty case"
+   },
+   "2024INSC414": {
+    "grade": 1,
+    "reason": "grounds of arrest not supplied in writing"
+   },
+   "2024INSC239": {
+    "grade": 2,
+    "reason": "preventive detention; public order vs law and order"
+   },
+   "2024INSC754": {
+    "grade": 0,
+    "reason": "not a detention or liberty case"
+   },
+   "2024INSC891": {
+    "grade": 0,
+    "reason": "not a detention or liberty case"
+   },
+   "2024INSC477": {
+    "grade": 0,
+    "reason": "not a detention or liberty case"
+   },
+   "2024_12_637_645": {
+    "grade": 2,
+    "reason": "preventive detention order set aside"
+   },
+   "2024INSC854": {
+    "grade": 0,
+    "reason": "not a detention or liberty case"
+   },
+   "2024INSC789": {
+    "grade": 0,
+    "reason": "not a detention or liberty case"
+   },
+   "2024INSC232": {
+    "grade": 1,
+    "reason": "custodial excess, personal liberty"
+   },
+   "2024INSC464": {
+    "grade": 0,
+    "reason": "not a detention or liberty case"
+   },
+   "2024INSC744": {
+    "grade": 0,
+    "reason": "not a detention or liberty case"
+   },
+   "2024INSC1060": {
+    "grade": 0,
+    "reason": "not a detention or liberty case"
+   }
+  },
+  "q19": {
+   "2024INSC1003": {
+    "grade": 1,
+    "reason": "shortlisting criteria in university recruitment"
+   },
+   "2024INSC847": {
+    "grade": 2,
+    "reason": "'rules of the game' cannot be changed mid-recruitment (reference)"
+   },
+   "2024INSC519": {
+    "grade": 0,
+    "reason": "not a recruitment-process dispute"
+   },
+   "2024INSC192": {
+    "grade": 1,
+    "reason": "eligibility criteria for promotion in judiciary"
+   },
+   "2024INSC258": {
+    "grade": 0,
+    "reason": "not a recruitment-process dispute"
+   },
+   "2024INSC99": {
+    "grade": 0,
+    "reason": "not a recruitment-process dispute"
+   },
+   "2024INSC727": {
+    "grade": 0,
+    "reason": "not a recruitment-process dispute"
+   },
+   "2024INSC878": {
+    "grade": 0,
+    "reason": "not a recruitment-process dispute"
+   },
+   "2024_11_1647_2038": {
+    "grade": 0,
+    "reason": "not a recruitment-process dispute"
+   },
+   "2024INSC545": {
+    "grade": 0,
+    "reason": "not a recruitment-process dispute"
+   },
+   "2024INSC295": {
+    "grade": 0,
+    "reason": "not a recruitment-process dispute"
+   },
+   "2024INSC831": {
+    "grade": 0,
+    "reason": "not a recruitment-process dispute"
+   },
+   "2024INSC647": {
+    "grade": 2,
+    "reason": "minimum interview marks via resolution overriding rules"
+   },
+   "2024INSC788": {
+    "grade": 0,
+    "reason": "not a recruitment-process dispute"
+   },
+   "2024INSC188": {
+    "grade": 2,
+    "reason": "changing qualifications midstream in selection"
+   },
+   "2024INSC466": {
+    "grade": 1,
+    "reason": "age relaxation in recruitment rules"
+   },
+   "2024INSC24": {
+    "grade": 0,
+    "reason": "not a recruitment-process dispute"
+   },
+   "2024INSC677": {
+    "grade": 0,
+    "reason": "not a recruitment-process dispute"
+   },
+   "2024INSC381": {
+    "grade": 1,
+    "reason": "minimum viva voce marks in judicial recruitment"
+   },
+   "2024INSC562": {
+    "grade": 0,
+    "reason": "not a recruitment-process dispute"
+   },
+   "2024INSC763": {
+    "grade": 2,
+    "reason": "changing rules of the game after final select list"
+   },
+   "2024INSC131": {
+    "grade": 1,
+    "reason": "cancellation of selection on non-disclosure"
+   },
+   "2024INSC902": {
+    "grade": 0,
+    "reason": "not a recruitment-process dispute"
+   },
+   "2024INSC251": {
+    "grade": 0,
+    "reason": "not a recruitment-process dispute"
+   },
+   "2024_12_1148_1159": {
+    "grade": 1,
+    "reason": "expansion of vacancies in PSC selection"
+   },
+   "2024INSC96": {
+    "grade": 0,
+    "reason": "not a recruitment-process dispute"
+   },
+   "2024INSC736": {
+    "grade": 1,
+    "reason": "legality of selection criteria for laboratory attendants"
+   },
+   "2024INSC252": {
+    "grade": 1,
+    "reason": "bias in selection process"
+   },
+   "2024INSC453": {
+    "grade": 1,
+    "reason": "departure from procedure in shortlisting teachers"
+   },
+   "2024INSC436": {
+    "grade": 1,
+    "reason": "merit-cum-seniority promotion process"
+   },
+   "2024INSC137": {
+    "grade": 1,
+    "reason": "recruitment notification not consistent with rules"
+   },
+   "2024INSC898": {
+    "grade": 0,
+    "reason": "not a recruitment-process dispute"
+   },
+   "2024INSC216": {
+    "grade": 0,
+    "reason": "not a recruitment-process dispute"
+   },
+   "2024INSC809": {
+    "grade": 0,
+    "reason": "not a recruitment-process dispute"
+   },
+   "2024INSC460": {
+    "grade": 0,
+    "reason": "not a recruitment-process dispute"
+   },
+   "2024INSC733": {
+    "grade": 1,
+    "reason": "revised select list in recruitment"
+   },
+   "2024INSC97": {
+    "grade": 2,
+    "reason": "altering selection criteria after assessment"
+   },
+   "2024INSC789": {
+    "grade": 0,
+    "reason": "not a recruitment-process dispute"
+   }
+  },
+  "q20": {
+   "2024INSC271": {
+    "grade": 1,
+    "reason": "testimony of a reliable eyewitness"
+   },
+   "2024INSC124": {
+    "grade": 1,
+    "reason": "reliability of witness testimony"
+   },
+   "2024INSC191": {
+    "grade": 2,
+    "reason": "hostile witnesses in celebratory-firing death"
+   },
+   "2024INSC294": {
+    "grade": 1,
+    "reason": "injured eyewitnesses"
+   },
+   "2024INSC788": {
+    "grade": 0,
+    "reason": "no witness-credibility issue"
+   },
+   "2024INSC475": {
+    "grade": 0,
+    "reason": "no witness-credibility issue"
+   },
+   "2024INSC1060": {
+    "grade": 0,
+    "reason": "no witness-credibility issue"
+   },
+   "2024INSC24": {
+    "grade": 0,
+    "reason": "no witness-credibility issue"
+   },
+   "2024INSC740": {
+    "grade": 2,
+    "reason": "hostile and panch witnesses in murder conviction"
+   },
+   "2024INSC902": {
+    "grade": 0,
+    "reason": "no witness-credibility issue"
+   },
+   "2024INSC927": {
+    "grade": 0,
+    "reason": "no witness-credibility issue"
+   },
+   "2024INSC928": {
+    "grade": 0,
+    "reason": "no witness-credibility issue"
+   },
+   "2024INSC462": {
+    "grade": 1,
+    "reason": "eyewitness testimony"
+   },
+   "2024INSC734": {
+    "grade": 0,
+    "reason": "no witness-credibility issue"
+   },
+   "2024INSC393": {
+    "grade": 2,
+    "reason": "conviction despite hostile witnesses; corroboration"
+   },
+   "2024INSC376": {
+    "grade": 1,
+    "reason": "reliability of witnesses with omissions"
+   },
+   "2024INSC87": {
+    "grade": 1,
+    "reason": "witness corroboration in murder"
+   },
+   "2024INSC909": {
+    "grade": 0,
+    "reason": "no witness-credibility issue"
+   },
+   "2024INSC665": {
+    "grade": 0,
+    "reason": "no witness-credibility issue"
+   },
+   "2024INSC1040": {
+    "grade": 0,
+    "reason": "no witness-credibility issue"
+   },
+   "2024INSC655": {
+    "grade": 0,
+    "reason": "no witness-credibility issue"
+   },
+   "2024INSC99": {
+    "grade": 0,
+    "reason": "no witness-credibility issue"
+   },
+   "2024_12_769_776": {
+    "grade": 1,
+    "reason": "interested witness; benefit of doubt to co-accused"
+   },
+   "2024INSC721": {
+    "grade": 0,
+    "reason": "no witness-credibility issue"
+   },
+   "2024INSC258": {
+    "grade": 0,
+    "reason": "no witness-credibility issue"
+   },
+   "2024INSC487": {
+    "grade": 0,
+    "reason": "no witness-credibility issue"
+   },
+   "2024INSC21": {
+    "grade": 0,
+    "reason": "no witness-credibility issue"
+   },
+   "2024INSC368": {
+    "grade": 0,
+    "reason": "no witness-credibility issue"
+   },
+   "2024INSC474": {
+    "grade": 0,
+    "reason": "no witness-credibility issue"
+   },
+   "2024INSC755": {
+    "grade": 0,
+    "reason": "no witness-credibility issue"
+   },
+   "2024INSC823": {
+    "grade": 0,
+    "reason": "no witness-credibility issue"
+   },
+   "2024_12_1072_1092": {
+    "grade": 0,
+    "reason": "no witness-credibility issue"
+   },
+   "2024INSC320": {
+    "grade": 0,
+    "reason": "no witness-credibility issue"
+   },
+   "2024INSC614": {
+    "grade": 0,
+    "reason": "no witness-credibility issue"
+   },
+   "2024INSC215": {
+    "grade": 0,
+    "reason": "no witness-credibility issue"
+   },
+   "2024INSC899": {
+    "grade": 0,
+    "reason": "no witness-credibility issue"
+   },
+   "2024INSC344": {
+    "grade": 0,
+    "reason": "no witness-credibility issue"
+   }
+  },
+  "q22": {
+   "2024INSC209": {
+    "grade": 0,
+    "reason": "no s.306 IPC issue"
+   },
+   "2024INSC960": {
+    "grade": 2,
+    "reason": "discharge from s.306/498A charges"
+   },
+   "2024INSC908": {
+    "grade": 2,
+    "reason": "conviction u/s.306; meaning of instigation"
+   },
+   "2024INSC172": {
+    "grade": 2,
+    "reason": "quashing s.306 proceedings; suicide note"
+   },
+   "2024INSC156": {
+    "grade": 2,
+    "reason": "s.306 charge not proved; instigation"
+   },
+   "2024INSC558": {
+    "grade": 0,
+    "reason": "no s.306 IPC issue"
+   },
+   "2024INSC717": {
+    "grade": 2,
+    "reason": "husband's conviction u/ss.498A and 306"
+   },
+   "2024INSC460": {
+    "grade": 0,
+    "reason": "no s.306 IPC issue"
+   },
+   "2024INSC891": {
+    "grade": 0,
+    "reason": "no s.306 IPC issue"
+   },
+   "2024INSC366": {
+    "grade": 0,
+    "reason": "no s.306 IPC issue"
+   },
+   "2024INSC463": {
+    "grade": 0,
+    "reason": "no s.306 IPC issue"
+   },
+   "2024INSC628": {
+    "grade": 0,
+    "reason": "no s.306 IPC issue"
+   },
+   "2024INSC257": {
+    "grade": 0,
+    "reason": "no s.306 IPC issue"
+   },
+   "2024INSC177": {
+    "grade": 2,
+    "reason": "mens rea for s.306 not established"
+   },
+   "2024_11_1647_2038": {
+    "grade": 0,
+    "reason": "no s.306 IPC issue"
+   },
+   "2024INSC1020": {
+    "grade": 2,
+    "reason": "nexus between words and suicide under s.306"
+   },
+   "2024INSC789": {
+    "grade": 0,
+    "reason": "no s.306 IPC issue"
+   },
+   "2024INSC857": {
+    "grade": 0,
+    "reason": "no s.306 IPC issue"
+   },
+   "2024INSC718": {
+    "grade": 0,
+    "reason": "no s.306 IPC issue"
+   },
+   "2024INSC24": {
+    "grade": 0,
+    "reason": "no s.306 IPC issue"
+   },
+   "2024INSC292": {
+    "grade": 0,
+    "reason": "no s.306 IPC issue"
+   },
+   "2024INSC766": {
+    "grade": 2,
+    "reason": "quashing of s.306 charges against in-laws"
+   },
+   "2024INSC261": {
+    "grade": 2,
+    "reason": "summons under s.306; instigative words"
+   },
+   "2024INSC767": {
+    "grade": 2,
+    "reason": "ingredients of s.306; quashing"
+   },
+   "2024INSC711": {
+    "grade": 0,
+    "reason": "no s.306 IPC issue"
+   },
+   "2024INSC554": {
+    "grade": 0,
+    "reason": "no s.306 IPC issue"
+   },
+   "2024INSC315": {
+    "grade": 0,
+    "reason": "no s.306 IPC issue"
+   },
+   "2024INSC902": {
+    "grade": 0,
+    "reason": "no s.306 IPC issue"
+   },
+   "2024INSC607": {
+    "grade": 0,
+    "reason": "no s.306 IPC issue"
+   },
+   "2024INSC812": {
+    "grade": 0,
+    "reason": "no s.306 IPC issue"
+   },
+   "2024INSC927": {
+    "grade": 0,
+    "reason": "no s.306 IPC issue"
+   },
+   "2024INSC161": {
+    "grade": 0,
+    "reason": "no s.306 IPC issue"
+   },
+   "2024INSC665": {
+    "grade": 1,
+    "reason": "s.306 alongside 304B/498A"
+   },
+   "2024INSC149": {
+    "grade": 2,
+    "reason": "s.306 conviction; presumption for married woman"
+   },
+   "2024INSC113": {
+    "grade": 0,
+    "reason": "no s.306 IPC issue"
+   },
+   "2024INSC519": {
+    "grade": 2,
+    "reason": "marital dispute and s.306/107"
+   },
+   "2024INSC749": {
+    "grade": 0,
+    "reason": "no s.306 IPC issue"
+   },
+   "2024INSC677": {
+    "grade": 0,
+    "reason": "no s.306 IPC issue"
+   },
+   "2024INSC545": {
+    "grade": 0,
+    "reason": "no s.306 IPC issue"
+   },
+   "2024INSC835": {
+    "grade": 0,
+    "reason": "no s.306 IPC issue"
+   }
+  },
+  "q23": {
+   "2024INSC532": {
+    "grade": 2,
+    "reason": "s.11(6) referral scrutiny; discharge voucher and arbitrability"
+   },
+   "2024INSC24": {
+    "grade": 0,
+    "reason": "not an arbitration case"
+   },
+   "2024INSC181": {
+    "grade": 0,
+    "reason": "not an arbitration case"
+   },
+   "2024INSC851": {
+    "grade": 2,
+    "reason": "maintainability of fresh s.11(6) application"
+   },
+   "2024INSC670": {
+    "grade": 2,
+    "reason": "s.11 appointment; prima facie existence of agreement"
+   },
+   "2024INSC460": {
+    "grade": 0,
+    "reason": "not an arbitration case"
+   },
+   "2024INSC857": {
+    "grade": 2,
+    "reason": "validity of unilateral appointment of arbitrators"
+   },
+   "2024INSC782": {
+    "grade": 0,
+    "reason": "not an arbitration case"
+   },
+   "2024INSC218": {
+    "grade": 1,
+    "reason": "incorporation of arbitration clause"
+   },
+   "2024INSC740": {
+    "grade": 0,
+    "reason": "not an arbitration case"
+   },
+   "2024INSC155": {
+    "grade": 2,
+    "reason": "limitation for s.11(6) application"
+   },
+   "2024INSC324": {
+    "grade": 0,
+    "reason": "not an arbitration case"
+   },
+   "2024INSC927": {
+    "grade": 0,
+    "reason": "not an arbitration case"
+   },
+   "2024INSC99": {
+    "grade": 0,
+    "reason": "not an arbitration case"
+   },
+   "2024INSC966": {
+    "grade": 2,
+    "reason": "s.11(6) appointment; arbitrability of wage disputes"
+   },
+   "2024INSC433": {
+    "grade": 1,
+    "reason": "termination of proceedings under s.32"
+   },
+   "2024INSC853": {
+    "grade": 2,
+    "reason": "scope of inquiry under s.11"
+   },
+   "2024INSC970": {
+    "grade": 0,
+    "reason": "not an arbitration case"
+   },
+   "2024INSC902": {
+    "grade": 0,
+    "reason": "not an arbitration case"
+   },
+   "2024INSC720": {
+    "grade": 0,
+    "reason": "not an arbitration case"
+   },
+   "2024INSC315": {
+    "grade": 1,
+    "reason": "agreement and arbitrator appointment in civil suit"
+   },
+   "2024INSC743": {
+    "grade": 1,
+    "reason": "post-award interest"
+   },
+   "2024INSC953": {
+    "grade": 0,
+    "reason": "not an arbitration case"
+   },
+   "2024INSC536": {
+    "grade": 2,
+    "reason": "s.11(6) petition; claims time-barred"
+   },
+   "2024INSC805": {
+    "grade": 2,
+    "reason": "s.11 application; arbitration clause in lease"
+   },
+   "2024INSC711": {
+    "grade": 1,
+    "reason": "challenge to arbitral award"
+   },
+   "2024INSC849": {
+    "grade": 2,
+    "reason": "s.11(6) referral court jurisdiction; limitation"
+   },
+   "2024INSC839": {
+    "grade": 0,
+    "reason": "not an arbitration case"
+   },
+   "2024INSC850": {
+    "grade": 2,
+    "reason": "s.11 petition; seat of arbitration"
+   },
+   "2024INSC889": {
+    "grade": 1,
+    "reason": "extension of arbitral mandate"
+   },
+   "2024INSC172": {
+    "grade": 0,
+    "reason": "not an arbitration case"
+   },
+   "2024INSC710": {
+    "grade": 2,
+    "reason": "scope of referral court under s.11(6); non-signatories"
+   },
+   "2024_12_954_957": {
+    "grade": 0,
+    "reason": "not an arbitration case"
+   },
+   "2024INSC686": {
+    "grade": 1,
+    "reason": "s.29A extension application"
+   },
+   "2024INSC41": {
+    "grade": 0,
+    "reason": "not an arbitration case"
+   },
+   "2024_12_987_992": {
+    "grade": 2,
+    "reason": "existence of arbitration clause; appointment of arbitrator"
+   },
+   "2024INSC628": {
+    "grade": 1,
+    "reason": "arbitral award modified"
+   }
+  },
+  "q24": {
+   "2024INSC902": {
+    "grade": 0,
+    "reason": "not a specific-performance case"
+   },
+   "2024INSC970": {
+    "grade": 0,
+    "reason": "not a specific-performance case"
+   },
+   "2024INSC1020": {
+    "grade": 0,
+    "reason": "not a specific-performance case"
+   },
+   "2024INSC533": {
+    "grade": 2,
+    "reason": "s.16(c) readiness and willingness to get sale deed executed"
+   },
+   "2024INSC865": {
+    "grade": 1,
+    "reason": "specific performance of agreement to sell"
+   },
+   "2024INSC953": {
+    "grade": 0,
+    "reason": "not a specific-performance case"
+   },
+   "2024_12_719_731": {
+    "grade": 0,
+    "reason": "not a specific-performance case"
+   },
+   "2024INSC927": {
+    "grade": 2,
+    "reason": "s.16(c); availability of funds"
+   },
+   "2024INSC1043": {
+    "grade": 1,
+    "reason": "part performance under s.53A TPA"
+   },
+   "2024INSC481": {
+    "grade": 0,
+    "reason": "not a specific-performance case"
+   },
+   "2024INSC639": {
+    "grade": 0,
+    "reason": "not a specific-performance case"
+   },
+   "2024INSC22": {
+    "grade": 0,
+    "reason": "not a specific-performance case"
+   },
+   "2024INSC861": {
+    "grade": 1,
+    "reason": "review in specific-performance suit"
+   },
+   "2024INSC99": {
+    "grade": 0,
+    "reason": "not a specific-performance case"
+   },
+   "2024INSC547": {
+    "grade": 0,
+    "reason": "not a specific-performance case"
+   },
+   "2024INSC491": {
+    "grade": 1,
+    "reason": "specific performance; sham agreement"
+   },
+   "2024INSC623": {
+    "grade": 0,
+    "reason": "not a specific-performance case"
+   },
+   "2024INSC460": {
+    "grade": 0,
+    "reason": "not a specific-performance case"
+   },
+   "2024INSC444": {
+    "grade": 2,
+    "reason": "proof of readiness and willingness by PoA holder"
+   },
+   "2024INSC778": {
+    "grade": 2,
+    "reason": "continuous readiness and willingness under s.16(c)"
+   },
+   "2024INSC812": {
+    "grade": 0,
+    "reason": "not a specific-performance case"
+   },
+   "2024INSC884": {
+    "grade": 2,
+    "reason": "readiness and willingness not proved"
+   },
+   "2024INSC28": {
+    "grade": 1,
+    "reason": "time for payment under agreement for sale"
+   },
+   "2024INSC966": {
+    "grade": 0,
+    "reason": "not a specific-performance case"
+   },
+   "2024INSC105": {
+    "grade": 0,
+    "reason": "not a specific-performance case"
+   },
+   "2024INSC895": {
+    "grade": 1,
+    "reason": "s.19(b) bona fide subsequent purchaser"
+   },
+   "2024INSC711": {
+    "grade": 0,
+    "reason": "not a specific-performance case"
+   },
+   "2024INSC1022": {
+    "grade": 1,
+    "reason": "s.20 hardship in specific performance"
+   }
+  },
+  "q25": {
+   "2024INSC809": {
+    "grade": 0,
+    "reason": "not a PMLA judgment"
+   },
+   "2024INSC217": {
+    "grade": 2,
+    "reason": "s.45 PMLA twin conditions; bail refused"
+   },
+   "2024INSC740": {
+    "grade": 0,
+    "reason": "not a PMLA judgment"
+   },
+   "2024INSC438": {
+    "grade": 0,
+    "reason": "not a PMLA judgment"
+   },
+   "2024INSC400": {
+    "grade": 1,
+    "reason": "interim bail in ED case"
+   },
+   "2024_12_627_636": {
+    "grade": 2,
+    "reason": "PMLA bail"
+   },
+   "2024INSC546": {
+    "grade": 1,
+    "reason": "stay of bail order in ED case"
+   },
+   "2024INSC434": {
+    "grade": 1,
+    "reason": "PMLA complaint procedure"
+   },
+   "2024INSC727": {
+    "grade": 0,
+    "reason": "not a PMLA judgment"
+   },
+   "2024INSC909": {
+    "grade": 0,
+    "reason": "not a PMLA judgment"
+   },
+   "2024INSC479": {
+    "grade": 0,
+    "reason": "not a PMLA judgment"
+   },
+   "2024INSC99": {
+    "grade": 0,
+    "reason": "not a PMLA judgment"
+   },
+   "2024INSC512": {
+    "grade": 1,
+    "reason": "validity of arrest under s.19 PMLA"
+   },
+   "2024INSC739": {
+    "grade": 2,
+    "reason": "PMLA bail; long incarceration"
+   },
+   "2024INSC1032": {
+    "grade": 0,
+    "reason": "not a PMLA judgment"
+   },
+   "2024INSC637": {
+    "grade": 2,
+    "reason": "PMLA bail; s.45 with s.50 statements"
+   },
+   "2024INSC92": {
+    "grade": 0,
+    "reason": "not a PMLA judgment"
+   },
+   "2024INSC46": {
+    "grade": 0,
+    "reason": "not a PMLA judgment"
+   },
+   "2024INSC687": {
+    "grade": 0,
+    "reason": "not a PMLA judgment"
+   },
+   "2024INSC782": {
+    "grade": 0,
+    "reason": "not a PMLA judgment"
+   },
+   "2024INSC841": {
+    "grade": 0,
+    "reason": "not a PMLA judgment"
+   },
+   "2024INSC462": {
+    "grade": 0,
+    "reason": "not a PMLA judgment"
+   },
+   "2024INSC134": {
+    "grade": 0,
+    "reason": "not a PMLA judgment"
+   },
+   "2024INSC595": {
+    "grade": 2,
+    "reason": "s.45 triple test; bail after long custody"
+   },
+   "2024INSC632": {
+    "grade": 2,
+    "reason": "proviso to s.45(1) PMLA for women"
+   },
+   "2024INSC534": {
+    "grade": 0,
+    "reason": "not a PMLA judgment"
+   },
+   "2024INSC169": {
+    "grade": 0,
+    "reason": "not a PMLA judgment"
+   },
+   "2024INSC58": {
+    "grade": 0,
+    "reason": "not a PMLA judgment"
+   },
+   "2024INSC269": {
+    "grade": 0,
+    "reason": "not a PMLA judgment"
+   },
+   "2024INSC668": {
+    "grade": 1,
+    "reason": "ED summons under PMLA"
+   },
+   "2024INSC645": {
+    "grade": 0,
+    "reason": "not a PMLA judgment"
+   },
+   "2024_12_1093_1107": {
+    "grade": 0,
+    "reason": "not a PMLA judgment"
+   }
+  },
+  "q27": {
+   "2024INSC292": {
+    "grade": 2,
+    "reason": "award set aside for patent illegality; curative petition"
+   },
+   "2024INSC366": {
+    "grade": 0,
+    "reason": "not about an arbitral award"
+   },
+   "2024INSC21": {
+    "grade": 0,
+    "reason": "not about an arbitral award"
+   },
+   "2024INSC17": {
+    "grade": 2,
+    "reason": "court modifying arbitral award; public policy"
+   },
+   "2024INSC788": {
+    "grade": 0,
+    "reason": "not about an arbitral award"
+   },
+   "2024INSC988": {
+    "grade": 1,
+    "reason": "correction of award under s.33"
+   },
+   "2024INSC902": {
+    "grade": 0,
+    "reason": "not about an arbitral award"
+   },
+   "2024INSC477": {
+    "grade": 2,
+    "reason": "s.34 petition dismissed as time-barred"
+   },
+   "2024INSC96": {
+    "grade": 0,
+    "reason": "not about an arbitral award"
+   },
+   "2024INSC4354": {
+    "grade": 0,
+    "reason": "not about an arbitral award"
+   },
+   "2024INSC460": {
+    "grade": 0,
+    "reason": "not about an arbitral award"
+   },
+   "2024INSC711": {
+    "grade": 2,
+    "reason": "award challenged for public policy and patent illegality"
+   },
+   "2024INSC201": {
+    "grade": 2,
+    "reason": "arbitral award set aside by High Court"
+   },
+   "2024INSC134": {
+    "grade": 0,
+    "reason": "not about an arbitral award"
+   },
+   "2024INSC433": {
+    "grade": 1,
+    "reason": "termination of arbitral proceedings under s.32"
+   },
+   "2024INSC242": {
+    "grade": 1,
+    "reason": "enforcement of foreign award"
+   },
+   "2024INSC554": {
+    "grade": 0,
+    "reason": "not about an arbitral award"
+   },
+   "2024INSC754": {
+    "grade": 0,
+    "reason": "not about an arbitral award"
+   },
+   "2024INSC857": {
+    "grade": 0,
+    "reason": "not about an arbitral award"
+   },
+   "2024INSC740": {
+    "grade": 0,
+    "reason": "not about an arbitral award"
+   },
+   "2024INSC113": {
+    "grade": 0,
+    "reason": "not about an arbitral award"
+   },
+   "2024_12_769_776": {
+    "grade": 0,
+    "reason": "not about an arbitral award"
+   },
+   "2024INSC812": {
+    "grade": 0,
+    "reason": "not about an arbitral award"
+   },
+   "2024INSC607": {
+    "grade": 0,
+    "reason": "not about an arbitral award"
+   },
+   "2024INSC827": {
+    "grade": 1,
+    "reason": "stay on execution of award"
+   },
+   "2024INSC478": {
+    "grade": 2,
+    "reason": "s.34/s.37 appeal; remand to s.34 court"
+   },
+   "2024INSC655": {
+    "grade": 0,
+    "reason": "not about an arbitral award"
+   },
+   "2024INSC841": {
+    "grade": 0,
+    "reason": "not about an arbitral award"
+   },
+   "2024INSC782": {
+    "grade": 0,
+    "reason": "not about an arbitral award"
+   },
+   "2024INSC789": {
+    "grade": 0,
+    "reason": "not about an arbitral award"
+   },
+   "2024INSC99": {
+    "grade": 0,
+    "reason": "not about an arbitral award"
+   },
+   "2024INSC593": {
+    "grade": 1,
+    "reason": "enforcement of award in foreign currency"
+   },
+   "2024INSC665": {
+    "grade": 0,
+    "reason": "not about an arbitral award"
+   },
+   "2024INSC628": {
+    "grade": 2,
+    "reason": "award upheld then set aside/modified on appeal"
+   },
+   "2024INSC211": {
+    "grade": 0,
+    "reason": "not about an arbitral award"
+   },
+   "2024INSC24": {
+    "grade": 0,
+    "reason": "not about an arbitral award"
+   },
+   "2024INSC558": {
+    "grade": 0,
+    "reason": "not about an arbitral award"
+   },
+   "2024INSC835": {
+    "grade": 0,
+    "reason": "not about an arbitral award"
+   },
+   "2024INSC258": {
+    "grade": 0,
+    "reason": "not about an arbitral award"
+   },
+   "2024INSC172": {
+    "grade": 0,
+    "reason": "not about an arbitral award"
+   },
+   "2024INSC944": {
+    "grade": 2,
+    "reason": "s.14 Limitation Act exclusion for s.34 objections"
+   },
+   "2024INSC727": {
+    "grade": 0,
+    "reason": "not about an arbitral award"
+   }
+  },
+  "q29": {
+   "2024INSC835": {
+    "grade": 0,
+    "reason": "no second-appeal issue"
+   },
+   "2024INSC1060": {
+    "grade": 0,
+    "reason": "no second-appeal issue"
+   },
+   "2024INSC319": {
+    "grade": 0,
+    "reason": "no second-appeal issue"
+   },
+   "2024INSC462": {
+    "grade": 0,
+    "reason": "no second-appeal issue"
+   },
+   "2024INSC36": {
+    "grade": 0,
+    "reason": "no second-appeal issue"
+   },
+   "2024INSC282": {
+    "grade": 0,
+    "reason": "no second-appeal issue"
+   },
+   "2024INSC791": {
+    "grade": 0,
+    "reason": "no second-appeal issue"
+   },
+   "2024INSC382": {
+    "grade": 0,
+    "reason": "no second-appeal issue"
+   },
+   "2024INSC1049": {
+    "grade": 0,
+    "reason": "no second-appeal issue"
+   },
+   "2024INSC562": {
+    "grade": 0,
+    "reason": "no second-appeal issue"
+   },
+   "2024INSC644": {
+    "grade": 2,
+    "reason": "second appeal; High Court created new case beyond substantial questions"
+   },
+   "2024INSC744": {
+    "grade": 0,
+    "reason": "no second-appeal issue"
+   },
+   "2024INSC181": {
+    "grade": 0,
+    "reason": "no second-appeal issue"
+   },
+   "2024_12_954_957": {
+    "grade": 0,
+    "reason": "no second-appeal issue"
+   },
+   "2024INSC740": {
+    "grade": 0,
+    "reason": "no second-appeal issue"
+   },
+   "2024INSC429": {
+    "grade": 2,
+    "reason": "framing of substantial question in second appeal"
+   },
+   "2024INSC96": {
+    "grade": 0,
+    "reason": "no second-appeal issue"
+   },
+   "2024_12_719_731": {
+    "grade": 2,
+    "reason": "scope of s.100 CPC second appeal"
+   },
+   "2024INSC655": {
+    "grade": 0,
+    "reason": "no second-appeal issue"
+   },
+   "2024INSC460": {
+    "grade": 0,
+    "reason": "no second-appeal issue"
+   },
+   "2024INSC558": {
+    "grade": 0,
+    "reason": "no second-appeal issue"
+   },
+   "2024INSC12": {
+    "grade": 2,
+    "reason": "High Court in second appeal reversing concurrent judgments"
+   },
+   "2024INSC381": {
+    "grade": 0,
+    "reason": "no second-appeal issue"
+   },
+   "2024INSC550": {
+    "grade": 0,
+    "reason": "no second-appeal issue"
+   },
+   "2024INSC927": {
+    "grade": 0,
+    "reason": "no second-appeal issue"
+   },
+   "2024INSC1021": {
+    "grade": 0,
+    "reason": "no second-appeal issue"
+   },
+   "2024INSC902": {
+    "grade": 0,
+    "reason": "no second-appeal issue"
+   },
+   "2024INSC99": {
+    "grade": 0,
+    "reason": "no second-appeal issue"
+   },
+   "2024INSC401": {
+    "grade": 1,
+    "reason": "first appellate judgment under Order 41 Rule 31"
+   },
+   "2024INSC852": {
+    "grade": 0,
+    "reason": "no second-appeal issue"
+   },
+   "2024INSC770": {
+    "grade": 0,
+    "reason": "no second-appeal issue"
+   },
+   "2024INSC113": {
+    "grade": 0,
+    "reason": "no second-appeal issue"
+   },
+   "2024INSC1023": {
+    "grade": 0,
+    "reason": "no second-appeal issue"
+   },
+   "2024INSC41": {
+    "grade": 0,
+    "reason": "no second-appeal issue"
+   },
+   "2024INSC868": {
+    "grade": 2,
+    "reason": "reversal of concurrent findings in second appeal"
+   },
+   "2024INSC467": {
+    "grade": 0,
+    "reason": "no second-appeal issue"
+   },
+   "2024INSC161": {
+    "grade": 0,
+    "reason": "no second-appeal issue"
+   },
+   "2024INSC574": {
+    "grade": 2,
+    "reason": "formulation of substantial questions under s.100 CPC"
+   },
+   "2024INSC875": {
+    "grade": 0,
+    "reason": "no second-appeal issue"
+   },
+   "2024INSC1022": {
+    "grade": 0,
+    "reason": "no second-appeal issue"
+   }
+  },
+  "q30": {
+   "2024INSC312": {
+    "grade": 0,
+    "reason": "not about murder vs culpable homicide"
+   },
+   "2024INSC134": {
+    "grade": 0,
+    "reason": "not about murder vs culpable homicide"
+   },
+   "2024INSC878": {
+    "grade": 2,
+    "reason": "conviction u/s.302 altered to s.304 Part I; sudden fight"
+   },
+   "2024INSC919": {
+    "grade": 0,
+    "reason": "not about murder vs culpable homicide"
+   },
+   "2024INSC655": {
+    "grade": 0,
+    "reason": "not about murder vs culpable homicide"
+   },
+   "2024INSC907": {
+    "grade": 0,
+    "reason": "not about murder vs culpable homicide"
+   },
+   "2024INSC740": {
+    "grade": 0,
+    "reason": "not about murder vs culpable homicide"
+   },
+   "2024_11_1647_2038": {
+    "grade": 0,
+    "reason": "not about murder vs culpable homicide"
+   },
+   "2024INSC24": {
+    "grade": 0,
+    "reason": "not about murder vs culpable homicide"
+   },
+   "2024INSC167": {
+    "grade": 2,
+    "reason": "culpable homicide not amounting to murder; knowledge"
+   },
+   "2024INSC734": {
+    "grade": 0,
+    "reason": "not about murder vs culpable homicide"
+   },
+   "2024INSC846": {
+    "grade": 0,
+    "reason": "not about murder vs culpable homicide"
+   },
+   "2024INSC677": {
+    "grade": 0,
+    "reason": "not about murder vs culpable homicide"
+   },
+   "2024INSC487": {
+    "grade": 0,
+    "reason": "not about murder vs culpable homicide"
+   },
+   "2024INSC812": {
+    "grade": 0,
+    "reason": "not about murder vs culpable homicide"
+   },
+   "2024INSC1051": {
+    "grade": 0,
+    "reason": "not about murder vs culpable homicide"
+   },
+   "2024INSC737": {
+    "grade": 0,
+    "reason": "not about murder vs culpable homicide"
+   },
+   "2024INSC368": {
+    "grade": 0,
+    "reason": "not about murder vs culpable homicide"
+   },
+   "2024INSC562": {
+    "grade": 0,
+    "reason": "not about murder vs culpable homicide"
+   },
+   "2024INSC550": {
+    "grade": 0,
+    "reason": "not about murder vs culpable homicide"
+   },
+   "2024INSC841": {
+    "grade": 2,
+    "reason": "murder or lesser offence; sudden quarrel"
+   },
+   "2024INSC87": {
+    "grade": 1,
+    "reason": "murder conviction and sentence"
+   },
+   "2024INSC462": {
+    "grade": 2,
+    "reason": "culpable homicide not amounting to murder; provocation"
+   },
+   "2024INSC41": {
+    "grade": 0,
+    "reason": "not about murder vs culpable homicide"
+   },
+   "2024INSC21": {
+    "grade": 0,
+    "reason": "not about murder vs culpable homicide"
+   },
+   "2024INSC320": {
+    "grade": 0,
+    "reason": "not about murder vs culpable homicide"
+   },
+   "2024INSC211": {
+    "grade": 0,
+    "reason": "not about murder vs culpable homicide"
+   },
+   "2024INSC937": {
+    "grade": 2,
+    "reason": "third clause of s.300 and Exception 2; s.304"
+   },
+   "2024INSC727": {
+    "grade": 2,
+    "reason": "conviction altered to lesser offence"
+   },
+   "2024INSC460": {
+    "grade": 0,
+    "reason": "not about murder vs culpable homicide"
+   },
+   "2024INSC191": {
+    "grade": 2,
+    "reason": "s.304 Part I/II vs s.302 in celebratory firing"
+   },
+   "2024INSC666": {
+    "grade": 0,
+    "reason": "not about murder vs culpable homicide"
+   },
+   "2024INSC113": {
+    "grade": 0,
+    "reason": "not about murder vs culpable homicide"
+   },
+   "2024INSC294": {
+    "grade": 1,
+    "reason": "private defence and provocation in murder"
+   },
+   "2024INSC902": {
+    "grade": 0,
+    "reason": "not about murder vs culpable homicide"
+   },
+   "2024INSC233": {
+    "grade": 0,
+    "reason": "not about murder vs culpable homicide"
+   },
+   "2024INSC99": {
+    "grade": 0,
+    "reason": "not about murder vs culpable homicide"
+   },
+   "2024INSC482": {
+    "grade": 0,
+    "reason": "not about murder vs culpable homicide"
+   },
+   "2024INSC673": {
+    "grade": 0,
+    "reason": "not about murder vs culpable homicide"
+   },
+   "2024INSC789": {
+    "grade": 0,
+    "reason": "not about murder vs culpable homicide"
+   },
+   "2024INSC490": {
+    "grade": 1,
+    "reason": "custodial death; conviction altered by High Court"
+   },
+   "2024INSC835": {
+    "grade": 0,
+    "reason": "not about murder vs culpable homicide"
+   }
+  },
+  "q31": {
+   "2024INSC809": {
+    "grade": 2,
+    "reason": "relies on Sharad Birdhichand Sarda"
+   },
+   "2024INSC211": {
+    "grade": 2,
+    "reason": "relies on Sharad Birdhichand Sarda for circumstantial evidence"
+   },
+   "2024INSC727": {
+    "grade": 0,
+    "reason": "not a circumstantial-evidence case"
+   },
+   "2024INSC21": {
+    "grade": 2,
+    "reason": "circumstantial evidence; relies on Sharad Birdhichand Sarda"
+   },
+   "2024INSC104": {
+    "grade": 2,
+    "reason": "chain of circumstances; relies on Sharad Birdhichand Sarda"
+   },
+   "2024INSC550": {
+    "grade": 0,
+    "reason": "not a circumstantial-evidence case"
+   },
+   "2024INSC720": {
+    "grade": 0,
+    "reason": "not a circumstantial-evidence case"
+   },
+   "2024INSC614": {
+    "grade": 0,
+    "reason": "not a circumstantial-evidence case"
+   },
+   "2024INSC13": {
+    "grade": 1,
+    "reason": "circumstantial evidence without citing it"
+   },
+   "2024INSC258": {
+    "grade": 2,
+    "reason": "chain not interlinked; relies on Sharad Birdhichand Sarda"
+   },
+   "2024INSC907": {
+    "grade": 2,
+    "reason": "circumstantial evidence; cites Sharad Birdhichand Sarda"
+   },
+   "2024INSC838": {
+    "grade": 1,
+    "reason": "chain of circumstances without citing it"
+   },
+   "2024INSC19": {
+    "grade": 1,
+    "reason": "entire chain of circumstances without citing it"
+   },
+   "2024INSC878": {
+    "grade": 0,
+    "reason": "not a circumstantial-evidence case"
+   },
+   "2024INSC713": {
+    "grade": 0,
+    "reason": "not a circumstantial-evidence case"
+   },
+   "2024INSC960": {
+    "grade": 0,
+    "reason": "not a circumstantial-evidence case"
+   },
+   "2024INSC215": {
+    "grade": 2,
+    "reason": "relies on Sharad Birdhichand Sarda"
+   },
+   "2024INSC766": {
+    "grade": 0,
+    "reason": "not a circumstantial-evidence case"
+   },
+   "2024INSC879": {
+    "grade": 0,
+    "reason": "not a circumstantial-evidence case"
+   },
+   "2024INSC897": {
+    "grade": 0,
+    "reason": "not a circumstantial-evidence case"
+   },
+   "2024INSC788": {
+    "grade": 2,
+    "reason": "circumstantial evidence; relies on Sharad Birdhichand Sarda"
+   },
+   "2024INSC124": {
+    "grade": 1,
+    "reason": "chain of circumstantial evidence without citing it"
+   },
+   "2024INSC909": {
+    "grade": 0,
+    "reason": "not a circumstantial-evidence case"
+   },
+   "2024_12_1072_1092": {
+    "grade": 2,
+    "reason": "golden principles of circumstantial evidence; relies on it"
+   },
+   "2024INSC902": {
+    "grade": 0,
+    "reason": "not a circumstantial-evidence case"
+   },
+   "2024INSC198": {
+    "grade": 2,
+    "reason": "circumstantial evidence; relies on Sharad Birdhichand Sarda"
+   },
+   "2024INSC12": {
+    "grade": 0,
+    "reason": "not a circumstantial-evidence case"
+   },
+   "2024INSC181": {
+    "grade": 0,
+    "reason": "not a circumstantial-evidence case"
+   },
+   "2024INSC905": {
+    "grade": 1,
+    "reason": "circumstantial evidence without citing it"
+   },
+   "2024INSC592": {
+    "grade": 0,
+    "reason": "not a circumstantial-evidence case"
+   },
+   "2024INSC156": {
+    "grade": 0,
+    "reason": "not a circumstantial-evidence case"
+   },
+   "2024INSC216": {
+    "grade": 0,
+    "reason": "not a circumstantial-evidence case"
+   },
+   "2024INSC464": {
+    "grade": 0,
+    "reason": "not a circumstantial-evidence case"
+   },
+   "2024INSC299": {
+    "grade": 1,
+    "reason": "circumstantial evidence without citing it"
+   }
+  },
+  "q32": {
+   "2024INSC953": {
+    "grade": 0,
+    "reason": "not a settlement-quashing case"
+   },
+   "2024INSC450": {
+    "grade": 0,
+    "reason": "not a settlement-quashing case"
+   },
+   "2024INSC24": {
+    "grade": 0,
+    "reason": "not a settlement-quashing case"
+   },
+   "2024INSC614": {
+    "grade": 1,
+    "reason": "relies on Gian Singh in a different context (POCSO conviction)"
+   },
+   "2024INSC661": {
+    "grade": 1,
+    "reason": "compounding after conviction"
+   },
+   "2024INSC343": {
+    "grade": 1,
+    "reason": "cites Gian Singh in suspension-of-sentence context"
+   },
+   "2024INSC261": {
+    "grade": 0,
+    "reason": "not a settlement-quashing case"
+   },
+   "2024INSC189": {
+    "grade": 2,
+    "reason": "quashing on settlement; relies on Gian Singh"
+   },
+   "2024INSC752": {
+    "grade": 2,
+    "reason": "quashing after bank compromise; refers to Gian Singh"
+   },
+   "2024INSC846": {
+    "grade": 2,
+    "reason": "quashing on compromise in heinous offence; relies on Gian Singh"
+   },
+   "2024INSC986": {
+    "grade": 0,
+    "reason": "not a settlement-quashing case"
+   },
+   "2024INSC690": {
+    "grade": 1,
+    "reason": "compounding s.138 offence"
+   },
+   "2024INSC595": {
+    "grade": 0,
+    "reason": "not a settlement-quashing case"
+   },
+   "2024INSC263": {
+    "grade": 1,
+    "reason": "quashing on compromise without citing Gian Singh"
+   },
+   "2024INSC1014": {
+    "grade": 0,
+    "reason": "not a settlement-quashing case"
+   },
+   "2024INSC970": {
+    "grade": 0,
+    "reason": "not a settlement-quashing case"
+   },
+   "2024INSC239": {
+    "grade": 0,
+    "reason": "not a settlement-quashing case"
+   },
+   "2024INSC181": {
+    "grade": 0,
+    "reason": "not a settlement-quashing case"
+   },
+   "2024INSC869": {
+    "grade": 1,
+    "reason": "quashing non-compoundable offences on settlement"
+   },
+   "2024INSC881": {
+    "grade": 0,
+    "reason": "not a settlement-quashing case"
+   },
+   "2024INSC1039": {
+    "grade": 2,
+    "reason": "quashing on DRT settlement; relies on Gian Singh"
+   },
+   "2024INSC508": {
+    "grade": 0,
+    "reason": "not a settlement-quashing case"
+   },
+   "2024INSC227": {
+    "grade": 0,
+    "reason": "not a settlement-quashing case"
+   },
+   "2024INSC750": {
+    "grade": 2,
+    "reason": "quashing civil-character case after compromise; cites Gian Singh"
+   },
+   "2024INSC233": {
+    "grade": 0,
+    "reason": "not a settlement-quashing case"
+   },
+   "2024INSC792": {
+    "grade": 0,
+    "reason": "not a settlement-quashing case"
+   },
+   "2024INSC737": {
+    "grade": 0,
+    "reason": "not a settlement-quashing case"
+   },
+   "2024INSC819": {
+    "grade": 0,
+    "reason": "not a settlement-quashing case"
+   },
+   "2024INSC789": {
+    "grade": 0,
+    "reason": "not a settlement-quashing case"
+   },
+   "2024_12_866_892": {
+    "grade": 0,
+    "reason": "not a settlement-quashing case"
+   },
+   "2024INSC101": {
+    "grade": 1,
+    "reason": "re-initiated matrimonial case after compromise"
+   },
+   "2024INSC342": {
+    "grade": 0,
+    "reason": "not a settlement-quashing case"
+   },
+   "2024INSC316": {
+    "grade": 0,
+    "reason": "not a settlement-quashing case"
+   },
+   "2024INSC799": {
+    "grade": 0,
+    "reason": "not a settlement-quashing case"
+   },
+   "2024INSC782": {
+    "grade": 0,
+    "reason": "not a settlement-quashing case"
+   },
+   "2024INSC877": {
+    "grade": 0,
+    "reason": "not a settlement-quashing case"
+   },
+   "2024INSC26": {
+    "grade": 0,
+    "reason": "not a settlement-quashing case"
+   },
+   "2024INSC196": {
+    "grade": 0,
+    "reason": "not a settlement-quashing case"
+   }
+  },
+  "q33": {
+   "2024INSC817": {
+    "grade": 0,
+    "reason": "not an arbitration referral case"
+   },
+   "2024INSC532": {
+    "grade": 2,
+    "reason": "s.11 referral scrutiny; cites Vidya Drolia"
+   },
+   "2024INSC292": {
+    "grade": 0,
+    "reason": "not an arbitration referral case"
+   },
+   "2024INSC902": {
+    "grade": 0,
+    "reason": "not an arbitration referral case"
+   },
+   "2024INSC155": {
+    "grade": 2,
+    "reason": "limitation for s.11(6); relies on Vidya Drolia"
+   },
+   "2024INSC895": {
+    "grade": 0,
+    "reason": "not an arbitration referral case"
+   },
+   "2024INSC364": {
+    "grade": 0,
+    "reason": "not an arbitration referral case"
+   },
+   "2024INSC536": {
+    "grade": 2,
+    "reason": "time-barred claims at referral; relies on Vidya Drolia"
+   },
+   "2024INSC932": {
+    "grade": 0,
+    "reason": "not an arbitration referral case"
+   },
+   "2024INSC266": {
+    "grade": 0,
+    "reason": "not an arbitration referral case"
+   },
+   "2024INSC851": {
+    "grade": 1,
+    "reason": "s.11(6) maintainability"
+   },
+   "2024INSC849": {
+    "grade": 2,
+    "reason": "referral court jurisdiction; relies on Vidya Drolia"
+   },
+   "2024INSC668": {
+    "grade": 0,
+    "reason": "not an arbitration referral case"
+   },
+   "2024INSC670": {
+    "grade": 1,
+    "reason": "s.11 prima facie existence without citing it"
+   },
+   "2024INSC789": {
+    "grade": 0,
+    "reason": "not an arbitration referral case"
+   },
+   "2024INSC754": {
+    "grade": 0,
+    "reason": "not an arbitration referral case"
+   },
+   "2024_12_987_992": {
+    "grade": 2,
+    "reason": "existence of arbitration clause; relies on Vidya Drolia"
+   },
+   "2024INSC621": {
+    "grade": 0,
+    "reason": "not an arbitration referral case"
+   },
+   "2024INSC513": {
+    "grade": 0,
+    "reason": "not an arbitration referral case"
+   },
+   "2024INSC857": {
+    "grade": 1,
+    "reason": "unilateral appointment; refers to Vidya Drolia"
+   },
+   "2024INSC710": {
+    "grade": 2,
+    "reason": "scope of referral court u/s.11(6); relies on Vidya Drolia"
+   },
+   "2024INSC853": {
+    "grade": 1,
+    "reason": "scope of s.11 inquiry without citing it"
+   },
+   "2024INSC940": {
+    "grade": 0,
+    "reason": "not an arbitration referral case"
+   },
+   "2024INSC805": {
+    "grade": 1,
+    "reason": "s.11 application on lease arbitration clause"
+   },
+   "2024INSC966": {
+    "grade": 2,
+    "reason": "arbitrability at referral; relies on Vidya Drolia"
+   },
+   "2024INSC377": {
+    "grade": 0,
+    "reason": "not an arbitration referral case"
+   },
+   "2024INSC136": {
+    "grade": 0,
+    "reason": "not an arbitration referral case"
+   },
+   "2024INSC117": {
+    "grade": 0,
+    "reason": "not an arbitration referral case"
+   },
+   "2024INSC460": {
+    "grade": 0,
+    "reason": "not an arbitration referral case"
+   },
+   "2024INSC477": {
+    "grade": 0,
+    "reason": "not an arbitration referral case"
+   },
+   "2024INSC353": {
+    "grade": 0,
+    "reason": "not an arbitration referral case"
+   },
+   "2024INSC866": {
+    "grade": 0,
+    "reason": "not an arbitration referral case"
+   },
+   "2024_12_843_865": {
+    "grade": 0,
+    "reason": "not an arbitration referral case"
+   },
+   "2024INSC579": {
+    "grade": 0,
+    "reason": "not an arbitration referral case"
+   }
+  },
+  "q35": {
+   "2024INSC58": {
+    "grade": 0,
+    "reason": "not a delay-based special-statute bail case"
+   },
+   "2024INSC269": {
+    "grade": 1,
+    "reason": "UAPA bail on long detention without citing it"
+   },
+   "2024INSC809": {
+    "grade": 0,
+    "reason": "not a delay-based special-statute bail case"
+   },
+   "2024INSC909": {
+    "grade": 0,
+    "reason": "not a delay-based special-statute bail case"
+   },
+   "2024INSC92": {
+    "grade": 1,
+    "reason": "UAPA bail refused despite delay"
+   },
+   "2024INSC452": {
+    "grade": 1,
+    "reason": "UAPA bail cancelled; refers to K.A. Najeeb"
+   },
+   "2024_12_1093_1107": {
+    "grade": 2,
+    "reason": "UAPA bail; K.A. Najeeb held applicable"
+   },
+   "2024INSC537": {
+    "grade": 0,
+    "reason": "not a delay-based special-statute bail case"
+   },
+   "2024INSC913": {
+    "grade": 0,
+    "reason": "not a delay-based special-statute bail case"
+   },
+   "2024INSC669": {
+    "grade": 0,
+    "reason": "not a delay-based special-statute bail case"
+   },
+   "2024INSC636": {
+    "grade": 0,
+    "reason": "not a delay-based special-statute bail case"
+   },
+   "2025INSC1045": {
+    "grade": 0,
+    "reason": "not a delay-based special-statute bail case"
+   },
+   "2024_12_837_842": {
+    "grade": 1,
+    "reason": "delay-based bail without citing it"
+   },
+   "2024INSC438": {
+    "grade": 0,
+    "reason": "not a delay-based special-statute bail case"
+   },
+   "2024INSC479": {
+    "grade": 0,
+    "reason": "not a delay-based special-statute bail case"
+   },
+   "2024INSC323": {
+    "grade": 0,
+    "reason": "not a delay-based special-statute bail case"
+   },
+   "2024INSC46": {
+    "grade": 0,
+    "reason": "not a delay-based special-statute bail case"
+   },
+   "2024INSC716": {
+    "grade": 0,
+    "reason": "not a delay-based special-statute bail case"
+   },
+   "2024INSC645": {
+    "grade": 2,
+    "reason": "UAPA undertrial bail; relies on K.A. Najeeb"
+   },
+   "2024INSC595": {
+    "grade": 2,
+    "reason": "PMLA bail on delay; cites K.A. Najeeb"
+   },
+   "2024INSC739": {
+    "grade": 2,
+    "reason": "PMLA bail on long incarceration; cites K.A. Najeeb"
+   },
+   "2024INSC448": {
+    "grade": 0,
+    "reason": "not a delay-based special-statute bail case"
+   },
+   "2024INSC546": {
+    "grade": 0,
+    "reason": "not a delay-based special-statute bail case"
+   },
+   "2024INSC534": {
+    "grade": 2,
+    "reason": "UAPA bail after 9 years; relies on K.A. Najeeb"
+   },
+   "2024INSC687": {
+    "grade": 1,
+    "reason": "bail and arrest; refers to K.A. Najeeb"
+   }
+  },
+  "q36": {
+   "2024INSC128": {
+    "grade": 0,
+    "reason": "not a bail/arrest guideline case"
+   },
+   "2024INSC687": {
+    "grade": 1,
+    "reason": "s.41A arrest and bail"
+   },
+   "2024INSC899": {
+    "grade": 1,
+    "reason": "bail is rule; time-bound trial"
+   },
+   "2024INSC438": {
+    "grade": 0,
+    "reason": "not a bail/arrest guideline case"
+   },
+   "2024INSC625": {
+    "grade": 2,
+    "reason": "anticipatory bail; relies on Satender Kumar Antil"
+   },
+   "2024_12_1093_1107": {
+    "grade": 0,
+    "reason": "not a bail/arrest guideline case"
+   },
+   "2024INSC877": {
+    "grade": 0,
+    "reason": "not a bail/arrest guideline case"
+   },
+   "2024INSC150": {
+    "grade": 0,
+    "reason": "not a bail/arrest guideline case"
+   },
+   "2024INSC134": {
+    "grade": 2,
+    "reason": "compliance with Satender Kumar Antil directions"
+   },
+   "2024INSC546": {
+    "grade": 0,
+    "reason": "not a bail/arrest guideline case"
+   },
+   "2024INSC617": {
+    "grade": 1,
+    "reason": "bail sureties guidance"
+   },
+   "2024INSC823": {
+    "grade": 0,
+    "reason": "not a bail/arrest guideline case"
+   },
+   "2024INSC655": {
+    "grade": 0,
+    "reason": "not a bail/arrest guideline case"
+   },
+   "2024INSC34": {
+    "grade": 0,
+    "reason": "not a bail/arrest guideline case"
+   },
+   "2024INSC534": {
+    "grade": 0,
+    "reason": "not a bail/arrest guideline case"
+   },
+   "2024INSC295": {
+    "grade": 0,
+    "reason": "not a bail/arrest guideline case"
+   },
+   "2024_12_680_692": {
+    "grade": 1,
+    "reason": "bail application requirements; judicial officer's bail order"
+   },
+   "2024INSC909": {
+    "grade": 0,
+    "reason": "not a bail/arrest guideline case"
+   },
+   "2024INSC907": {
+    "grade": 0,
+    "reason": "not a bail/arrest guideline case"
+   },
+   "2024INSC645": {
+    "grade": 0,
+    "reason": "not a bail/arrest guideline case"
+   },
+   "2024INSC636": {
+    "grade": 0,
+    "reason": "not a bail/arrest guideline case"
+   },
+   "2024INSC400": {
+    "grade": 0,
+    "reason": "not a bail/arrest guideline case"
+   },
+   "2024INSC813": {
+    "grade": 0,
+    "reason": "not a bail/arrest guideline case"
+   },
+   "2024INSC512": {
+    "grade": 1,
+    "reason": "necessity of arrest"
+   },
+   "2024INSC669": {
+    "grade": 0,
+    "reason": "not a bail/arrest guideline case"
+   },
+   "2024INSC323": {
+    "grade": 0,
+    "reason": "not a bail/arrest guideline case"
+   },
+   "2024INSC434": {
+    "grade": 0,
+    "reason": "not a bail/arrest guideline case"
+   },
+   "2024INSC475": {
+    "grade": 0,
+    "reason": "not a bail/arrest guideline case"
+   },
+   "2024INSC782": {
+    "grade": 0,
+    "reason": "not a bail/arrest guideline case"
+   },
+   "2024INSC479": {
+    "grade": 0,
+    "reason": "not a bail/arrest guideline case"
+   },
+   "2024INSC595": {
+    "grade": 0,
+    "reason": "not a bail/arrest guideline case"
+   },
+   "2024INSC299": {
+    "grade": 0,
+    "reason": "not a bail/arrest guideline case"
+   },
+   "2024INSC92": {
+    "grade": 0,
+    "reason": "not a bail/arrest guideline case"
+   },
+   "2024INSC588": {
+    "grade": 0,
+    "reason": "not a bail/arrest guideline case"
+   },
+   "2024INSC739": {
+    "grade": 0,
+    "reason": "not a bail/arrest guideline case"
+   },
+   "2024INSC414": {
+    "grade": 1,
+    "reason": "grounds of arrest"
+   }
+  },
+  "q37": {
+   "2024INSC55": {
+    "grade": 2,
+    "reason": "Art.142 divorce; relies on Shilpa Sailesh"
+   },
+   "2024INSC897": {
+    "grade": 0,
+    "reason": "not an irretrievable-breakdown dissolution case"
+   },
+   "2024INSC450": {
+    "grade": 1,
+    "reason": "Art.142 divorce without citing it"
+   },
+   "2024INSC665": {
+    "grade": 0,
+    "reason": "not an irretrievable-breakdown dissolution case"
+   },
+   "2024INSC900": {
+    "grade": 0,
+    "reason": "not an irretrievable-breakdown dissolution case"
+   },
+   "2024INSC960": {
+    "grade": 0,
+    "reason": "not an irretrievable-breakdown dissolution case"
+   },
+   "2024INSC879": {
+    "grade": 0,
+    "reason": "not an irretrievable-breakdown dissolution case"
+   },
+   "2024INSC1019": {
+    "grade": 0,
+    "reason": "not an irretrievable-breakdown dissolution case"
+   },
+   "2024INSC1014": {
+    "grade": 2,
+    "reason": "Art.142 divorce; follows Shilpa Sailesh"
+   },
+   "2024INSC382": {
+    "grade": 2,
+    "reason": "Art.142 divorce; follows Shilpa Sailesh"
+   },
+   "2024INSC953": {
+    "grade": 0,
+    "reason": "not an irretrievable-breakdown dissolution case"
+   },
+   "2024INSC646": {
+    "grade": 0,
+    "reason": "not an irretrievable-breakdown dissolution case"
+   },
+   "2024INSC661": {
+    "grade": 0,
+    "reason": "not an irretrievable-breakdown dissolution case"
+   },
+   "2024INSC614": {
+    "grade": 0,
+    "reason": "not an irretrievable-breakdown dissolution case"
+   },
+   "2024INSC274": {
+    "grade": 0,
+    "reason": "not an irretrievable-breakdown dissolution case"
+   },
+   "2024INSC324": {
+    "grade": 0,
+    "reason": "not an irretrievable-breakdown dissolution case"
+   },
+   "2024INSC639": {
+    "grade": 0,
+    "reason": "not an irretrievable-breakdown dissolution case"
+   },
+   "2024INSC690": {
+    "grade": 0,
+    "reason": "not an irretrievable-breakdown dissolution case"
+   },
+   "2024INSC530": {
+    "grade": 2,
+    "reason": "Art.142 dissolution; relies on Shilpa Sailesh"
+   },
+   "2024INSC129": {
+    "grade": 0,
+    "reason": "not an irretrievable-breakdown dissolution case"
+   },
+   "2024INSC101": {
+    "grade": 0,
+    "reason": "not an irretrievable-breakdown dissolution case"
+   },
+   "2024INSC610": {
+    "grade": 0,
+    "reason": "not an irretrievable-breakdown dissolution case"
+   },
+   "2024INSC519": {
+    "grade": 0,
+    "reason": "not an irretrievable-breakdown dissolution case"
+   },
+   "2024INSC216": {
+    "grade": 0,
+    "reason": "not an irretrievable-breakdown dissolution case"
+   },
+   "2024INSC517": {
+    "grade": 1,
+    "reason": "Art.142 irretrievable breakdown without citing it"
+   },
+   "2024INSC525": {
+    "grade": 0,
+    "reason": "not an irretrievable-breakdown dissolution case"
+   },
+   "2024INSC961": {
+    "grade": 1,
+    "reason": "alimony; refers to Shilpa Sailesh"
+   },
+   "2024INSC355": {
+    "grade": 0,
+    "reason": "not an irretrievable-breakdown dissolution case"
+   },
+   "2024INSC607": {
+    "grade": 0,
+    "reason": "not an irretrievable-breakdown dissolution case"
+   },
+   "2024INSC754": {
+    "grade": 0,
+    "reason": "not an irretrievable-breakdown dissolution case"
+   },
+   "2024_12_755_768": {
+    "grade": 1,
+    "reason": "divorce on cruelty/breakdown; refers to Shilpa Sailesh"
+   }
+  },
+  "q40": {
+   "2024INSC99": {
+    "grade": 0,
+    "reason": "not an appeal-against-acquittal case"
+   },
+   "2024INSC852": {
+    "grade": 0,
+    "reason": "not an appeal-against-acquittal case"
+   },
+   "2024INSC953": {
+    "grade": 0,
+    "reason": "not an appeal-against-acquittal case"
+   },
+   "2024INSC841": {
+    "grade": 0,
+    "reason": "not an appeal-against-acquittal case"
+   },
+   "2024INSC1020": {
+    "grade": 0,
+    "reason": "not an appeal-against-acquittal case"
+   },
+   "2024INSC721": {
+    "grade": 1,
+    "reason": "conviction of one and acquittal of other"
+   },
+   "2024INSC125": {
+    "grade": 1,
+    "reason": "limitation for appeal against acquittal"
+   },
+   "2024INSC198": {
+    "grade": 2,
+    "reason": "scope of interference with acquittal; two views"
+   },
+   "2024INSC104": {
+    "grade": 2,
+    "reason": "qualified power of High Court to reverse acquittal"
+   },
+   "2024INSC21": {
+    "grade": 0,
+    "reason": "not an appeal-against-acquittal case"
+   },
+   "2024INSC134": {
+    "grade": 0,
+    "reason": "not an appeal-against-acquittal case"
+   },
+   "2024INSC519": {
+    "grade": 0,
+    "reason": "not an appeal-against-acquittal case"
+   },
+   "2024INSC19": {
+    "grade": 0,
+    "reason": "not an appeal-against-acquittal case"
+   },
+   "2024INSC838": {
+    "grade": 0,
+    "reason": "not an appeal-against-acquittal case"
+   },
+   "2024INSC295": {
+    "grade": 2,
+    "reason": "overturning acquittal; plausible view"
+   },
+   "2024INSC928": {
+    "grade": 1,
+    "reason": "High Court acquittal reversed in corruption case"
+   },
+   "2024INSC590": {
+    "grade": 1,
+    "reason": "concurrent conviction; cites acquittal-restraint precedents"
+   },
+   "2024INSC735": {
+    "grade": 2,
+    "reason": "reversal of acquittal not in line with settled law"
+   },
+   "2024INSC809": {
+    "grade": 2,
+    "reason": "reversal of acquittal requires perversity"
+   },
+   "2024INSC258": {
+    "grade": 2,
+    "reason": "two possible views; acquittal restored"
+   },
+   "2024INSC717": {
+    "grade": 0,
+    "reason": "not an appeal-against-acquittal case"
+   },
+   "2024INSC488": {
+    "grade": 0,
+    "reason": "not an appeal-against-acquittal case"
+   },
+   "2024INSC88": {
+    "grade": 0,
+    "reason": "not an appeal-against-acquittal case"
+   },
+   "2024INSC172": {
+    "grade": 0,
+    "reason": "not an appeal-against-acquittal case"
+   },
+   "2024INSC343": {
+    "grade": 0,
+    "reason": "not an appeal-against-acquittal case"
+   },
+   "2024INSC586": {
+    "grade": 1,
+    "reason": "acquittal affirmed in NI Act case"
+   },
+   "2024INSC465": {
+    "grade": 0,
+    "reason": "not an appeal-against-acquittal case"
+   },
+   "2024INSC320": {
+    "grade": 2,
+    "reason": "High Court reversing acquittal without perversity"
+   },
+   "2024INSC124": {
+    "grade": 2,
+    "reason": "acquittal reversed; two possible views"
+   },
+   "2024INSC154": {
+    "grade": 2,
+    "reason": "appeal against acquittal; presumption of innocence"
+   },
+   "2024INSC169": {
+    "grade": 0,
+    "reason": "not an appeal-against-acquittal case"
+   },
+   "2024INSC117": {
+    "grade": 0,
+    "reason": "not an appeal-against-acquittal case"
+   }
+  },
+  "q41": {
+   "2024INSC486": {
+    "grade": 0,
+    "reason": "not a regularisation / Umadevi case"
+   },
+   "2024INSC591": {
+    "grade": 0,
+    "reason": "not a regularisation / Umadevi case"
+   },
+   "2024INSC137": {
+    "grade": 0,
+    "reason": "not a regularisation / Umadevi case"
+   },
+   "2024INSC332": {
+    "grade": 2,
+    "reason": "regularisation granted; Umadevi distinguished"
+   },
+   "2024INSC230": {
+    "grade": 1,
+    "reason": "regular recruitment dispute; refers to Umadevi"
+   },
+   "2024INSC733": {
+    "grade": 0,
+    "reason": "not a regularisation / Umadevi case"
+   },
+   "2024_12_1148_1159": {
+    "grade": 0,
+    "reason": "not a regularisation / Umadevi case"
+   },
+   "2024INSC26": {
+    "grade": 0,
+    "reason": "not a regularisation / Umadevi case"
+   },
+   "2024INSC608": {
+    "grade": 0,
+    "reason": "not a regularisation / Umadevi case"
+   },
+   "2024INSC555": {
+    "grade": 0,
+    "reason": "not a regularisation / Umadevi case"
+   },
+   "2024INSC634": {
+    "grade": 0,
+    "reason": "not a regularisation / Umadevi case"
+   },
+   "2024INSC425": {
+    "grade": 0,
+    "reason": "not a regularisation / Umadevi case"
+   },
+   "2024INSC277": {
+    "grade": 0,
+    "reason": "not a regularisation / Umadevi case"
+   },
+   "2024INSC466": {
+    "grade": 0,
+    "reason": "not a regularisation / Umadevi case"
+   },
+   "2024INSC219": {
+    "grade": 0,
+    "reason": "not a regularisation / Umadevi case"
+   },
+   "2024INSC393": {
+    "grade": 0,
+    "reason": "not a regularisation / Umadevi case"
+   },
+   "2024INSC501": {
+    "grade": 0,
+    "reason": "not a regularisation / Umadevi case"
+   },
+   "2024INSC829": {
+    "grade": 0,
+    "reason": "not a regularisation / Umadevi case"
+   },
+   "2024INSC461": {
+    "grade": 0,
+    "reason": "not a regularisation / Umadevi case"
+   },
+   "2024INSC190": {
+    "grade": 0,
+    "reason": "not a regularisation / Umadevi case"
+   },
+   "2024INSC306": {
+    "grade": 1,
+    "reason": "temporary vacancies and regularisation"
+   },
+   "2024INSC687": {
+    "grade": 0,
+    "reason": "not a regularisation / Umadevi case"
+   },
+   "2024INSC267": {
+    "grade": 0,
+    "reason": "not a regularisation / Umadevi case"
+   },
+   "2024INSC894": {
+    "grade": 0,
+    "reason": "not a regularisation / Umadevi case"
+   },
+   "2024INSC549": {
+    "grade": 0,
+    "reason": "not a regularisation / Umadevi case"
+   },
+   "2024INSC42": {
+    "grade": 0,
+    "reason": "not a regularisation / Umadevi case"
+   },
+   "2024INSC862": {
+    "grade": 0,
+    "reason": "not a regularisation / Umadevi case"
+   },
+   "2024_12_954_957": {
+    "grade": 0,
+    "reason": "not a regularisation / Umadevi case"
+   },
+   "2024INSC621": {
+    "grade": 1,
+    "reason": "temporary employees' pension claim"
+   },
+   "2024INSC663": {
+    "grade": 0,
+    "reason": "not a regularisation / Umadevi case"
+   },
+   "2024INSC835": {
+    "grade": 0,
+    "reason": "not a regularisation / Umadevi case"
+   },
+   "2024INSC1034": {
+    "grade": 2,
+    "reason": "regularisation; misapplication of Umadevi corrected"
+   },
+   "2024INSC753": {
+    "grade": 0,
+    "reason": "not a regularisation / Umadevi case"
+   },
+   "2024INSC911": {
+    "grade": 2,
+    "reason": "outsourced employee's claim; Umadevi distinguished"
+   },
+   "2024INSC748": {
+    "grade": 0,
+    "reason": "not a regularisation / Umadevi case"
+   }
+  },
+  "q42": {
+   "2024INSC230": {
+    "grade": 0,
+    "reason": "not a judicial-recruitment criteria case"
+   },
+   "2024INSC763": {
+    "grade": 0,
+    "reason": "not a judicial-recruitment criteria case"
+   },
+   "2024_11_1647_2038": {
+    "grade": 0,
+    "reason": "not a judicial-recruitment criteria case"
+   },
+   "2024INSC7": {
+    "grade": 0,
+    "reason": "not a judicial-recruitment criteria case"
+   },
+   "2024INSC381": {
+    "grade": 1,
+    "reason": "minimum viva voce marks in judicial recruitment"
+   },
+   "2024INSC97": {
+    "grade": 1,
+    "reason": "altering selection criteria; follows Sivanandan C.T."
+   },
+   "2024INSC647": {
+    "grade": 1,
+    "reason": "minimum interview marks; follows Sivanandan C.T."
+   },
+   "2024INSC1034": {
+    "grade": 0,
+    "reason": "not a judicial-recruitment criteria case"
+   },
+   "2024INSC943": {
+    "grade": 0,
+    "reason": "not a judicial-recruitment criteria case"
+   },
+   "2024INSC436": {
+    "grade": 1,
+    "reason": "judicial promotion criteria"
+   },
+   "2024INSC562": {
+    "grade": 0,
+    "reason": "not a judicial-recruitment criteria case"
+   },
+   "2024INSC828": {
+    "grade": 1,
+    "reason": "qualification in recruitment; refers to Sivanandan C.T."
+   },
+   "2024_12_1148_1159": {
+    "grade": 0,
+    "reason": "not a judicial-recruitment criteria case"
+   },
+   "2024INSC137": {
+    "grade": 0,
+    "reason": "not a judicial-recruitment criteria case"
+   },
+   "2024INSC352": {
+    "grade": 0,
+    "reason": "not a judicial-recruitment criteria case"
+   },
+   "2024INSC673": {
+    "grade": 0,
+    "reason": "not a judicial-recruitment criteria case"
+   },
+   "2024INSC332": {
+    "grade": 0,
+    "reason": "not a judicial-recruitment criteria case"
+   },
+   "2024INSC847": {
+    "grade": 1,
+    "reason": "rules of the game reference; cites Sivanandan C.T."
+   },
+   "2024INSC545": {
+    "grade": 0,
+    "reason": "not a judicial-recruitment criteria case"
+   },
+   "2024INSC188": {
+    "grade": 0,
+    "reason": "not a judicial-recruitment criteria case"
+   },
+   "2024INSC192": {
+    "grade": 2,
+    "reason": "Sivanandan C.T. distinguished in judicial promotion"
+   },
+   "2024INSC131": {
+    "grade": 0,
+    "reason": "not a judicial-recruitment criteria case"
+   },
+   "2024INSC1003": {
+    "grade": 0,
+    "reason": "not a judicial-recruitment criteria case"
+   },
+   "2024INSC531": {
+    "grade": 0,
+    "reason": "not a judicial-recruitment criteria case"
+   }
+  },
+  "q43": {
+   "2024INSC536": {
+    "grade": 0,
+    "reason": "not about royalty or mineral taxation"
+   },
+   "2024INSC399": {
+    "grade": 0,
+    "reason": "not about royalty or mineral taxation"
+   },
+   "2024INSC432": {
+    "grade": 0,
+    "reason": "not about royalty or mineral taxation"
+   },
+   "2024INSC486": {
+    "grade": 0,
+    "reason": "not about royalty or mineral taxation"
+   },
+   "2024INSC545": {
+    "grade": 0,
+    "reason": "not about royalty or mineral taxation"
+   },
+   "2024INSC456": {
+    "grade": 0,
+    "reason": "not about royalty or mineral taxation"
+   },
+   "2024INSC885": {
+    "grade": 0,
+    "reason": "not about royalty or mineral taxation"
+   },
+   "2024INSC455": {
+    "grade": 0,
+    "reason": "not about royalty or mineral taxation"
+   },
+   "2024INSC812": {
+    "grade": 0,
+    "reason": "not about royalty or mineral taxation"
+   },
+   "2024INSC756": {
+    "grade": 0,
+    "reason": "not about royalty or mineral taxation"
+   },
+   "2024INSC1060": {
+    "grade": 0,
+    "reason": "not about royalty or mineral taxation"
+   },
+   "2024INSC854": {
+    "grade": 0,
+    "reason": "not about royalty or mineral taxation"
+   },
+   "2024INSC155": {
+    "grade": 0,
+    "reason": "not about royalty or mineral taxation"
+   },
+   "2024INSC554": {
+    "grade": 2,
+    "reason": "India Cement overruled; royalty not a tax"
+   },
+   "2024_11_1647_2038": {
+    "grade": 0,
+    "reason": "not about royalty or mineral taxation"
+   },
+   "2024INSC532": {
+    "grade": 0,
+    "reason": "not about royalty or mineral taxation"
+   },
+   "2024INSC499": {
+    "grade": 0,
+    "reason": "not about royalty or mineral taxation"
+   },
+   "2024INSC784": {
+    "grade": 1,
+    "reason": "royalty vs tax on advertisements"
+   },
+   "2024INSC948": {
+    "grade": 1,
+    "reason": "mining lease rent and legislative competence"
+   },
+   "2024INSC454": {
+    "grade": 0,
+    "reason": "not about royalty or mineral taxation"
+   },
+   "2024INSC512": {
+    "grade": 0,
+    "reason": "not about royalty or mineral taxation"
+   },
+   "2024INSC480": {
+    "grade": 0,
+    "reason": "not about royalty or mineral taxation"
+   },
+   "2024INSC41": {
+    "grade": 0,
+    "reason": "not about royalty or mineral taxation"
+   },
+   "2024INSC835": {
+    "grade": 0,
+    "reason": "not about royalty or mineral taxation"
+   },
+   "2024INSC840": {
+    "grade": 0,
+    "reason": "not about royalty or mineral taxation"
+   },
+   "2024_12_893_922": {
+    "grade": 0,
+    "reason": "not about royalty or mineral taxation"
+   },
+   "2024INSC83": {
+    "grade": 0,
+    "reason": "not about royalty or mineral taxation"
+   },
+   "2024INSC978": {
+    "grade": 0,
+    "reason": "not about royalty or mineral taxation"
+   },
+   "2024INSC216": {
+    "grade": 0,
+    "reason": "not about royalty or mineral taxation"
+   },
+   "2024INSC607": {
+    "grade": 2,
+    "reason": "prospective effect of overruling India Cement"
+   },
+   "2024INSC848": {
+    "grade": 1,
+    "reason": "computation of mining royalty"
+   },
+   "2024INSC558": {
+    "grade": 0,
+    "reason": "not about royalty or mineral taxation"
+   }
+  },
+  "q44": {
+   "2024INSC466": {
+    "grade": 0,
+    "reason": "not a Scheduled Caste reservation case"
+   },
+   "2024INSC854": {
+    "grade": 0,
+    "reason": "not a Scheduled Caste reservation case"
+   },
+   "2024INSC549": {
+    "grade": 1,
+    "reason": "promotion in Scheduled Caste category"
+   },
+   "2024INSC711": {
+    "grade": 0,
+    "reason": "not a Scheduled Caste reservation case"
+   },
+   "2024INSC857": {
+    "grade": 0,
+    "reason": "not a Scheduled Caste reservation case"
+   },
+   "2024INSC753": {
+    "grade": 0,
+    "reason": "not a Scheduled Caste reservation case"
+   },
+   "2024INSC113": {
+    "grade": 0,
+    "reason": "not a Scheduled Caste reservation case"
+   },
+   "2024INSC812": {
+    "grade": 0,
+    "reason": "not a Scheduled Caste reservation case"
+   },
+   "2024INSC119": {
+    "grade": 1,
+    "reason": "reservation for Scheduled Castes/Tribes in allotment"
+   },
+   "2024_12_665_679": {
+    "grade": 0,
+    "reason": "not a Scheduled Caste reservation case"
+   },
+   "2024INSC900": {
+    "grade": 1,
+    "reason": "Scheduled Caste community certificate"
+   },
+   "2024INSC607": {
+    "grade": 0,
+    "reason": "not a Scheduled Caste reservation case"
+   },
+   "2024INSC756": {
+    "grade": 0,
+    "reason": "not a Scheduled Caste reservation case"
+   },
+   "2024INSC669": {
+    "grade": 0,
+    "reason": "not a Scheduled Caste reservation case"
+   },
+   "2024INSC625": {
+    "grade": 0,
+    "reason": "not a Scheduled Caste reservation case"
+   },
+   "2024INSC361": {
+    "grade": 0,
+    "reason": "not a Scheduled Caste reservation case"
+   },
+   "2024INSC41": {
+    "grade": 0,
+    "reason": "not a Scheduled Caste reservation case"
+   },
+   "2024INSC454": {
+    "grade": 0,
+    "reason": "not a Scheduled Caste reservation case"
+   },
+   "2024INSC847": {
+    "grade": 0,
+    "reason": "not a Scheduled Caste reservation case"
+   },
+   "2024INSC477": {
+    "grade": 0,
+    "reason": "not a Scheduled Caste reservation case"
+   },
+   "2024_12_893_922": {
+    "grade": 0,
+    "reason": "not a Scheduled Caste reservation case"
+   },
+   "2024INSC554": {
+    "grade": 0,
+    "reason": "not a Scheduled Caste reservation case"
+   },
+   "2024INSC545": {
+    "grade": 0,
+    "reason": "not a Scheduled Caste reservation case"
+   },
+   "2024INSC835": {
+    "grade": 0,
+    "reason": "not a Scheduled Caste reservation case"
+   },
+   "2024INSC634": {
+    "grade": 1,
+    "reason": "de-scheduled castes and SC benefits"
+   },
+   "2024INSC562": {
+    "grade": 2,
+    "reason": "E.V. Chinnaiah overruled; sub-classification of Scheduled Castes permissible"
+   },
+   "2024INSC894": {
+    "grade": 0,
+    "reason": "not a Scheduled Caste reservation case"
+   },
+   "2024INSC509": {
+    "grade": 0,
+    "reason": "not a Scheduled Caste reservation case"
+   },
+   "2024_11_1647_2038": {
+    "grade": 0,
+    "reason": "not a Scheduled Caste reservation case"
+   },
+   "2024INSC24": {
+    "grade": 0,
+    "reason": "not a Scheduled Caste reservation case"
+   },
+   "2024INSC455": {
+    "grade": 0,
+    "reason": "not a Scheduled Caste reservation case"
+   },
+   "2024INSC789": {
+    "grade": 0,
+    "reason": "not a Scheduled Caste reservation case"
+   },
+   "2024INSC840": {
+    "grade": 0,
+    "reason": "not a Scheduled Caste reservation case"
+   },
+   "2024INSC266": {
+    "grade": 1,
+    "reason": "caste validity certificate"
+   },
+   "2024INSC528": {
+    "grade": 1,
+    "reason": "merger of caste into Scheduled Castes list"
+   },
+   "2024INSC615": {
+    "grade": 0,
+    "reason": "not a Scheduled Caste reservation case"
+   },
+   "2024INSC456": {
+    "grade": 0,
+    "reason": "not a Scheduled Caste reservation case"
+   },
+   "2024INSC12": {
+    "grade": 0,
+    "reason": "not a Scheduled Caste reservation case"
+   }
+  },
+  "q45": {
+   "2024INSC857": {
+    "grade": 0,
+    "reason": "not about legislative privilege or bribery of legislators"
+   },
+   "2024INSC789": {
+    "grade": 0,
+    "reason": "not about legislative privilege or bribery of legislators"
+   },
+   "2024INSC282": {
+    "grade": 0,
+    "reason": "not about legislative privilege or bribery of legislators"
+   },
+   "2024INSC636": {
+    "grade": 0,
+    "reason": "not about legislative privilege or bribery of legislators"
+   },
+   "2024INSC391": {
+    "grade": 0,
+    "reason": "not about legislative privilege or bribery of legislators"
+   },
+   "2024INSC512": {
+    "grade": 0,
+    "reason": "not about legislative privilege or bribery of legislators"
+   },
+   "2024INSC129": {
+    "grade": 0,
+    "reason": "not about legislative privilege or bribery of legislators"
+   },
+   "2024INSC554": {
+    "grade": 0,
+    "reason": "not about legislative privilege or bribery of legislators"
+   },
+   "2024INSC161": {
+    "grade": 2,
+    "reason": "P.V. Narasimha Rao overruled; no immunity for bribery"
+   },
+   "2024INSC753": {
+    "grade": 0,
+    "reason": "not about legislative privilege or bribery of legislators"
+   },
+   "2024INSC835": {
+    "grade": 0,
+    "reason": "not about legislative privilege or bribery of legislators"
+   },
+   "2024INSC866": {
+    "grade": 0,
+    "reason": "not about legislative privilege or bribery of legislators"
+   },
+   "2024_12_1044_1071": {
+    "grade": 0,
+    "reason": "not about legislative privilege or bribery of legislators"
+   },
+   "2024INSC255": {
+    "grade": 0,
+    "reason": "not about legislative privilege or bribery of legislators"
+   },
+   "2024INSC400": {
+    "grade": 0,
+    "reason": "not about legislative privilege or bribery of legislators"
+   },
+   "2024INSC113": {
+    "grade": 0,
+    "reason": "not about legislative privilege or bribery of legislators"
+   },
+   "2024INSC984": {
+    "grade": 0,
+    "reason": "not about legislative privilege or bribery of legislators"
+   },
+   "2024INSC913": {
+    "grade": 0,
+    "reason": "not about legislative privilege or bribery of legislators"
+   },
+   "2024INSC6": {
+    "grade": 0,
+    "reason": "not about legislative privilege or bribery of legislators"
+   },
+   "2024INSC454": {
+    "grade": 0,
+    "reason": "not about legislative privilege or bribery of legislators"
+   },
+   "2024INSC277": {
+    "grade": 0,
+    "reason": "not about legislative privilege or bribery of legislators"
+   },
+   "2024INSC607": {
+    "grade": 0,
+    "reason": "not about legislative privilege or bribery of legislators"
+   },
+   "2024INSC456": {
+    "grade": 0,
+    "reason": "not about legislative privilege or bribery of legislators"
+   },
+   "2024INSC58": {
+    "grade": 0,
+    "reason": "not about legislative privilege or bribery of legislators"
+   },
+   "2024INSC681": {
+    "grade": 0,
+    "reason": "not about legislative privilege or bribery of legislators"
+   },
+   "2024INSC637": {
+    "grade": 0,
+    "reason": "not about legislative privilege or bribery of legislators"
+   },
+   "2024INSC662": {
+    "grade": 0,
+    "reason": "not about legislative privilege or bribery of legislators"
+   },
+   "2024INSC246": {
+    "grade": 0,
+    "reason": "not about legislative privilege or bribery of legislators"
+   },
+   "2024INSC579": {
+    "grade": 0,
+    "reason": "not about legislative privilege or bribery of legislators"
+   },
+   "2024INSC341": {
+    "grade": 0,
+    "reason": "not about legislative privilege or bribery of legislators"
+   },
+   "2024INSC502": {
+    "grade": 0,
+    "reason": "not about legislative privilege or bribery of legislators"
+   },
+   "2024INSC894": {
+    "grade": 0,
+    "reason": "not about legislative privilege or bribery of legislators"
+   }
+  },
+  "q46": {
+   "2024INSC454": {
+    "grade": 0,
+    "reason": "not about driving-licence insurance precedents"
+   },
+   "2024INSC669": {
+    "grade": 0,
+    "reason": "not about driving-licence insurance precedents"
+   },
+   "2024INSC289": {
+    "grade": 0,
+    "reason": "not about driving-licence insurance precedents"
+   },
+   "2024INSC706": {
+    "grade": 0,
+    "reason": "not about driving-licence insurance precedents"
+   },
+   "2024INSC945": {
+    "grade": 0,
+    "reason": "not about driving-licence insurance precedents"
+   },
+   "2024INSC344": {
+    "grade": 0,
+    "reason": "not about driving-licence insurance precedents"
+   },
+   "2024INSC456": {
+    "grade": 0,
+    "reason": "not about driving-licence insurance precedents"
+   },
+   "2024INSC162": {
+    "grade": 0,
+    "reason": "not about driving-licence insurance precedents"
+   },
+   "2024INSC8": {
+    "grade": 0,
+    "reason": "not about driving-licence insurance precedents"
+   },
+   "2024INSC554": {
+    "grade": 0,
+    "reason": "not about driving-licence insurance precedents"
+   },
+   "2024INSC251": {
+    "grade": 0,
+    "reason": "not about driving-licence insurance precedents"
+   },
+   "2024INSC296": {
+    "grade": 0,
+    "reason": "not about driving-licence insurance precedents"
+   },
+   "2024INSC840": {
+    "grade": 2,
+    "reason": "LMV licence covers transport vehicle; earlier insurance precedents overruled"
+   },
+   "2024_12_652_664": {
+    "grade": 0,
+    "reason": "not about driving-licence insurance precedents"
+   },
+   "2024INSC1060": {
+    "grade": 0,
+    "reason": "not about driving-licence insurance precedents"
+   },
+   "2024INSC562": {
+    "grade": 0,
+    "reason": "not about driving-licence insurance precedents"
+   },
+   "2024INSC439": {
+    "grade": 0,
+    "reason": "not about driving-licence insurance precedents"
+   },
+   "2024INSC41": {
+    "grade": 0,
+    "reason": "not about driving-licence insurance precedents"
+   },
+   "2024INSC652": {
+    "grade": 0,
+    "reason": "not about driving-licence insurance precedents"
+   },
+   "2024INSC475": {
+    "grade": 0,
+    "reason": "not about driving-licence insurance precedents"
+   },
+   "2024INSC539": {
+    "grade": 0,
+    "reason": "not about driving-licence insurance precedents"
+   },
+   "2024_11_1647_2038": {
+    "grade": 0,
+    "reason": "not about driving-licence insurance precedents"
+   },
+   "2024INSC756": {
+    "grade": 0,
+    "reason": "not about driving-licence insurance precedents"
+   },
+   "2024INSC607": {
+    "grade": 0,
+    "reason": "not about driving-licence insurance precedents"
+   },
+   "2024INSC161": {
+    "grade": 0,
+    "reason": "not about driving-licence insurance precedents"
+   },
+   "2024_9_999_1010": {
+    "grade": 1,
+    "reason": "insurer liability on policy validity; cites licence precedent"
+   },
+   "2024INSC319": {
+    "grade": 0,
+    "reason": "not about driving-licence insurance precedents"
+   },
+   "2024INSC835": {
+    "grade": 0,
+    "reason": "not about driving-licence insurance precedents"
+   },
+   "2024INSC361": {
+    "grade": 0,
+    "reason": "not about driving-licence insurance precedents"
+   },
+   "2024INSC432": {
+    "grade": 0,
+    "reason": "not about driving-licence insurance precedents"
+   },
+   "2024INSC789": {
+    "grade": 0,
+    "reason": "not about driving-licence insurance precedents"
+   },
+   "2024INSC24": {
+    "grade": 0,
+    "reason": "not about driving-licence insurance precedents"
+   },
+   "2024INSC812": {
+    "grade": 0,
+    "reason": "not about driving-licence insurance precedents"
+   },
+   "2024INSC80": {
+    "grade": 0,
+    "reason": "not about driving-licence insurance precedents"
+   },
+   "2024_12_1108_1116": {
+    "grade": 0,
+    "reason": "not about driving-licence insurance precedents"
+   },
+   "2024INSC83": {
+    "grade": 0,
+    "reason": "not about driving-licence insurance precedents"
+   },
+   "2024INSC27": {
+    "grade": 0,
+    "reason": "not about driving-licence insurance precedents"
+   },
+   "2024INSC545": {
+    "grade": 0,
+    "reason": "not about driving-licence insurance precedents"
+   },
+   "2024INSC532": {
+    "grade": 0,
+    "reason": "not about driving-licence insurance precedents"
+   }
+  },
+  "q49": {
+   "2024INSC920": {
+    "grade": 0,
+    "reason": "not an anticipatory-bail precedent case"
+   },
+   "2024INSC30": {
+    "grade": 0,
+    "reason": "not an anticipatory-bail precedent case"
+   },
+   "2024INSC4354": {
+    "grade": 0,
+    "reason": "not an anticipatory-bail precedent case"
+   },
+   "2024INSC625": {
+    "grade": 1,
+    "reason": "anticipatory bail under SC/ST Act; precedents relied on"
+   },
+   "2024INSC202": {
+    "grade": 1,
+    "reason": "anticipatory bail and proclamation; earlier ruling approved"
+   },
+   "2024INSC909": {
+    "grade": 0,
+    "reason": "not an anticipatory-bail precedent case"
+   },
+   "2024INSC456": {
+    "grade": 0,
+    "reason": "not an anticipatory-bail precedent case"
+   },
+   "2024INSC677": {
+    "grade": 0,
+    "reason": "not an anticipatory-bail precedent case"
+   },
+   "2024INSC636": {
+    "grade": 0,
+    "reason": "not an anticipatory-bail precedent case"
+   },
+   "2024INSC888": {
+    "grade": 0,
+    "reason": "not an anticipatory-bail precedent case"
+   },
+   "2024INSC512": {
+    "grade": 0,
+    "reason": "not an anticipatory-bail precedent case"
+   },
+   "2024INSC812": {
+    "grade": 0,
+    "reason": "not an anticipatory-bail precedent case"
+   },
+   "2024INSC790": {
+    "grade": 0,
+    "reason": "not an anticipatory-bail precedent case"
+   },
+   "2024INSC949": {
+    "grade": 0,
+    "reason": "not an anticipatory-bail precedent case"
+   },
+   "2024INSC835": {
+    "grade": 0,
+    "reason": "not an anticipatory-bail precedent case"
+   },
+   "2024INSC588": {
+    "grade": 2,
+    "reason": "anticipatory bail interim protection; Sunilbhai Kothari overruled"
+   },
+   "2024INSC546": {
+    "grade": 0,
+    "reason": "not an anticipatory-bail precedent case"
+   },
+   "2024INSC902": {
+    "grade": 0,
+    "reason": "not an anticipatory-bail precedent case"
+   },
+   "2024INSC434": {
+    "grade": 0,
+    "reason": "not an anticipatory-bail precedent case"
+   },
+   "2024INSC554": {
+    "grade": 0,
+    "reason": "not an anticipatory-bail precedent case"
+   },
+   "2024INSC669": {
+    "grade": 2,
+    "reason": "anticipatory bail while in custody; earlier HC rulings disapproved"
+   },
+   "2024INSC607": {
+    "grade": 0,
+    "reason": "not an anticipatory-bail precedent case"
+   },
+   "2024INSC567": {
+    "grade": 0,
+    "reason": "not an anticipatory-bail precedent case"
+   },
+   "2024INSC508": {
+    "grade": 0,
+    "reason": "not an anticipatory-bail precedent case"
+   },
+   "2024INSC114": {
+    "grade": 0,
+    "reason": "not an anticipatory-bail precedent case"
+   },
+   "2024INSC857": {
+    "grade": 0,
+    "reason": "not an anticipatory-bail precedent case"
+   },
+   "2024INSC262": {
+    "grade": 0,
+    "reason": "not an anticipatory-bail precedent case"
+   },
+   "2024INSC343": {
+    "grade": 0,
+    "reason": "not an anticipatory-bail precedent case"
+   },
+   "2024_12_680_692": {
+    "grade": 0,
+    "reason": "not an anticipatory-bail precedent case"
+   },
+   "2024INSC105": {
+    "grade": 0,
+    "reason": "not an anticipatory-bail precedent case"
+   },
+   "2024INSC545": {
+    "grade": 0,
+    "reason": "not an anticipatory-bail precedent case"
+   },
+   "2024INSC877": {
+    "grade": 0,
+    "reason": "not an anticipatory-bail precedent case"
+   },
+   "2024INSC455": {
+    "grade": 0,
+    "reason": "not an anticipatory-bail precedent case"
+   },
+   "2024INSC940": {
+    "grade": 0,
+    "reason": "not an anticipatory-bail precedent case"
+   },
+   "2024INSC106": {
+    "grade": 0,
+    "reason": "not an anticipatory-bail precedent case"
+   },
+   "2024INSC595": {
+    "grade": 0,
+    "reason": "not an anticipatory-bail precedent case"
+   },
+   "2024INSC454": {
+    "grade": 0,
+    "reason": "not an anticipatory-bail precedent case"
+   },
+   "2024INSC932": {
+    "grade": 0,
+    "reason": "not an anticipatory-bail precedent case"
+   },
+   "2024INSC363": {
+    "grade": 0,
+    "reason": "not an anticipatory-bail precedent case"
+   }
+  }
+ }
+}

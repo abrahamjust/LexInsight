@@ -1,0 +1,29 @@
+{
+  "_comment": "Pre-declared weight configurations. Chosen BEFORE looking at validation results; the validation set selects one fixed (B6) and one adaptive (B7) configuration; the test set is used once. Rows sum to 1. Signals: bm25, semantic, legal, citation, outcome.",
+  "legal_subweights": {"act": 0.30, "section": 0.40, "issue": 0.30},
+  "pairwise": {
+    "bm25_legal": [{"bm25": 0.7, "legal": 0.3}, {"bm25": 0.5, "legal": 0.5}, {"bm25": 0.3, "legal": 0.7}],
+    "bm25_semantic": [{"bm25": 0.7, "semantic": 0.3}, {"bm25": 0.5, "semantic": 0.5}, {"bm25": 0.3, "semantic": 0.7}]
+  },
+  "fixed": {
+    "F1_pdf_column_mean": {"bm25": 0.15, "semantic": 0.30, "legal": 0.32, "citation": 0.11, "outcome": 0.12},
+    "F2_lexical_anchor": {"bm25": 0.40, "semantic": 0.15, "legal": 0.30, "citation": 0.10, "outcome": 0.05},
+    "F3_equal": {"bm25": 0.20, "semantic": 0.20, "legal": 0.20, "citation": 0.20, "outcome": 0.20}
+  },
+  "adaptive_tables": {
+    "pdf_table": {
+      "FACTUAL_SIMILARITY":    {"bm25": 0.20, "semantic": 0.40, "legal": 0.20, "citation": 0.10, "outcome": 0.10},
+      "LEGAL_ISSUE":           {"bm25": 0.20, "semantic": 0.30, "legal": 0.35, "citation": 0.10, "outcome": 0.05},
+      "STATUTE_BASED":         {"bm25": 0.15, "semantic": 0.20, "legal": 0.50, "citation": 0.10, "outcome": 0.05},
+      "SUPPORTING_PRECEDENT":  {"bm25": 0.10, "semantic": 0.25, "legal": 0.30, "citation": 0.20, "outcome": 0.15},
+      "CONTRASTING_PRECEDENT": {"bm25": 0.10, "semantic": 0.35, "legal": 0.25, "citation": 0.05, "outcome": 0.25}
+    }
+  },
+  "adaptive": {
+    "A1_pdf_table": {"table": "pdf_table", "blend_with": null, "lambda": 0.0},
+    "A2_pdf_table_lexical_anchor": {"table": "pdf_table", "blend_with": "F2_lexical_anchor", "lambda": 0.5},
+    "A3_pdf_table_equal_blend": {"table": "pdf_table", "blend_with": "F3_equal", "lambda": 0.5}
+  },
+  "selection_metric": "ndcg@5",
+  "semantic_variants": ["chunked_max", "chunked_mean3", "whole"]
+}

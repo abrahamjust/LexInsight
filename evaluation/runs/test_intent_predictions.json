@@ -1,0 +1,177 @@
+{
+ "q01": {
+  "gold": "FACTUAL_SIMILARITY",
+  "pred": "FACTUAL_SIMILARITY",
+  "rule": "FACTUAL_SIMILARITY"
+ },
+ "q02": {
+  "gold": "FACTUAL_SIMILARITY",
+  "pred": "FACTUAL_SIMILARITY",
+  "rule": "FACTUAL_SIMILARITY"
+ },
+ "q05": {
+  "gold": "FACTUAL_SIMILARITY",
+  "pred": "FACTUAL_SIMILARITY",
+  "rule": "FACTUAL_SIMILARITY"
+ },
+ "q06": {
+  "gold": "FACTUAL_SIMILARITY",
+  "pred": "FACTUAL_SIMILARITY",
+  "rule": "FACTUAL_SIMILARITY"
+ },
+ "q07": {
+  "gold": "FACTUAL_SIMILARITY",
+  "pred": "FACTUAL_SIMILARITY",
+  "rule": "FACTUAL_SIMILARITY"
+ },
+ "q09": {
+  "gold": "FACTUAL_SIMILARITY",
+  "pred": "FACTUAL_SIMILARITY",
+  "rule": "CONTRASTING_PRECEDENT"
+ },
+ "q10": {
+  "gold": "FACTUAL_SIMILARITY",
+  "pred": "FACTUAL_SIMILARITY",
+  "rule": "CONTRASTING_PRECEDENT"
+ },
+ "q11": {
+  "gold": "LEGAL_ISSUE",
+  "pred": "LEGAL_ISSUE",
+  "rule": "LEGAL_ISSUE"
+ },
+ "q12": {
+  "gold": "LEGAL_ISSUE",
+  "pred": "LEGAL_ISSUE",
+  "rule": "LEGAL_ISSUE"
+ },
+ "q15": {
+  "gold": "LEGAL_ISSUE",
+  "pred": "LEGAL_ISSUE",
+  "rule": "LEGAL_ISSUE"
+ },
+ "q17": {
+  "gold": "LEGAL_ISSUE",
+  "pred": "LEGAL_ISSUE",
+  "rule": "LEGAL_ISSUE"
+ },
+ "q18": {
+  "gold": "LEGAL_ISSUE",
+  "pred": "LEGAL_ISSUE",
+  "rule": "LEGAL_ISSUE"
+ },
+ "q19": {
+  "gold": "LEGAL_ISSUE",
+  "pred": "LEGAL_ISSUE",
+  "rule": "LEGAL_ISSUE"
+ },
+ "q20": {
+  "gold": "LEGAL_ISSUE",
+  "pred": "LEGAL_ISSUE",
+  "rule": "LEGAL_ISSUE"
+ },
+ "q22": {
+  "gold": "STATUTE_BASED",
+  "pred": "STATUTE_BASED",
+  "rule": "STATUTE_BASED"
+ },
+ "q23": {
+  "gold": "STATUTE_BASED",
+  "pred": "STATUTE_BASED",
+  "rule": "STATUTE_BASED"
+ },
+ "q24": {
+  "gold": "STATUTE_BASED",
+  "pred": "STATUTE_BASED",
+  "rule": "STATUTE_BASED"
+ },
+ "q25": {
+  "gold": "STATUTE_BASED",
+  "pred": "STATUTE_BASED",
+  "rule": "STATUTE_BASED"
+ },
+ "q27": {
+  "gold": "STATUTE_BASED",
+  "pred": "STATUTE_BASED",
+  "rule": "STATUTE_BASED"
+ },
+ "q29": {
+  "gold": "STATUTE_BASED",
+  "pred": "STATUTE_BASED",
+  "rule": "STATUTE_BASED"
+ },
+ "q30": {
+  "gold": "STATUTE_BASED",
+  "pred": "STATUTE_BASED",
+  "rule": "STATUTE_BASED"
+ },
+ "q31": {
+  "gold": "SUPPORTING_PRECEDENT",
+  "pred": "SUPPORTING_PRECEDENT",
+  "rule": "SUPPORTING_PRECEDENT"
+ },
+ "q32": {
+  "gold": "SUPPORTING_PRECEDENT",
+  "pred": "SUPPORTING_PRECEDENT",
+  "rule": "SUPPORTING_PRECEDENT"
+ },
+ "q33": {
+  "gold": "SUPPORTING_PRECEDENT",
+  "pred": "SUPPORTING_PRECEDENT",
+  "rule": "SUPPORTING_PRECEDENT"
+ },
+ "q35": {
+  "gold": "SUPPORTING_PRECEDENT",
+  "pred": "SUPPORTING_PRECEDENT",
+  "rule": "SUPPORTING_PRECEDENT"
+ },
+ "q36": {
+  "gold": "SUPPORTING_PRECEDENT",
+  "pred": "SUPPORTING_PRECEDENT",
+  "rule": "SUPPORTING_PRECEDENT"
+ },
+ "q37": {
+  "gold": "SUPPORTING_PRECEDENT",
+  "pred": "SUPPORTING_PRECEDENT",
+  "rule": "SUPPORTING_PRECEDENT"
+ },
+ "q40": {
+  "gold": "SUPPORTING_PRECEDENT",
+  "pred": "SUPPORTING_PRECEDENT",
+  "rule": "SUPPORTING_PRECEDENT"
+ },
+ "q41": {
+  "gold": "CONTRASTING_PRECEDENT",
+  "pred": "CONTRASTING_PRECEDENT",
+  "rule": "CONTRASTING_PRECEDENT"
+ },
+ "q42": {
+  "gold": "CONTRASTING_PRECEDENT",
+  "pred": "CONTRASTING_PRECEDENT",
+  "rule": "CONTRASTING_PRECEDENT"
+ },
+ "q43": {
+  "gold": "CONTRASTING_PRECEDENT",
+  "pred": "CONTRASTING_PRECEDENT",
+  "rule": "CONTRASTING_PRECEDENT"
+ },
+ "q44": {
+  "gold": "CONTRASTING_PRECEDENT",
+  "pred": "CONTRASTING_PRECEDENT",
+  "rule": "CONTRASTING_PRECEDENT"
+ },
+ "q45": {
+  "gold": "CONTRASTING_PRECEDENT",
+  "pred": "CONTRASTING_PRECEDENT",
+  "rule": "CONTRASTING_PRECEDENT"
+ },
+ "q46": {
+  "gold": "CONTRASTING_PRECEDENT",
+  "pred": "CONTRASTING_PRECEDENT",
+  "rule": "CONTRASTING_PRECEDENT"
+ },
+ "q49": {
+  "gold": "CONTRASTING_PRECEDENT",
+  "pred": "CONTRASTING_PRECEDENT",
+  "rule": "CONTRASTING_PRECEDENT"
+ }
+}

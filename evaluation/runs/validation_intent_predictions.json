@@ -1,0 +1,77 @@
+{
+ "q03": {
+  "gold": "FACTUAL_SIMILARITY",
+  "pred": "FACTUAL_SIMILARITY",
+  "rule": "FACTUAL_SIMILARITY"
+ },
+ "q04": {
+  "gold": "FACTUAL_SIMILARITY",
+  "pred": "FACTUAL_SIMILARITY",
+  "rule": "CONTRASTING_PRECEDENT"
+ },
+ "q08": {
+  "gold": "FACTUAL_SIMILARITY",
+  "pred": "FACTUAL_SIMILARITY",
+  "rule": "FACTUAL_SIMILARITY"
+ },
+ "q13": {
+  "gold": "LEGAL_ISSUE",
+  "pred": "LEGAL_ISSUE",
+  "rule": "LEGAL_ISSUE"
+ },
+ "q14": {
+  "gold": "LEGAL_ISSUE",
+  "pred": "LEGAL_ISSUE",
+  "rule": "LEGAL_ISSUE"
+ },
+ "q16": {
+  "gold": "LEGAL_ISSUE",
+  "pred": "LEGAL_ISSUE",
+  "rule": "LEGAL_ISSUE"
+ },
+ "q21": {
+  "gold": "STATUTE_BASED",
+  "pred": "STATUTE_BASED",
+  "rule": "STATUTE_BASED"
+ },
+ "q26": {
+  "gold": "STATUTE_BASED",
+  "pred": "STATUTE_BASED",
+  "rule": "STATUTE_BASED"
+ },
+ "q28": {
+  "gold": "STATUTE_BASED",
+  "pred": "STATUTE_BASED",
+  "rule": "STATUTE_BASED"
+ },
+ "q34": {
+  "gold": "SUPPORTING_PRECEDENT",
+  "pred": "SUPPORTING_PRECEDENT",
+  "rule": "CONTRASTING_PRECEDENT"
+ },
+ "q38": {
+  "gold": "SUPPORTING_PRECEDENT",
+  "pred": "SUPPORTING_PRECEDENT",
+  "rule": "SUPPORTING_PRECEDENT"
+ },
+ "q39": {
+  "gold": "SUPPORTING_PRECEDENT",
+  "pred": "SUPPORTING_PRECEDENT",
+  "rule": "SUPPORTING_PRECEDENT"
+ },
+ "q47": {
+  "gold": "CONTRASTING_PRECEDENT",
+  "pred": "CONTRASTING_PRECEDENT",
+  "rule": "CONTRASTING_PRECEDENT"
+ },
+ "q48": {
+  "gold": "CONTRASTING_PRECEDENT",
+  "pred": "CONTRASTING_PRECEDENT",
+  "rule": "CONTRASTING_PRECEDENT"
+ },
+ "q50": {
+  "gold": "CONTRASTING_PRECEDENT",
+  "pred": "CONTRASTING_PRECEDENT",
+  "rule": "CONTRASTING_PRECEDENT"
+ }
+}

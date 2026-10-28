@@ -1,0 +1,18 @@
+{
+  "description": "Pilot experiments from the original scripts/ (111 judgments, 10 queries, binary snippet-based labels per system, not pooled). Kept for reference; not comparable with the pooled test evaluation.",
+  "systems": {
+    "BM25": {
+      "precision_at_5": 0.68,
+      "mrr_at_5": 0.8833
+    },
+    "Chunked Doc2Vec": {
+      "queries_evaluated": 10,
+      "mean_precision_at_5": 0.2,
+      "mrr_at_5": 0.35833333333333334
+    },
+    "Whole-document Doc2Vec": {
+      "precision_at_5": 0.04,
+      "mrr_at_5": 0.0533
+    }
+  }
+}

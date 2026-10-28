@@ -1,0 +1,12 @@
+beautifulsoup4==4.15.0
+fastapi==0.162.0
+gensim==4.4.0
+matplotlib==3.11.2
+numpy==2.5.3
+pandas==3.1.0
+pydantic==2.14.1
+pymupdf==1.28.2
+rank-bm25==0.2.2
+scikit-learn==1.9.1
+scipy==1.18.1
+uvicorn[standard]==0.54.0

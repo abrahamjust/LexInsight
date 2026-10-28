@@ -1,0 +1,425 @@
+{
+  "description": "Retrieval evaluation queries. development = 10 pilot queries (debugging only); validation = 15 queries for choosing configurations; test = 35 queries used once. Authored by Claude for LexInsight; 'need' states the grading criteria.",
+  "queries": [
+    {
+      "id": "dev01",
+      "text": "circumstantial evidence chain of circumstances reasonable doubt",
+      "intent": "LEGAL_ISSUE",
+      "split": "development",
+      "need": "Pilot query from the original BM25/Doc2Vec experiments (debugging only)."
+    },
+    {
+      "id": "dev02",
+      "text": "anticipatory bail factors for granting bail",
+      "intent": "LEGAL_ISSUE",
+      "split": "development",
+      "need": "Pilot query from the original BM25/Doc2Vec experiments (debugging only)."
+    },
+    {
+      "id": "dev03",
+      "text": "Article 21 right to life and personal liberty",
+      "intent": "STATUTE_BASED",
+      "split": "development",
+      "need": "Pilot query from the original BM25/Doc2Vec experiments (debugging only)."
+    },
+    {
+      "id": "dev04",
+      "text": "Section 302 IPC murder conviction",
+      "intent": "STATUTE_BASED",
+      "split": "development",
+      "need": "Pilot query from the original BM25/Doc2Vec experiments (debugging only)."
+    },
+    {
+      "id": "dev05",
+      "text": "principles of natural justice opportunity of hearing",
+      "intent": "LEGAL_ISSUE",
+      "split": "development",
+      "need": "Pilot query from the original BM25/Doc2Vec experiments (debugging only)."
+    },
+    {
+      "id": "dev06",
+      "text": "recovery of evidence disclosure statement forensic report",
+      "intent": "LEGAL_ISSUE",
+      "split": "development",
+      "need": "Pilot query from the original BM25/Doc2Vec experiments (debugging only)."
+    },
+    {
+      "id": "dev07",
+      "text": "constitutional validity of statute fundamental rights",
+      "intent": "LEGAL_ISSUE",
+      "split": "development",
+      "need": "Pilot query from the original BM25/Doc2Vec experiments (debugging only)."
+    },
+    {
+      "id": "dev08",
+      "text": "land acquisition compensation fair market value",
+      "intent": "LEGAL_ISSUE",
+      "split": "development",
+      "need": "Pilot query from the original BM25/Doc2Vec experiments (debugging only)."
+    },
+    {
+      "id": "dev09",
+      "text": "service law disciplinary proceedings natural justice",
+      "intent": "LEGAL_ISSUE",
+      "split": "development",
+      "need": "Pilot query from the original BM25/Doc2Vec experiments (debugging only)."
+    },
+    {
+      "id": "dev10",
+      "text": "NDPS Act conscious possession recovery",
+      "intent": "STATUTE_BASED",
+      "split": "development",
+      "need": "Pilot query from the original BM25/Doc2Vec experiments (debugging only)."
+    },
+    {
+      "id": "q01",
+      "text": "A young wife died of burn injuries at her in-laws' house within a few years of marriage, and her parents say the husband and mother-in-law kept harassing her for dowry; the Supreme Court upheld the conviction.",
+      "intent": "FACTUAL_SIMILARITY",
+      "split": "test",
+      "need": "2: death of a married woman with dowry/cruelty allegations against husband or in-laws (s.304B/498A type facts). 1: dowry harassment or matrimonial cruelty without a death, or a dowry death with different focus."
+    },
+    {
+      "id": "q02",
+      "text": "A candidate selected for a police or government post had his appointment cancelled because he did not disclose a criminal case in the verification form, even though he was later acquitted.",
+      "intent": "FACTUAL_SIMILARITY",
+      "split": "test",
+      "need": "2: cancellation/termination of appointment for non-disclosure or suppression of criminal antecedents in verification. 1: other disqualification from appointment for false/incorrect information in forms."
+    },
+    {
+      "id": "q03",
+      "text": "A woman says a man had a physical relationship with her for years on the promise of marriage and then married someone else; she lodged a rape FIR and he wants it quashed.",
+      "intent": "FACTUAL_SIMILARITY",
+      "split": "validation",
+      "need": "2: rape/sexual-intercourse allegations based on a false promise of marriage (consensual relationship vs. consent vitiated). 1: other sexual-offence cases discussing consent."
+    },
+    {
+      "id": "q04",
+      "text": "A patient lost the sight of one eye after cataract surgery because of an infection at the hospital, and the family filed a consumer complaint for medical negligence against the doctor and hospital.",
+      "intent": "FACTUAL_SIMILARITY",
+      "split": "validation",
+      "need": "2: medical negligence claims against doctors/hospitals (consumer or civil). 1: other deficiency-in-service compensation claims involving professionals."
+    },
+    {
+      "id": "q05",
+      "text": "A young earning man was killed when a speeding truck hit his motorcycle; his widow and children claim more compensation for loss of dependency and future prospects from the insurer.",
+      "intent": "FACTUAL_SIMILARITY",
+      "split": "test",
+      "need": "2: motor accident death claims about computing compensation (dependency, multiplier, future prospects). 1: motor accident injury claims or insurer-liability disputes."
+    },
+    {
+      "id": "q06",
+      "text": "An undertrial accused has been in custody for several years in a case under a special statute with stringent bail conditions, the trial has hardly progressed, and he was finally granted bail.",
+      "intent": "FACTUAL_SIMILARITY",
+      "split": "test",
+      "need": "2: bail granted/considered on the ground of prolonged incarceration and delay of trial (NDPS, UAPA, PMLA, fake currency etc.). 1: bail cases under special statutes not centred on delay."
+    },
+    {
+      "id": "q07",
+      "text": "The buyer paid an advance under an agreement to sell land, but the seller refused to execute the sale deed saying the buyer never had the money to pay the balance price.",
+      "intent": "FACTUAL_SIMILARITY",
+      "split": "test",
+      "need": "2: suits for specific performance of agreements to sell turning on readiness and willingness / payment of balance consideration. 1: other specific-performance or agreement-to-sell disputes."
+    },
+    {
+      "id": "q08",
+      "text": "A wife's FIR for cruelty and dowry names the husband's relatives who live in another city, including his married sister, and they ask the High Court to quash the case because the allegations are vague.",
+      "intent": "FACTUAL_SIMILARITY",
+      "split": "validation",
+      "need": "2: quashing of s.498A/dowry FIRs against husband's relatives for vague or omnibus allegations. 1: other matrimonial criminal cases or quashing pleas in family disputes."
+    },
+    {
+      "id": "q09",
+      "text": "A government employee was dismissed after a departmental inquiry in which documents used against him were never given to him and no witness was examined, and the dismissal was set aside.",
+      "intent": "FACTUAL_SIMILARITY",
+      "split": "test",
+      "need": "2: dismissal/removal after a departmental inquiry challenged for procedural unfairness (non-supply of documents, no evidence, no hearing). 1: other disciplinary-penalty challenges."
+    },
+    {
+      "id": "q10",
+      "text": "Employees engaged on temporary or contractual basis worked continuously for more than ten years against sanctioned posts and now claim regularisation of their services.",
+      "intent": "FACTUAL_SIMILARITY",
+      "split": "test",
+      "need": "2: regularisation claims of long-serving temporary/contractual/daily-wage employees. 1: other service claims of temporary employees (pay parity, termination)."
+    },
+    {
+      "id": "q11",
+      "text": "Can a conviction be based solely on a dying declaration without any corroboration?",
+      "intent": "LEGAL_ISSUE",
+      "split": "test",
+      "need": "2: judgments deciding the evidentiary value of a dying declaration as the sole basis of conviction. 1: judgments that examine a dying declaration among other evidence."
+    },
+    {
+      "id": "q12",
+      "text": "When is an appellate court justified in reversing an order of acquittal?",
+      "intent": "LEGAL_ISSUE",
+      "split": "test",
+      "need": "2: judgments laying down or applying the limits on interfering with acquittals (two plausible views, perversity). 1: criminal appeals touching on appellate re-appreciation of evidence."
+    },
+    {
+      "id": "q13",
+      "text": "How much weight can be given to an extra-judicial confession?",
+      "intent": "LEGAL_ISSUE",
+      "split": "validation",
+      "need": "2: judgments assessing the evidentiary value / reliability of an extra-judicial confession. 1: judgments on other confessions or weak evidence in circumstantial cases."
+    },
+    {
+      "id": "q14",
+      "text": "What amounts to sufficient cause for condoning delay in filing an appeal?",
+      "intent": "LEGAL_ISSUE",
+      "split": "validation",
+      "need": "2: judgments on condonation of delay / sufficient cause (s.5 Limitation Act or similar). 1: judgments on limitation where delay is discussed incidentally."
+    },
+    {
+      "id": "q15",
+      "text": "Can criminal proceedings for a non-compoundable offence be quashed because the parties have settled the dispute?",
+      "intent": "LEGAL_ISSUE",
+      "split": "test",
+      "need": "2: quashing of criminal proceedings on settlement/compromise (Gian Singh line). 1: compounding of offences or quashing on other grounds in private disputes."
+    },
+    {
+      "id": "q16",
+      "text": "When does a dispute that is essentially civil or commercial get wrongly given the colour of a criminal offence such as cheating?",
+      "intent": "LEGAL_ISSUE",
+      "split": "validation",
+      "need": "2: judgments quashing criminal cases because the dispute is civil/contractual (cheating, breach of trust ingredients absent). 1: cheating/breach-of-trust cases discussing ingredients."
+    },
+    {
+      "id": "q17",
+      "text": "Can the Supreme Court dissolve a marriage on the ground of irretrievable breakdown?",
+      "intent": "LEGAL_ISSUE",
+      "split": "test",
+      "need": "2: judgments dissolving or considering dissolution of marriage for irretrievable breakdown (Art. 142). 1: other divorce/cruelty judgments."
+    },
+    {
+      "id": "q18",
+      "text": "What safeguards must be followed in preventive detention, such as supplying the grounds and allowing an effective representation?",
+      "intent": "LEGAL_ISSUE",
+      "split": "test",
+      "need": "2: preventive-detention judgments on procedural safeguards (Art. 22(5), supply of documents, representation). 1: other personal-liberty / illegal detention cases."
+    },
+    {
+      "id": "q19",
+      "text": "Can the selection criteria be changed after a recruitment process has begun?",
+      "intent": "LEGAL_ISSUE",
+      "split": "test",
+      "need": "2: judgments on altering eligibility/selection criteria midway ('rules of the game'). 1: other recruitment-process disputes."
+    },
+    {
+      "id": "q20",
+      "text": "Can a conviction rest on the testimony of witnesses who have turned hostile?",
+      "intent": "LEGAL_ISSUE",
+      "split": "test",
+      "need": "2: judgments on the evidentiary value of hostile witnesses' testimony. 1: judgments on reliability of witnesses (interested/related) more generally."
+    },
+    {
+      "id": "q21",
+      "text": "Section 138 of the Negotiable Instruments Act dishonour of cheque",
+      "intent": "STATUTE_BASED",
+      "split": "validation",
+      "need": "2: judgments deciding issues under s.138 NI Act. 1: judgments where s.138 proceedings are involved but the issue is different (e.g. quashing, company liability)."
+    },
+    {
+      "id": "q22",
+      "text": "Section 306 IPC abetment of suicide",
+      "intent": "STATUTE_BASED",
+      "split": "test",
+      "need": "2: judgments applying s.306 IPC (instigation, mens rea). 1: judgments mentioning abetment of suicide incidentally (e.g. with s.498A)."
+    },
+    {
+      "id": "q23",
+      "text": "Section 11(6) of the Arbitration and Conciliation Act appointment of arbitrator",
+      "intent": "STATUTE_BASED",
+      "split": "test",
+      "need": "2: judgments under s.11 on appointment of arbitrators and scope of referral inquiry. 1: other arbitration-agreement judgments."
+    },
+    {
+      "id": "q24",
+      "text": "Section 16(c) Specific Relief Act readiness and willingness",
+      "intent": "STATUTE_BASED",
+      "split": "test",
+      "need": "2: judgments applying s.16(c) readiness and willingness. 1: other specific-performance judgments."
+    },
+    {
+      "id": "q25",
+      "text": "Bail under Section 45 of the Prevention of Money Laundering Act",
+      "intent": "STATUTE_BASED",
+      "split": "test",
+      "need": "2: PMLA bail judgments applying s.45 twin conditions or its proviso. 1: other PMLA judgments (arrest, s.19, s.50)."
+    },
+    {
+      "id": "q26",
+      "text": "Section 319 CrPC summoning of additional accused",
+      "intent": "STATUTE_BASED",
+      "split": "validation",
+      "need": "2: judgments on s.319 CrPC power to summon additional accused. 1: other summoning/cognizance judgments."
+    },
+    {
+      "id": "q27",
+      "text": "Setting aside an arbitral award under Section 34 of the Arbitration and Conciliation Act",
+      "intent": "STATUTE_BASED",
+      "split": "test",
+      "need": "2: judgments on challenges to arbitral awards under s.34 (public policy, patent illegality, limitation). 1: other award-related judgments (s.37, enforcement)."
+    },
+    {
+      "id": "q28",
+      "text": "Rejection of plaint under Order VII Rule 11 CPC",
+      "intent": "STATUTE_BASED",
+      "split": "validation",
+      "need": "2: judgments deciding Order VII Rule 11 applications. 1: other judgments on maintainability of suits at the threshold."
+    },
+    {
+      "id": "q29",
+      "text": "Second appeal under Section 100 CPC and framing of substantial question of law",
+      "intent": "STATUTE_BASED",
+      "split": "test",
+      "need": "2: judgments on s.100 CPC second appeals and substantial questions of law. 1: judgments where second appeal is incidental."
+    },
+    {
+      "id": "q30",
+      "text": "Conviction under Section 302 IPC altered to Section 304 Part I",
+      "intent": "STATUTE_BASED",
+      "split": "test",
+      "need": "2: judgments altering/considering murder vs culpable homicide not amounting to murder (s.300 exceptions, s.304). 1: murder appeals discussing s.300 clauses or sentence."
+    },
+    {
+      "id": "q31",
+      "text": "Find judgments relying on Sharad Birdhichand Sarda v. State of Maharashtra for the five golden principles of circumstantial evidence.",
+      "intent": "SUPPORTING_PRECEDENT",
+      "split": "test",
+      "need": "2: judgments applying/relying on Sharad Birdhichand Sarda principles for circumstantial evidence. 1: circumstantial-evidence judgments applying the same test without citing it."
+    },
+    {
+      "id": "q32",
+      "text": "Cases following Gian Singh v. State of Punjab on quashing criminal proceedings after a compromise",
+      "intent": "SUPPORTING_PRECEDENT",
+      "split": "test",
+      "need": "2: judgments applying Gian Singh to quash (or consider quashing) after settlement. 1: settlement-quashing judgments not citing Gian Singh."
+    },
+    {
+      "id": "q33",
+      "text": "Authorities relying on Vidya Drolia v. Durga Trading Corporation on the scope of judicial review at the referral stage of arbitration",
+      "intent": "SUPPORTING_PRECEDENT",
+      "split": "test",
+      "need": "2: arbitration judgments relying on Vidya Drolia (arbitrability / prima facie review at referral). 1: s.8/s.11 referral judgments on the same question without citing it."
+    },
+    {
+      "id": "q34",
+      "text": "Cases applying Arnesh Kumar v. State of Bihar guidelines against unnecessary arrest",
+      "intent": "SUPPORTING_PRECEDENT",
+      "split": "validation",
+      "need": "2: judgments applying/relying on Arnesh Kumar (s.41/41A CrPC, necessity of arrest). 1: arrest-safeguard judgments without citing it."
+    },
+    {
+      "id": "q35",
+      "text": "Precedents that rely on Union of India v. K.A. Najeeb to grant bail where the trial is delayed despite statutory restrictions",
+      "intent": "SUPPORTING_PRECEDENT",
+      "split": "test",
+      "need": "2: judgments relying on K.A. Najeeb for bail on delay/long custody under special statutes. 1: delay-based bail judgments not citing it."
+    },
+    {
+      "id": "q36",
+      "text": "Judgments that followed Satender Kumar Antil v. CBI on bail and arrest",
+      "intent": "SUPPORTING_PRECEDENT",
+      "split": "test",
+      "need": "2: judgments relying on Satender Kumar Antil guidelines. 1: bail-guideline judgments on the same themes."
+    },
+    {
+      "id": "q37",
+      "text": "Authorities relying on Shilpa Sailesh v. Varun Sreenivasan to dissolve a marriage under Article 142",
+      "intent": "SUPPORTING_PRECEDENT",
+      "split": "test",
+      "need": "2: judgments relying on Shilpa Sailesh for dissolution on irretrievable breakdown. 1: irretrievable-breakdown judgments without citing it."
+    },
+    {
+      "id": "q38",
+      "text": "Cases relying on Hardeep Singh v. State of Punjab for summoning additional accused",
+      "intent": "SUPPORTING_PRECEDENT",
+      "split": "validation",
+      "need": "2: s.319 CrPC judgments relying on Hardeep Singh. 1: s.319 judgments not citing it."
+    },
+    {
+      "id": "q39",
+      "text": "Judgments following Vijay Madanlal Choudhary v. Union of India on the PMLA",
+      "intent": "SUPPORTING_PRECEDENT",
+      "split": "validation",
+      "need": "2: PMLA judgments relying on Vijay Madanlal Choudhary. 1: PMLA judgments not citing it."
+    },
+    {
+      "id": "q40",
+      "text": "Authorities supporting the view that the High Court should be slow to interfere with an acquittal when two views are possible",
+      "intent": "SUPPORTING_PRECEDENT",
+      "split": "test",
+      "need": "2: judgments affirming/applying the 'two plausible views' restraint on reversing acquittals. 1: acquittal appeals on re-appreciation generally."
+    },
+    {
+      "id": "q41",
+      "text": "Cases where Secretary, State of Karnataka v. Umadevi was distinguished to protect long-serving employees",
+      "intent": "CONTRASTING_PRECEDENT",
+      "split": "test",
+      "need": "2: judgments distinguishing Umadevi (granting regularisation/relief). 1: regularisation judgments discussing Umadevi without distinguishing it."
+    },
+    {
+      "id": "q42",
+      "text": "Judgments distinguishing Sivanandan C.T. v. High Court of Kerala on changing criteria in judicial recruitment",
+      "intent": "CONTRASTING_PRECEDENT",
+      "split": "test",
+      "need": "2: judgments distinguishing/limiting Sivanandan C.T. 1: judicial-recruitment criteria judgments citing it."
+    },
+    {
+      "id": "q43",
+      "text": "Decisions that overruled India Cement Ltd. v. State of Tamil Nadu on whether royalty is a tax",
+      "intent": "CONTRASTING_PRECEDENT",
+      "split": "test",
+      "need": "2: judgments overruling India Cement / holding royalty is not a tax. 1: mining royalty / taxation-of-minerals judgments."
+    },
+    {
+      "id": "q44",
+      "text": "Judgments that overruled E.V. Chinnaiah on sub-classification of Scheduled Castes",
+      "intent": "CONTRASTING_PRECEDENT",
+      "split": "test",
+      "need": "2: judgments overruling E.V. Chinnaiah (sub-classification permissible). 1: Scheduled Caste reservation judgments."
+    },
+    {
+      "id": "q45",
+      "text": "Cases overruling P.V. Narasimha Rao on immunity of legislators who take bribes for votes",
+      "intent": "CONTRASTING_PRECEDENT",
+      "split": "test",
+      "need": "2: judgments overruling P.V. Narasimha Rao on parliamentary privilege for bribery. 1: legislative privilege / corruption-of-legislators judgments."
+    },
+    {
+      "id": "q46",
+      "text": "Decisions that overruled earlier insurance precedents on whether a light motor vehicle licence covers transport vehicles",
+      "intent": "CONTRASTING_PRECEDENT",
+      "split": "test",
+      "need": "2: judgments overruling/departing from earlier LMV-licence insurance precedents. 1: insurer-liability judgments on driving licence validity."
+    },
+    {
+      "id": "q47",
+      "text": "Cases that distinguished Gurwinder Singh v. State of Punjab and granted bail despite the stringent bail provision",
+      "intent": "CONTRASTING_PRECEDENT",
+      "split": "validation",
+      "need": "2: judgments distinguishing Gurwinder Singh to grant bail. 1: special-statute bail judgments discussing it."
+    },
+    {
+      "id": "q48",
+      "text": "Judgments declaring an earlier precedent per incuriam",
+      "intent": "CONTRASTING_PRECEDENT",
+      "split": "validation",
+      "need": "2: judgments holding an earlier decision per incuriam. 1: judgments refusing to follow / overruling earlier decisions on other grounds."
+    },
+    {
+      "id": "q49",
+      "text": "Cases that disapproved or overruled earlier orders on anticipatory bail and interim protection",
+      "intent": "CONTRASTING_PRECEDENT",
+      "split": "test",
+      "need": "2: anticipatory-bail judgments overruling/disapproving earlier precedents or practice. 1: anticipatory-bail judgments distinguishing precedent."
+    },
+    {
+      "id": "q50",
+      "text": "Judgments refusing to apply an earlier precedent because the law or policy had subsequently changed",
+      "intent": "CONTRASTING_PRECEDENT",
+      "split": "validation",
+      "need": "2: judgments distinguishing/declining earlier precedent due to subsequent change in law/policy/amendment. 1: judgments on effect of change of law without discussing precedent."
+    }
+  ]
+}

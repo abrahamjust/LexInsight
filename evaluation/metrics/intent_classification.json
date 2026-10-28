@@ -1,0 +1,551 @@
+{
+  "protocol": "StratifiedGroupKFold split by paraphrase group; 75% train / 25% held-out test; model selection by grouped 5-fold CV on train only.",
+  "n_train": 180,
+  "n_test": 61,
+  "model_selection": [
+    {
+      "model": "logreg",
+      "C": 1.0,
+      "cv_macro_f1": 0.9249,
+      "cv_std": 0.0509
+    },
+    {
+      "model": "logreg",
+      "C": 4.0,
+      "cv_macro_f1": 0.9249,
+      "cv_std": 0.0509
+    },
+    {
+      "model": "logreg",
+      "C": 16.0,
+      "cv_macro_f1": 0.9249,
+      "cv_std": 0.0509
+    },
+    {
+      "model": "linearsvc",
+      "C": 1.0,
+      "cv_macro_f1": 0.9185,
+      "cv_std": 0.0502
+    },
+    {
+      "model": "linearsvc",
+      "C": 4.0,
+      "cv_macro_f1": 0.9251,
+      "cv_std": 0.0506
+    },
+    {
+      "model": "linearsvc",
+      "C": 16.0,
+      "cv_macro_f1": 0.9302,
+      "cv_std": 0.0442
+    }
+  ],
+  "selected": {
+    "model": "linearsvc",
+    "C": 16.0,
+    "cv_macro_f1": 0.9302,
+    "cv_std": 0.0442
+  },
+  "test": {
+    "accuracy": 0.9016,
+    "macro_f1": 0.9025,
+    "per_class": {
+      "FACTUAL_SIMILARITY": {
+        "precision": 1.0,
+        "recall": 0.8461538461538461,
+        "f1-score": 0.9166666666666666,
+        "support": 13.0
+      },
+      "LEGAL_ISSUE": {
+        "precision": 1.0,
+        "recall": 0.9230769230769231,
+        "f1-score": 0.96,
+        "support": 13.0
+      },
+      "STATUTE_BASED": {
+        "precision": 0.9166666666666666,
+        "recall": 1.0,
+        "f1-score": 0.9565217391304348,
+        "support": 11.0
+      },
+      "SUPPORTING_PRECEDENT": {
+        "precision": 0.8333333333333334,
+        "recall": 0.8333333333333334,
+        "f1-score": 0.8333333333333334,
+        "support": 12.0
+      },
+      "CONTRASTING_PRECEDENT": {
+        "precision": 0.7857142857142857,
+        "recall": 0.9166666666666666,
+        "f1-score": 0.8461538461538461,
+        "support": 12.0
+      },
+      "accuracy": 0.9016393442622951,
+      "macro avg": {
+        "precision": 0.9071428571428571,
+        "recall": 0.9038461538461539,
+        "f1-score": 0.9025351170568563,
+        "support": 61.0
+      },
+      "weighted avg": {
+        "precision": 0.910031225604996,
+        "recall": 0.9016393442622951,
+        "f1-score": 0.9028238024745509,
+        "support": 61.0
+      }
+    },
+    "confusion_matrix": [
+      [
+        11,
+        0,
+        0,
+        1,
+        1
+      ],
+      [
+        0,
+        12,
+        1,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        11,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        10,
+        2
+      ],
+      [
+        0,
+        0,
+        0,
+        1,
+        11
+      ]
+    ]
+  },
+  "rule_baseline_test": {
+    "accuracy": 0.7377,
+    "macro_f1": 0.7298,
+    "confusion_matrix": [
+      [
+        6,
+        6,
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        13,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        11,
+        0,
+        0
+      ],
+      [
+        0,
+        7,
+        0,
+        4,
+        1
+      ],
+      [
+        0,
+        0,
+        0,
+        1,
+        11
+      ]
+    ]
+  },
+  "labels": [
+    "FACTUAL_SIMILARITY",
+    "LEGAL_ISSUE",
+    "STATUTE_BASED",
+    "SUPPORTING_PRECEDENT",
+    "CONTRASTING_PRECEDENT"
+  ],
+  "test_predictions": [
+    {
+      "text": "A woman was found dead in her matrimonial home within two years of marriage and her parents allege the husband demanded a car as dowry.",
+      "gold": "FACTUAL_SIMILARITY",
+      "pred": "FACTUAL_SIMILARITY",
+      "rule": "FACTUAL_SIMILARITY"
+    },
+    {
+      "text": "Bride died of burns at in-laws house two years after wedding, family says husband kept asking for dowry money",
+      "gold": "FACTUAL_SIMILARITY",
+      "pred": "FACTUAL_SIMILARITY",
+      "rule": "FACTUAL_SIMILARITY"
+    },
+    {
+      "text": "The accused was last seen with the deceased boy near a canal and the body was recovered the next morning; no one saw the killing.",
+      "gold": "FACTUAL_SIMILARITY",
+      "pred": "FACTUAL_SIMILARITY",
+      "rule": "FACTUAL_SIMILARITY"
+    },
+    {
+      "text": "The truck driver hit a motorcyclist on the highway at night, the victim was a 32 year old software engineer and his widow and two children claim compensation.",
+      "gold": "FACTUAL_SIMILARITY",
+      "pred": "FACTUAL_SIMILARITY",
+      "rule": "FACTUAL_SIMILARITY"
+    },
+    {
+      "text": "Ganja weighing 20 kg was found in the boot of a car in which the accused was travelling as a passenger and he claims he did not know about it.",
+      "gold": "FACTUAL_SIMILARITY",
+      "pred": "FACTUAL_SIMILARITY",
+      "rule": "FACTUAL_SIMILARITY"
+    },
+    {
+      "text": "Several persons armed with swords attacked a family during a village festival over old enmity and two people died; the eyewitnesses are relatives of the deceased.",
+      "gold": "FACTUAL_SIMILARITY",
+      "pred": "FACTUAL_SIMILARITY",
+      "rule": "FACTUAL_SIMILARITY"
+    },
+    {
+      "text": "A public servant was caught by the anti-corruption bureau accepting money in a trap laid on a complaint, but the complainant turned hostile at trial.",
+      "gold": "FACTUAL_SIMILARITY",
+      "pred": "FACTUAL_SIMILARITY",
+      "rule": "LEGAL_ISSUE"
+    },
+    {
+      "text": "A daughter claims an equal share in her late father's ancestral agricultural property, but her brothers rely on an oral family partition made before 2005.",
+      "gold": "FACTUAL_SIMILARITY",
+      "pred": "SUPPORTING_PRECEDENT",
+      "rule": "LEGAL_ISSUE"
+    },
+    {
+      "text": "A municipal corporation demolished a house without serving any notice on the owner, claiming it was an illegal encroachment.",
+      "gold": "FACTUAL_SIMILARITY",
+      "pred": "FACTUAL_SIMILARITY",
+      "rule": "LEGAL_ISSUE"
+    },
+    {
+      "text": "A news channel aired a story accusing a politician of corruption and the politician filed criminal defamation complaints in several states.",
+      "gold": "FACTUAL_SIMILARITY",
+      "pred": "FACTUAL_SIMILARITY",
+      "rule": "LEGAL_ISSUE"
+    },
+    {
+      "text": "TV channel broadcast alleging a politician was corrupt; he filed defamation cases in different states",
+      "gold": "FACTUAL_SIMILARITY",
+      "pred": "FACTUAL_SIMILARITY",
+      "rule": "LEGAL_ISSUE"
+    },
+    {
+      "text": "Hundreds of trees were cut in a reserve forest area for a tourism project without forest clearance.",
+      "gold": "FACTUAL_SIMILARITY",
+      "pred": "FACTUAL_SIMILARITY",
+      "rule": "LEGAL_ISSUE"
+    },
+    {
+      "text": "The police registered an FIR for cheating against a businessman over what is essentially a dispute about payment under a supply contract.",
+      "gold": "FACTUAL_SIMILARITY",
+      "pred": "CONTRASTING_PRECEDENT",
+      "rule": "CONTRASTING_PRECEDENT"
+    },
+    {
+      "text": "Can a conviction be based solely on circumstantial evidence when there are no eyewitnesses?",
+      "gold": "LEGAL_ISSUE",
+      "pred": "LEGAL_ISSUE",
+      "rule": "LEGAL_ISSUE"
+    },
+    {
+      "text": "is circumstantial evidence alone enough to convict an accused",
+      "gold": "LEGAL_ISSUE",
+      "pred": "LEGAL_ISSUE",
+      "rule": "LEGAL_ISSUE"
+    },
+    {
+      "text": "Is a dying declaration sufficient to convict without corroboration?",
+      "gold": "LEGAL_ISSUE",
+      "pred": "LEGAL_ISSUE",
+      "rule": "LEGAL_ISSUE"
+    },
+    {
+      "text": "Doctrine of legitimate expectation in administrative action",
+      "gold": "LEGAL_ISSUE",
+      "pred": "LEGAL_ISSUE",
+      "rule": "LEGAL_ISSUE"
+    },
+    {
+      "text": "When does delay in lodging the FIR become fatal to the prosecution case?",
+      "gold": "LEGAL_ISSUE",
+      "pred": "LEGAL_ISSUE",
+      "rule": "LEGAL_ISSUE"
+    },
+    {
+      "text": "Burden of proof on the accused when he takes a plea of private defence",
+      "gold": "LEGAL_ISSUE",
+      "pred": "LEGAL_ISSUE",
+      "rule": "LEGAL_ISSUE"
+    },
+    {
+      "text": "Proportionality of punishment imposed in service matters",
+      "gold": "LEGAL_ISSUE",
+      "pred": "STATUTE_BASED",
+      "rule": "LEGAL_ISSUE"
+    },
+    {
+      "text": "when can a court interfere with the quantum of penalty imposed on an employee",
+      "gold": "LEGAL_ISSUE",
+      "pred": "LEGAL_ISSUE",
+      "rule": "LEGAL_ISSUE"
+    },
+    {
+      "text": "What constitutes cruelty for the purpose of divorce?",
+      "gold": "LEGAL_ISSUE",
+      "pred": "LEGAL_ISSUE",
+      "rule": "LEGAL_ISSUE"
+    },
+    {
+      "text": "Whether consent obtained on a false promise of marriage vitiates consent",
+      "gold": "LEGAL_ISSUE",
+      "pred": "LEGAL_ISSUE",
+      "rule": "LEGAL_ISSUE"
+    },
+    {
+      "text": "Rights of an arrested person to be informed of the grounds of arrest",
+      "gold": "LEGAL_ISSUE",
+      "pred": "LEGAL_ISSUE",
+      "rule": "LEGAL_ISSUE"
+    },
+    {
+      "text": "Concept of continuing wrong and limitation",
+      "gold": "LEGAL_ISSUE",
+      "pred": "LEGAL_ISSUE",
+      "rule": "LEGAL_ISSUE"
+    },
+    {
+      "text": "Is the opinion of a handwriting expert conclusive proof?",
+      "gold": "LEGAL_ISSUE",
+      "pred": "LEGAL_ISSUE",
+      "rule": "LEGAL_ISSUE"
+    },
+    {
+      "text": "Judgments on Section 50 of the NDPS Act personal search",
+      "gold": "STATUTE_BASED",
+      "pred": "STATUTE_BASED",
+      "rule": "STATUTE_BASED"
+    },
+    {
+      "text": "Section 304B IPC dowry death presumption under Section 113B Evidence Act",
+      "gold": "STATUTE_BASED",
+      "pred": "STATUTE_BASED",
+      "rule": "STATUTE_BASED"
+    },
+    {
+      "text": "Section 498A IPC cases",
+      "gold": "STATUTE_BASED",
+      "pred": "STATUTE_BASED",
+      "rule": "STATUTE_BASED"
+    },
+    {
+      "text": "Section 45 PMLA twin conditions for bail",
+      "gold": "STATUTE_BASED",
+      "pred": "STATUTE_BASED",
+      "rule": "STATUTE_BASED"
+    },
+    {
+      "text": "bail under section 45 of the Prevention of Money Laundering Act",
+      "gold": "STATUTE_BASED",
+      "pred": "STATUTE_BASED",
+      "rule": "STATUTE_BASED"
+    },
+    {
+      "text": "Section 43D(5) UAPA bail",
+      "gold": "STATUTE_BASED",
+      "pred": "STATUTE_BASED",
+      "rule": "STATUTE_BASED"
+    },
+    {
+      "text": "Section 100 CPC second appeal substantial question of law",
+      "gold": "STATUTE_BASED",
+      "pred": "STATUTE_BASED",
+      "rule": "STATUTE_BASED"
+    },
+    {
+      "text": "Section 16(c) Specific Relief Act readiness and willingness",
+      "gold": "STATUTE_BASED",
+      "pred": "STATUTE_BASED",
+      "rule": "STATUTE_BASED"
+    },
+    {
+      "text": "Section 173(8) CrPC further investigation",
+      "gold": "STATUTE_BASED",
+      "pred": "STATUTE_BASED",
+      "rule": "STATUTE_BASED"
+    },
+    {
+      "text": "Section 482 BNSS anticipatory bail under the new criminal law",
+      "gold": "STATUTE_BASED",
+      "pred": "STATUTE_BASED",
+      "rule": "STATUTE_BASED"
+    },
+    {
+      "text": "Section 15 of the Juvenile Justice Act, 2015 preliminary assessment",
+      "gold": "STATUTE_BASED",
+      "pred": "STATUTE_BASED",
+      "rule": "STATUTE_BASED"
+    },
+    {
+      "text": "Find judgments that relied on Chandrappa v. State of Karnataka on reversal of acquittal",
+      "gold": "SUPPORTING_PRECEDENT",
+      "pred": "SUPPORTING_PRECEDENT",
+      "rule": "SUPPORTING_PRECEDENT"
+    },
+    {
+      "text": "decisions applying Chandrappa principles for appeals against acquittal",
+      "gold": "SUPPORTING_PRECEDENT",
+      "pred": "CONTRASTING_PRECEDENT",
+      "rule": "CONTRASTING_PRECEDENT"
+    },
+    {
+      "text": "Precedents holding that compassionate appointment is not a vested right",
+      "gold": "SUPPORTING_PRECEDENT",
+      "pred": "CONTRASTING_PRECEDENT",
+      "rule": "LEGAL_ISSUE"
+    },
+    {
+      "text": "Cases relying on Vijay Madanlal Choudhary on the validity of PMLA provisions",
+      "gold": "SUPPORTING_PRECEDENT",
+      "pred": "SUPPORTING_PRECEDENT",
+      "rule": "LEGAL_ISSUE"
+    },
+    {
+      "text": "Authorities which followed Indra Sawhney on reservation",
+      "gold": "SUPPORTING_PRECEDENT",
+      "pred": "SUPPORTING_PRECEDENT",
+      "rule": "SUPPORTING_PRECEDENT"
+    },
+    {
+      "text": "Find cases relying on Kesavananda Bharati basic structure doctrine",
+      "gold": "SUPPORTING_PRECEDENT",
+      "pred": "SUPPORTING_PRECEDENT",
+      "rule": "LEGAL_ISSUE"
+    },
+    {
+      "text": "Cases approving that delay in FIR is not fatal if satisfactorily explained",
+      "gold": "SUPPORTING_PRECEDENT",
+      "pred": "SUPPORTING_PRECEDENT",
+      "rule": "LEGAL_ISSUE"
+    },
+    {
+      "text": "Cases that followed Dilip K. Basu guidelines on arrest and custody",
+      "gold": "SUPPORTING_PRECEDENT",
+      "pred": "SUPPORTING_PRECEDENT",
+      "rule": "SUPPORTING_PRECEDENT"
+    },
+    {
+      "text": "Cases following Jacob Mathew on medical negligence",
+      "gold": "SUPPORTING_PRECEDENT",
+      "pred": "SUPPORTING_PRECEDENT",
+      "rule": "LEGAL_ISSUE"
+    },
+    {
+      "text": "Precedents relying on Neeharika Infrastructure on interim protection while refusing to quash",
+      "gold": "SUPPORTING_PRECEDENT",
+      "pred": "SUPPORTING_PRECEDENT",
+      "rule": "SUPPORTING_PRECEDENT"
+    },
+    {
+      "text": "Cases affirming that the appellate court can re-appreciate the entire evidence in a first appeal",
+      "gold": "SUPPORTING_PRECEDENT",
+      "pred": "SUPPORTING_PRECEDENT",
+      "rule": "LEGAL_ISSUE"
+    },
+    {
+      "text": "Supreme Court judgments relied on to establish that a sale agreement does not create any interest in property",
+      "gold": "SUPPORTING_PRECEDENT",
+      "pred": "SUPPORTING_PRECEDENT",
+      "rule": "LEGAL_ISSUE"
+    },
+    {
+      "text": "Find cases which overruled earlier decisions on the sub-classification of scheduled castes",
+      "gold": "CONTRASTING_PRECEDENT",
+      "pred": "CONTRASTING_PRECEDENT",
+      "rule": "CONTRASTING_PRECEDENT"
+    },
+    {
+      "text": "judgments overruling E.V. Chinnaiah",
+      "gold": "CONTRASTING_PRECEDENT",
+      "pred": "CONTRASTING_PRECEDENT",
+      "rule": "CONTRASTING_PRECEDENT"
+    },
+    {
+      "text": "Authorities against the argument that a dying declaration alone can sustain a conviction",
+      "gold": "CONTRASTING_PRECEDENT",
+      "pred": "CONTRASTING_PRECEDENT",
+      "rule": "CONTRASTING_PRECEDENT"
+    },
+    {
+      "text": "Cases where the court refused to follow Gian Singh and declined to quash a serious offence on compromise",
+      "gold": "CONTRASTING_PRECEDENT",
+      "pred": "CONTRASTING_PRECEDENT",
+      "rule": "CONTRASTING_PRECEDENT"
+    },
+    {
+      "text": "Counter-authorities to the argument that delay in lodging FIR is always fatal",
+      "gold": "CONTRASTING_PRECEDENT",
+      "pred": "CONTRASTING_PRECEDENT",
+      "rule": "CONTRASTING_PRECEDENT"
+    },
+    {
+      "text": "Cases where the court held that the sole testimony of an interested witness could not be relied upon, contrary to the general rule",
+      "gold": "CONTRASTING_PRECEDENT",
+      "pred": "CONTRASTING_PRECEDENT",
+      "rule": "CONTRASTING_PRECEDENT"
+    },
+    {
+      "text": "Precedents holding that natural justice can be excluded, to counter the argument that a hearing was mandatory",
+      "gold": "CONTRASTING_PRECEDENT",
+      "pred": "CONTRASTING_PRECEDENT",
+      "rule": "CONTRASTING_PRECEDENT"
+    },
+    {
+      "text": "Find cases that refused to apply the doctrine of legitimate expectation",
+      "gold": "CONTRASTING_PRECEDENT",
+      "pred": "CONTRASTING_PRECEDENT",
+      "rule": "CONTRASTING_PRECEDENT"
+    },
+    {
+      "text": "Cases where a larger bench disagreed with a smaller bench and referred the matter",
+      "gold": "CONTRASTING_PRECEDENT",
+      "pred": "CONTRASTING_PRECEDENT",
+      "rule": "CONTRASTING_PRECEDENT"
+    },
+    {
+      "text": "Precedents that do not support the proposition that an FIR must always be registered before a preliminary inquiry",
+      "gold": "CONTRASTING_PRECEDENT",
+      "pred": "SUPPORTING_PRECEDENT",
+      "rule": "SUPPORTING_PRECEDENT"
+    },
+    {
+      "text": "Cases where the court refused to follow the multiplier method because of special facts",
+      "gold": "CONTRASTING_PRECEDENT",
+      "pred": "CONTRASTING_PRECEDENT",
+      "rule": "CONTRASTING_PRECEDENT"
+    },
+    {
+      "text": "Judgments that departed from Bachan Singh in sentencing",
+      "gold": "CONTRASTING_PRECEDENT",
+      "pred": "CONTRASTING_PRECEDENT",
+      "rule": "CONTRASTING_PRECEDENT"
+    }
+  ]
+}

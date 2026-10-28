@@ -1,0 +1,1451 @@
+{
+  "description": "Authored legal queries with intent labels for training/testing the intent classifier. Drafted by Claude for LexInsight; see INTENT_GUIDELINES.md.",
+  "queries": [
+    {
+      "id": "iq001",
+      "text": "A woman was found dead in her matrimonial home within two years of marriage and her parents allege the husband demanded a car as dowry.",
+      "intent": "FACTUAL_SIMILARITY",
+      "group": "g001"
+    },
+    {
+      "id": "iq002",
+      "text": "Bride died of burns at in-laws house two years after wedding, family says husband kept asking for dowry money",
+      "intent": "FACTUAL_SIMILARITY",
+      "group": "g001"
+    },
+    {
+      "id": "iq003",
+      "text": "The accused was last seen with the deceased boy near a canal and the body was recovered the next morning; no one saw the killing.",
+      "intent": "FACTUAL_SIMILARITY",
+      "group": "g002"
+    },
+    {
+      "id": "iq004",
+      "text": "Police recovered a knife at the instance of the accused from his house after he made a statement in custody, and the victim had stab wounds.",
+      "intent": "FACTUAL_SIMILARITY",
+      "group": "g003"
+    },
+    {
+      "id": "iq005",
+      "text": "weapon recovered from accused's home after his custodial statement in a stabbing death",
+      "intent": "FACTUAL_SIMILARITY",
+      "group": "g003"
+    },
+    {
+      "id": "iq006",
+      "text": "A bank auctioned a mortgaged property but refused to issue the sale certificate after the buyer paid the balance late because the bank delayed confirmation.",
+      "intent": "FACTUAL_SIMILARITY",
+      "group": "g004"
+    },
+    {
+      "id": "iq007",
+      "text": "My client, a police constable candidate, was declared failed only because his date of birth was entered wrongly in the online application form.",
+      "intent": "FACTUAL_SIMILARITY",
+      "group": "g005"
+    },
+    {
+      "id": "iq008",
+      "text": "candidate disqualified from constable recruitment due to a typo in date of birth in the online form",
+      "intent": "FACTUAL_SIMILARITY",
+      "group": "g005"
+    },
+    {
+      "id": "iq009",
+      "text": "Two brothers quarrelled over a boundary wall and one of them hit the other with a lathi on the head, who died in hospital a week later.",
+      "intent": "FACTUAL_SIMILARITY",
+      "group": "g006"
+    },
+    {
+      "id": "iq010",
+      "text": "A minor girl of 14 was taken away by a neighbour on a motorcycle and later found in another state; the neighbour says she went willingly.",
+      "intent": "FACTUAL_SIMILARITY",
+      "group": "g007"
+    },
+    {
+      "id": "iq011",
+      "text": "Farmer's agricultural land was acquired for a highway in 2010 and the collector awarded compensation far below the price of nearby plots.",
+      "intent": "FACTUAL_SIMILARITY",
+      "group": "g008"
+    },
+    {
+      "id": "iq012",
+      "text": "An employee was dismissed after a departmental inquiry in which he was never given copies of the documents relied upon by the inquiry officer.",
+      "intent": "FACTUAL_SIMILARITY",
+      "group": "g009"
+    },
+    {
+      "id": "iq013",
+      "text": "worker sacked after an internal inquiry where he never got the documents used against him",
+      "intent": "FACTUAL_SIMILARITY",
+      "group": "g009"
+    },
+    {
+      "id": "iq014",
+      "text": "The complainant gave a loan to a friend who issued a cheque that bounced for insufficient funds, and the friend says the cheque was a blank security cheque.",
+      "intent": "FACTUAL_SIMILARITY",
+      "group": "g010"
+    },
+    {
+      "id": "iq015",
+      "text": "A doctor operated on the wrong knee of a patient at a private hospital and the patient now cannot walk properly.",
+      "intent": "FACTUAL_SIMILARITY",
+      "group": "g011"
+    },
+    {
+      "id": "iq016",
+      "text": "The truck driver hit a motorcyclist on the highway at night, the victim was a 32 year old software engineer and his widow and two children claim compensation.",
+      "intent": "FACTUAL_SIMILARITY",
+      "group": "g012"
+    },
+    {
+      "id": "iq017",
+      "text": "Ganja weighing 20 kg was found in the boot of a car in which the accused was travelling as a passenger and he claims he did not know about it.",
+      "intent": "FACTUAL_SIMILARITY",
+      "group": "g013"
+    },
+    {
+      "id": "iq018",
+      "text": "Several persons armed with swords attacked a family during a village festival over old enmity and two people died; the eyewitnesses are relatives of the deceased.",
+      "intent": "FACTUAL_SIMILARITY",
+      "group": "g014"
+    },
+    {
+      "id": "iq019",
+      "text": "A builder took full payment for a flat in 2014 but did not hand over possession even after eight years and the buyer wants a refund with interest.",
+      "intent": "FACTUAL_SIMILARITY",
+      "group": "g015"
+    },
+    {
+      "id": "iq020",
+      "text": "homebuyer paid builder in full but flat not delivered for years, wants money back",
+      "intent": "FACTUAL_SIMILARITY",
+      "group": "g015"
+    },
+    {
+      "id": "iq021",
+      "text": "The husband and in-laws were accused of harassing the wife for money; she lodged an FIR after she moved to her parents' house, naming distant relatives as well.",
+      "intent": "FACTUAL_SIMILARITY",
+      "group": "g016"
+    },
+    {
+      "id": "iq022",
+      "text": "A government school teacher was transferred to a remote district one week after she complained about the headmaster.",
+      "intent": "FACTUAL_SIMILARITY",
+      "group": "g017"
+    },
+    {
+      "id": "iq023",
+      "text": "A tenant kept paying rent for 30 years and now the landlord's son wants the shop vacated for his own business.",
+      "intent": "FACTUAL_SIMILARITY",
+      "group": "g018"
+    },
+    {
+      "id": "iq024",
+      "text": "A public servant was caught by the anti-corruption bureau accepting money in a trap laid on a complaint, but the complainant turned hostile at trial.",
+      "intent": "FACTUAL_SIMILARITY",
+      "group": "g019"
+    },
+    {
+      "id": "iq025",
+      "text": "A daughter claims an equal share in her late father's ancestral agricultural property, but her brothers rely on an oral family partition made before 2005.",
+      "intent": "FACTUAL_SIMILARITY",
+      "group": "g020"
+    },
+    {
+      "id": "iq026",
+      "text": "The accused was a juvenile of 17 years at the time of the alleged murder but the plea of juvenility was raised for the first time in the Supreme Court.",
+      "intent": "FACTUAL_SIMILARITY",
+      "group": "g021"
+    },
+    {
+      "id": "iq027",
+      "text": "A private company stopped paying an operational creditor for supplies and the creditor filed an insolvency application, but the company says there was a pre-existing dispute.",
+      "intent": "FACTUAL_SIMILARITY",
+      "group": "g022"
+    },
+    {
+      "id": "iq028",
+      "text": "An arbitrator awarded damages to a contractor for delay in completing a road project caused by the state's failure to hand over the land.",
+      "intent": "FACTUAL_SIMILARITY",
+      "group": "g023"
+    },
+    {
+      "id": "iq029",
+      "text": "Students admitted to a private medical college were told their admissions were cancelled because the college did not have the approval of the regulator.",
+      "intent": "FACTUAL_SIMILARITY",
+      "group": "g024"
+    },
+    {
+      "id": "iq030",
+      "text": "An undertrial has been in jail for six years in a terror conspiracy case and the trial has barely begun, with hundreds of witnesses still to be examined.",
+      "intent": "FACTUAL_SIMILARITY",
+      "group": "g025"
+    },
+    {
+      "id": "iq031",
+      "text": "accused in jail for years in an anti-terror case with the trial nowhere near completion",
+      "intent": "FACTUAL_SIMILARITY",
+      "group": "g025"
+    },
+    {
+      "id": "iq032",
+      "text": "A man was convicted for raping a woman on the promise of marriage, but they had been in a consensual relationship for four years before he married someone else.",
+      "intent": "FACTUAL_SIMILARITY",
+      "group": "g026"
+    },
+    {
+      "id": "iq033",
+      "text": "A deceased employee's son applied for a job on compassionate grounds twelve years after his father's death.",
+      "intent": "FACTUAL_SIMILARITY",
+      "group": "g027"
+    },
+    {
+      "id": "iq034",
+      "text": "During a raid customs officers found undeclared gold bars in a passenger's baggage at the airport.",
+      "intent": "FACTUAL_SIMILARITY",
+      "group": "g028"
+    },
+    {
+      "id": "iq035",
+      "text": "A person was arrested by the Enforcement Directorate and was not told the grounds of arrest in writing at the time of arrest.",
+      "intent": "FACTUAL_SIMILARITY",
+      "group": "g029"
+    },
+    {
+      "id": "iq036",
+      "text": "The victim's dying statement was recorded by a head constable in the hospital without a doctor certifying that she was fit to speak.",
+      "intent": "FACTUAL_SIMILARITY",
+      "group": "g030"
+    },
+    {
+      "id": "iq037",
+      "text": "The sale deed was executed by a power of attorney holder after the principal had died, and the purchaser now claims title.",
+      "intent": "FACTUAL_SIMILARITY",
+      "group": "g031"
+    },
+    {
+      "id": "iq038",
+      "text": "A woman officer of the Army was denied permanent commission although her male batchmates with the same record were granted it.",
+      "intent": "FACTUAL_SIMILARITY",
+      "group": "g032"
+    },
+    {
+      "id": "iq039",
+      "text": "A municipal corporation demolished a house without serving any notice on the owner, claiming it was an illegal encroachment.",
+      "intent": "FACTUAL_SIMILARITY",
+      "group": "g033"
+    },
+    {
+      "id": "iq040",
+      "text": "The accused shot his neighbour after an argument over parking a tractor; the pellets were recovered and matched to his licensed gun.",
+      "intent": "FACTUAL_SIMILARITY",
+      "group": "g034"
+    },
+    {
+      "id": "iq041",
+      "text": "An engineering student was ragged by seniors in the hostel and later committed suicide leaving a note naming them.",
+      "intent": "FACTUAL_SIMILARITY",
+      "group": "g035"
+    },
+    {
+      "id": "iq042",
+      "text": "A wife left the matrimonial home with her child and the husband seeks custody alleging she is moving abroad.",
+      "intent": "FACTUAL_SIMILARITY",
+      "group": "g036"
+    },
+    {
+      "id": "iq043",
+      "text": "Members of a cooperative society were expelled without any hearing for criticising the managing committee.",
+      "intent": "FACTUAL_SIMILARITY",
+      "group": "g037"
+    },
+    {
+      "id": "iq044",
+      "text": "The trial court acquitted the accused because the investigating officer did not send the seized samples for chemical examination for several months.",
+      "intent": "FACTUAL_SIMILARITY",
+      "group": "g038"
+    },
+    {
+      "id": "iq045",
+      "text": "A news channel aired a story accusing a politician of corruption and the politician filed criminal defamation complaints in several states.",
+      "intent": "FACTUAL_SIMILARITY",
+      "group": "g039"
+    },
+    {
+      "id": "iq046",
+      "text": "TV channel broadcast alleging a politician was corrupt; he filed defamation cases in different states",
+      "intent": "FACTUAL_SIMILARITY",
+      "group": "g039"
+    },
+    {
+      "id": "iq047",
+      "text": "Hundreds of trees were cut in a reserve forest area for a tourism project without forest clearance.",
+      "intent": "FACTUAL_SIMILARITY",
+      "group": "g040"
+    },
+    {
+      "id": "iq048",
+      "text": "A girl was married at 16 and the husband was later charged with sexual assault on the basis of her age.",
+      "intent": "FACTUAL_SIMILARITY",
+      "group": "g041"
+    },
+    {
+      "id": "iq049",
+      "text": "The police registered an FIR for cheating against a businessman over what is essentially a dispute about payment under a supply contract.",
+      "intent": "FACTUAL_SIMILARITY",
+      "group": "g042"
+    },
+    {
+      "id": "iq050",
+      "text": "An old woman's thumb impression was taken on a gift deed transferring her house to a nephew, and she says she was told it was a pension form.",
+      "intent": "FACTUAL_SIMILARITY",
+      "group": "g043"
+    },
+    {
+      "id": "iq051",
+      "text": "Can a conviction be based solely on circumstantial evidence when there are no eyewitnesses?",
+      "intent": "LEGAL_ISSUE",
+      "group": "g044"
+    },
+    {
+      "id": "iq052",
+      "text": "is circumstantial evidence alone enough to convict an accused",
+      "intent": "LEGAL_ISSUE",
+      "group": "g044"
+    },
+    {
+      "id": "iq053",
+      "text": "What are the factors a court must consider before granting anticipatory bail?",
+      "intent": "LEGAL_ISSUE",
+      "group": "g045"
+    },
+    {
+      "id": "iq054",
+      "text": "requirements for grant of pre-arrest bail",
+      "intent": "LEGAL_ISSUE",
+      "group": "g045"
+    },
+    {
+      "id": "iq055",
+      "text": "When can the appellate court reverse an order of acquittal?",
+      "intent": "LEGAL_ISSUE",
+      "group": "g046"
+    },
+    {
+      "id": "iq056",
+      "text": "scope of interference by appellate court with an acquittal",
+      "intent": "LEGAL_ISSUE",
+      "group": "g046"
+    },
+    {
+      "id": "iq057",
+      "text": "Is a dying declaration sufficient to convict without corroboration?",
+      "intent": "LEGAL_ISSUE",
+      "group": "g047"
+    },
+    {
+      "id": "iq058",
+      "text": "What is the evidentiary value of the testimony of a related or interested witness?",
+      "intent": "LEGAL_ISSUE",
+      "group": "g048"
+    },
+    {
+      "id": "iq059",
+      "text": "Principles of natural justice in disciplinary proceedings against government employees",
+      "intent": "LEGAL_ISSUE",
+      "group": "g049"
+    },
+    {
+      "id": "iq060",
+      "text": "is a hearing mandatory before imposing a major penalty on an employee",
+      "intent": "LEGAL_ISSUE",
+      "group": "g049"
+    },
+    {
+      "id": "iq061",
+      "text": "Can the High Court quash criminal proceedings on the basis of a compromise between the parties?",
+      "intent": "LEGAL_ISSUE",
+      "group": "g050"
+    },
+    {
+      "id": "iq062",
+      "text": "Doctrine of legitimate expectation in administrative action",
+      "intent": "LEGAL_ISSUE",
+      "group": "g051"
+    },
+    {
+      "id": "iq063",
+      "text": "When does delay in lodging the FIR become fatal to the prosecution case?",
+      "intent": "LEGAL_ISSUE",
+      "group": "g052"
+    },
+    {
+      "id": "iq064",
+      "text": "Is motive necessary to prove in a case based on circumstantial evidence?",
+      "intent": "LEGAL_ISSUE",
+      "group": "g053"
+    },
+    {
+      "id": "iq065",
+      "text": "Burden of proof on the accused when he takes a plea of private defence",
+      "intent": "LEGAL_ISSUE",
+      "group": "g054"
+    },
+    {
+      "id": "iq066",
+      "text": "Scope of judicial review of tender decisions by the state",
+      "intent": "LEGAL_ISSUE",
+      "group": "g055"
+    },
+    {
+      "id": "iq067",
+      "text": "Can a civil dispute be given the colour of a criminal offence to pressurise the other side?",
+      "intent": "LEGAL_ISSUE",
+      "group": "g056"
+    },
+    {
+      "id": "iq068",
+      "text": "Whether an undertrial is entitled to bail on the ground of prolonged incarceration and delay in trial",
+      "intent": "LEGAL_ISSUE",
+      "group": "g057"
+    },
+    {
+      "id": "iq069",
+      "text": "right to speedy trial as a ground for bail",
+      "intent": "LEGAL_ISSUE",
+      "group": "g057"
+    },
+    {
+      "id": "iq070",
+      "text": "Test for determining whether the conduct of the accused amounts to abetment of suicide",
+      "intent": "LEGAL_ISSUE",
+      "group": "g058"
+    },
+    {
+      "id": "iq071",
+      "text": "Is the right to privacy part of the right to life and personal liberty?",
+      "intent": "LEGAL_ISSUE",
+      "group": "g059"
+    },
+    {
+      "id": "iq072",
+      "text": "Principles for determining just compensation in motor accident claims for loss of dependency",
+      "intent": "LEGAL_ISSUE",
+      "group": "g060"
+    },
+    {
+      "id": "iq073",
+      "text": "Can an arbitral award be set aside on the ground of patent illegality?",
+      "intent": "LEGAL_ISSUE",
+      "group": "g061"
+    },
+    {
+      "id": "iq074",
+      "text": "When is a court justified in granting specific performance of an agreement to sell?",
+      "intent": "LEGAL_ISSUE",
+      "group": "g062"
+    },
+    {
+      "id": "iq075",
+      "text": "Doctrine of res judicata and its application to writ proceedings",
+      "intent": "LEGAL_ISSUE",
+      "group": "g063"
+    },
+    {
+      "id": "iq076",
+      "text": "Can sentence be reduced to the period already undergone in a murder case?",
+      "intent": "LEGAL_ISSUE",
+      "group": "g064"
+    },
+    {
+      "id": "iq077",
+      "text": "What is the standard of proof required in departmental proceedings compared to a criminal trial?",
+      "intent": "LEGAL_ISSUE",
+      "group": "g065"
+    },
+    {
+      "id": "iq078",
+      "text": "When is a confession made to a police officer admissible?",
+      "intent": "LEGAL_ISSUE",
+      "group": "g066"
+    },
+    {
+      "id": "iq079",
+      "text": "Proportionality of punishment imposed in service matters",
+      "intent": "LEGAL_ISSUE",
+      "group": "g067"
+    },
+    {
+      "id": "iq080",
+      "text": "when can a court interfere with the quantum of penalty imposed on an employee",
+      "intent": "LEGAL_ISSUE",
+      "group": "g067"
+    },
+    {
+      "id": "iq081",
+      "text": "Can a writ petition be entertained when an alternative statutory remedy is available?",
+      "intent": "LEGAL_ISSUE",
+      "group": "g068"
+    },
+    {
+      "id": "iq082",
+      "text": "What constitutes cruelty for the purpose of divorce?",
+      "intent": "LEGAL_ISSUE",
+      "group": "g069"
+    },
+    {
+      "id": "iq083",
+      "text": "Whether consent obtained on a false promise of marriage vitiates consent",
+      "intent": "LEGAL_ISSUE",
+      "group": "g070"
+    },
+    {
+      "id": "iq084",
+      "text": "Rights of an arrested person to be informed of the grounds of arrest",
+      "intent": "LEGAL_ISSUE",
+      "group": "g071"
+    },
+    {
+      "id": "iq085",
+      "text": "Concept of continuing wrong and limitation",
+      "intent": "LEGAL_ISSUE",
+      "group": "g072"
+    },
+    {
+      "id": "iq086",
+      "text": "Is the opinion of a handwriting expert conclusive proof?",
+      "intent": "LEGAL_ISSUE",
+      "group": "g073"
+    },
+    {
+      "id": "iq087",
+      "text": "When is a sentence of death justified — the rarest of rare doctrine",
+      "intent": "LEGAL_ISSUE",
+      "group": "g074"
+    },
+    {
+      "id": "iq088",
+      "text": "rarest of rare test for imposing death penalty",
+      "intent": "LEGAL_ISSUE",
+      "group": "g074"
+    },
+    {
+      "id": "iq089",
+      "text": "Effect of defective investigation on the prosecution case",
+      "intent": "LEGAL_ISSUE",
+      "group": "g075"
+    },
+    {
+      "id": "iq090",
+      "text": "Whether an employer can recover excess salary paid to an employee by mistake",
+      "intent": "LEGAL_ISSUE",
+      "group": "g076"
+    },
+    {
+      "id": "iq091",
+      "text": "Role of a public prosecutor and fair trial rights of the accused",
+      "intent": "LEGAL_ISSUE",
+      "group": "g077"
+    },
+    {
+      "id": "iq092",
+      "text": "Can a party be denied relief because of suppression of material facts in a writ petition?",
+      "intent": "LEGAL_ISSUE",
+      "group": "g078"
+    },
+    {
+      "id": "iq093",
+      "text": "Whether a person can be prosecuted twice for the same offence",
+      "intent": "LEGAL_ISSUE",
+      "group": "g079"
+    },
+    {
+      "id": "iq094",
+      "text": "Value of a test identification parade held long after the incident",
+      "intent": "LEGAL_ISSUE",
+      "group": "g080"
+    },
+    {
+      "id": "iq095",
+      "text": "Can courts direct the state to frame a policy or is that in the executive domain?",
+      "intent": "LEGAL_ISSUE",
+      "group": "g081"
+    },
+    {
+      "id": "iq096",
+      "text": "When does a contract become void for frustration or impossibility?",
+      "intent": "LEGAL_ISSUE",
+      "group": "g082"
+    },
+    {
+      "id": "iq097",
+      "text": "Equitable relief of reinstatement with back wages after illegal termination",
+      "intent": "LEGAL_ISSUE",
+      "group": "g083"
+    },
+    {
+      "id": "iq098",
+      "text": "Is the eldest member of a joint Hindu family automatically the karta and what powers does he have?",
+      "intent": "LEGAL_ISSUE",
+      "group": "g084"
+    },
+    {
+      "id": "iq099",
+      "text": "Conditions under which a statute can be applied retrospectively",
+      "intent": "LEGAL_ISSUE",
+      "group": "g085"
+    },
+    {
+      "id": "iq100",
+      "text": "Discretion of courts to condone delay in filing appeals by the state",
+      "intent": "LEGAL_ISSUE",
+      "group": "g086"
+    },
+    {
+      "id": "iq101",
+      "text": "Find Supreme Court judgments interpreting Section 302 IPC.",
+      "intent": "STATUTE_BASED",
+      "group": "g087"
+    },
+    {
+      "id": "iq102",
+      "text": "judgments on section 302 of the Indian Penal Code",
+      "intent": "STATUTE_BASED",
+      "group": "g087"
+    },
+    {
+      "id": "iq103",
+      "text": "Cases under Section 438 CrPC on anticipatory bail",
+      "intent": "STATUTE_BASED",
+      "group": "g088"
+    },
+    {
+      "id": "iq104",
+      "text": "Section 438 of the Code of Criminal Procedure judgments",
+      "intent": "STATUTE_BASED",
+      "group": "g088"
+    },
+    {
+      "id": "iq105",
+      "text": "Article 21 of the Constitution right to life and personal liberty",
+      "intent": "STATUTE_BASED",
+      "group": "g089"
+    },
+    {
+      "id": "iq106",
+      "text": "Interpretation of Section 34 of the Arbitration and Conciliation Act, 1996",
+      "intent": "STATUTE_BASED",
+      "group": "g090"
+    },
+    {
+      "id": "iq107",
+      "text": "Judgments on Section 50 of the NDPS Act personal search",
+      "intent": "STATUTE_BASED",
+      "group": "g091"
+    },
+    {
+      "id": "iq108",
+      "text": "Section 138 Negotiable Instruments Act cheque dishonour cases",
+      "intent": "STATUTE_BASED",
+      "group": "g092"
+    },
+    {
+      "id": "iq109",
+      "text": "s.138 NI Act decisions",
+      "intent": "STATUTE_BASED",
+      "group": "g092"
+    },
+    {
+      "id": "iq110",
+      "text": "Scope of Section 482 CrPC inherent powers of the High Court",
+      "intent": "STATUTE_BASED",
+      "group": "g093"
+    },
+    {
+      "id": "iq111",
+      "text": "Section 304B IPC dowry death presumption under Section 113B Evidence Act",
+      "intent": "STATUTE_BASED",
+      "group": "g094"
+    },
+    {
+      "id": "iq112",
+      "text": "Article 14 of the Constitution equality and arbitrariness of state action",
+      "intent": "STATUTE_BASED",
+      "group": "g095"
+    },
+    {
+      "id": "iq113",
+      "text": "Section 27 of the Evidence Act discovery of facts",
+      "intent": "STATUTE_BASED",
+      "group": "g096"
+    },
+    {
+      "id": "iq114",
+      "text": "Section 498A IPC cases",
+      "intent": "STATUTE_BASED",
+      "group": "g097"
+    },
+    {
+      "id": "iq115",
+      "text": "Section 7 and 13 of the Prevention of Corruption Act, 1988",
+      "intent": "STATUTE_BASED",
+      "group": "g098"
+    },
+    {
+      "id": "iq116",
+      "text": "Order VII Rule 11 CPC rejection of plaint",
+      "intent": "STATUTE_BASED",
+      "group": "g099"
+    },
+    {
+      "id": "iq117",
+      "text": "Section 319 CrPC summoning of additional accused",
+      "intent": "STATUTE_BASED",
+      "group": "g100"
+    },
+    {
+      "id": "iq118",
+      "text": "Article 142 of the Constitution complete justice",
+      "intent": "STATUTE_BASED",
+      "group": "g101"
+    },
+    {
+      "id": "iq119",
+      "text": "Section 9 of the Insolvency and Bankruptcy Code, 2016 operational creditor",
+      "intent": "STATUTE_BASED",
+      "group": "g102"
+    },
+    {
+      "id": "iq120",
+      "text": "Section 166 Motor Vehicles Act compensation",
+      "intent": "STATUTE_BASED",
+      "group": "g103"
+    },
+    {
+      "id": "iq121",
+      "text": "Section 5 of the Limitation Act condonation",
+      "intent": "STATUTE_BASED",
+      "group": "g104"
+    },
+    {
+      "id": "iq122",
+      "text": "Section 45 PMLA twin conditions for bail",
+      "intent": "STATUTE_BASED",
+      "group": "g105"
+    },
+    {
+      "id": "iq123",
+      "text": "bail under section 45 of the Prevention of Money Laundering Act",
+      "intent": "STATUTE_BASED",
+      "group": "g105"
+    },
+    {
+      "id": "iq124",
+      "text": "Section 43D(5) UAPA bail",
+      "intent": "STATUTE_BASED",
+      "group": "g106"
+    },
+    {
+      "id": "iq125",
+      "text": "Article 226 writ jurisdiction of High Courts",
+      "intent": "STATUTE_BASED",
+      "group": "g107"
+    },
+    {
+      "id": "iq126",
+      "text": "Section 100 CPC second appeal substantial question of law",
+      "intent": "STATUTE_BASED",
+      "group": "g108"
+    },
+    {
+      "id": "iq127",
+      "text": "Section 376 IPC judgments",
+      "intent": "STATUTE_BASED",
+      "group": "g109"
+    },
+    {
+      "id": "iq128",
+      "text": "Section 306 IPC abetment of suicide cases",
+      "intent": "STATUTE_BASED",
+      "group": "g110"
+    },
+    {
+      "id": "iq129",
+      "text": "Section 11 Arbitration Act appointment of arbitrator",
+      "intent": "STATUTE_BASED",
+      "group": "g111"
+    },
+    {
+      "id": "iq130",
+      "text": "Section 149 IPC unlawful assembly common object",
+      "intent": "STATUTE_BASED",
+      "group": "g112"
+    },
+    {
+      "id": "iq131",
+      "text": "Section 6 of the Hindu Succession Act coparcenary rights of daughters",
+      "intent": "STATUTE_BASED",
+      "group": "g113"
+    },
+    {
+      "id": "iq132",
+      "text": "Section 125 CrPC maintenance to wife",
+      "intent": "STATUTE_BASED",
+      "group": "g114"
+    },
+    {
+      "id": "iq133",
+      "text": "Section 16(c) Specific Relief Act readiness and willingness",
+      "intent": "STATUTE_BASED",
+      "group": "g115"
+    },
+    {
+      "id": "iq134",
+      "text": "Section 23 of the Land Acquisition Act, 1894 market value",
+      "intent": "STATUTE_BASED",
+      "group": "g116"
+    },
+    {
+      "id": "iq135",
+      "text": "Section 120B IPC criminal conspiracy",
+      "intent": "STATUTE_BASED",
+      "group": "g117"
+    },
+    {
+      "id": "iq136",
+      "text": "Section 167(2) CrPC default bail",
+      "intent": "STATUTE_BASED",
+      "group": "g118"
+    },
+    {
+      "id": "iq137",
+      "text": "Section 13(1)(ia) Hindu Marriage Act cruelty",
+      "intent": "STATUTE_BASED",
+      "group": "g119"
+    },
+    {
+      "id": "iq138",
+      "text": "Section 3 of the Prevention of Money Laundering Act",
+      "intent": "STATUTE_BASED",
+      "group": "g120"
+    },
+    {
+      "id": "iq139",
+      "text": "Section 173(8) CrPC further investigation",
+      "intent": "STATUTE_BASED",
+      "group": "g121"
+    },
+    {
+      "id": "iq140",
+      "text": "Section 482 BNSS anticipatory bail under the new criminal law",
+      "intent": "STATUTE_BASED",
+      "group": "g122"
+    },
+    {
+      "id": "iq141",
+      "text": "Section 30 of the Insolvency and Bankruptcy Code resolution plan approval",
+      "intent": "STATUTE_BASED",
+      "group": "g123"
+    },
+    {
+      "id": "iq142",
+      "text": "Article 19(1)(a) freedom of speech and expression",
+      "intent": "STATUTE_BASED",
+      "group": "g124"
+    },
+    {
+      "id": "iq143",
+      "text": "Section 2(d) of the Consumer Protection Act definition of consumer",
+      "intent": "STATUTE_BASED",
+      "group": "g125"
+    },
+    {
+      "id": "iq144",
+      "text": "Section 106 of the Evidence Act burden of proving facts especially within knowledge",
+      "intent": "STATUTE_BASED",
+      "group": "g126"
+    },
+    {
+      "id": "iq145",
+      "text": "Section 34 IPC common intention",
+      "intent": "STATUTE_BASED",
+      "group": "g127"
+    },
+    {
+      "id": "iq146",
+      "text": "Section 15 of the Juvenile Justice Act, 2015 preliminary assessment",
+      "intent": "STATUTE_BASED",
+      "group": "g128"
+    },
+    {
+      "id": "iq147",
+      "text": "Article 311 of the Constitution dismissal of civil servants",
+      "intent": "STATUTE_BASED",
+      "group": "g129"
+    },
+    {
+      "id": "iq148",
+      "text": "Find cases that relied on Sharad Birdhichand Sarda v. State of Maharashtra on the five golden principles of circumstantial evidence.",
+      "intent": "SUPPORTING_PRECEDENT",
+      "group": "g130"
+    },
+    {
+      "id": "iq149",
+      "text": "judgments following Sharad Birdhichand Sarda panchsheel of circumstantial evidence",
+      "intent": "SUPPORTING_PRECEDENT",
+      "group": "g130"
+    },
+    {
+      "id": "iq150",
+      "text": "Precedents supporting the proposition that bail is the rule and jail is the exception",
+      "intent": "SUPPORTING_PRECEDENT",
+      "group": "g131"
+    },
+    {
+      "id": "iq151",
+      "text": "authorities holding bail is the rule, jail the exception",
+      "intent": "SUPPORTING_PRECEDENT",
+      "group": "g131"
+    },
+    {
+      "id": "iq152",
+      "text": "Cases following Arnesh Kumar v. State of Bihar on unnecessary arrests",
+      "intent": "SUPPORTING_PRECEDENT",
+      "group": "g132"
+    },
+    {
+      "id": "iq153",
+      "text": "Find judgments that relied on Chandrappa v. State of Karnataka on reversal of acquittal",
+      "intent": "SUPPORTING_PRECEDENT",
+      "group": "g133"
+    },
+    {
+      "id": "iq154",
+      "text": "decisions applying Chandrappa principles for appeals against acquittal",
+      "intent": "SUPPORTING_PRECEDENT",
+      "group": "g133"
+    },
+    {
+      "id": "iq155",
+      "text": "I need authorities to support the argument that a mere breach of contract does not amount to cheating.",
+      "intent": "SUPPORTING_PRECEDENT",
+      "group": "g134"
+    },
+    {
+      "id": "iq156",
+      "text": "Judgments approving the view that the presumption of innocence is strengthened by an acquittal",
+      "intent": "SUPPORTING_PRECEDENT",
+      "group": "g135"
+    },
+    {
+      "id": "iq157",
+      "text": "Cases that followed Lalita Kumari on mandatory registration of FIR",
+      "intent": "SUPPORTING_PRECEDENT",
+      "group": "g136"
+    },
+    {
+      "id": "iq158",
+      "text": "Support for the proposition that an inquiry report must be furnished to the delinquent employee before punishment",
+      "intent": "SUPPORTING_PRECEDENT",
+      "group": "g137"
+    },
+    {
+      "id": "iq159",
+      "text": "Supreme Court decisions relying on State of Haryana v. Bhajan Lal for quashing FIRs",
+      "intent": "SUPPORTING_PRECEDENT",
+      "group": "g138"
+    },
+    {
+      "id": "iq160",
+      "text": "cases applying the Bhajan Lal categories to quash criminal proceedings",
+      "intent": "SUPPORTING_PRECEDENT",
+      "group": "g138"
+    },
+    {
+      "id": "iq161",
+      "text": "Authorities supporting that the High Court should not reappreciate evidence in second appeal",
+      "intent": "SUPPORTING_PRECEDENT",
+      "group": "g139"
+    },
+    {
+      "id": "iq162",
+      "text": "Cases which relied on Maneka Gandhi v. Union of India for procedure established by law",
+      "intent": "SUPPORTING_PRECEDENT",
+      "group": "g140"
+    },
+    {
+      "id": "iq163",
+      "text": "Precedents holding that compassionate appointment is not a vested right",
+      "intent": "SUPPORTING_PRECEDENT",
+      "group": "g141"
+    },
+    {
+      "id": "iq164",
+      "text": "Find decisions that applied Sarla Verma for the multiplier in motor accident compensation",
+      "intent": "SUPPORTING_PRECEDENT",
+      "group": "g142"
+    },
+    {
+      "id": "iq165",
+      "text": "judgments relying on Sarla Verma v. DTC for multiplier and deductions",
+      "intent": "SUPPORTING_PRECEDENT",
+      "group": "g142"
+    },
+    {
+      "id": "iq166",
+      "text": "Judgments that followed Bachan Singh on the rarest of rare doctrine",
+      "intent": "SUPPORTING_PRECEDENT",
+      "group": "g143"
+    },
+    {
+      "id": "iq167",
+      "text": "Authorities in favour of holding that statements under Section 161 CrPC cannot be used as substantive evidence",
+      "intent": "SUPPORTING_PRECEDENT",
+      "group": "g144"
+    },
+    {
+      "id": "iq168",
+      "text": "Cases relying on Vijay Madanlal Choudhary on the validity of PMLA provisions",
+      "intent": "SUPPORTING_PRECEDENT",
+      "group": "g145"
+    },
+    {
+      "id": "iq169",
+      "text": "Precedents that support granting bail where the trial is unlikely to be concluded soon in UAPA cases",
+      "intent": "SUPPORTING_PRECEDENT",
+      "group": "g146"
+    },
+    {
+      "id": "iq170",
+      "text": "authorities relying on K.A. Najeeb for bail under UAPA due to delay",
+      "intent": "SUPPORTING_PRECEDENT",
+      "group": "g146"
+    },
+    {
+      "id": "iq171",
+      "text": "Cases that affirmed the principle that the prosecution must prove the chain of circumstances completely",
+      "intent": "SUPPORTING_PRECEDENT",
+      "group": "g147"
+    },
+    {
+      "id": "iq172",
+      "text": "Decisions following Swamy Shraddhananda on sentence of life imprisonment without remission",
+      "intent": "SUPPORTING_PRECEDENT",
+      "group": "g148"
+    },
+    {
+      "id": "iq173",
+      "text": "Support my argument that an arbitral award cannot be interfered with merely because another view is possible",
+      "intent": "SUPPORTING_PRECEDENT",
+      "group": "g149"
+    },
+    {
+      "id": "iq174",
+      "text": "Judgments that relied upon Puttaswamy on the right to privacy",
+      "intent": "SUPPORTING_PRECEDENT",
+      "group": "g150"
+    },
+    {
+      "id": "iq175",
+      "text": "Authorities which followed Indra Sawhney on reservation",
+      "intent": "SUPPORTING_PRECEDENT",
+      "group": "g151"
+    },
+    {
+      "id": "iq176",
+      "text": "Find cases relying on Kesavananda Bharati basic structure doctrine",
+      "intent": "SUPPORTING_PRECEDENT",
+      "group": "g152"
+    },
+    {
+      "id": "iq177",
+      "text": "Precedents supporting that the sole testimony of the prosecutrix can be the basis of conviction",
+      "intent": "SUPPORTING_PRECEDENT",
+      "group": "g153"
+    },
+    {
+      "id": "iq178",
+      "text": "Cases approving that delay in FIR is not fatal if satisfactorily explained",
+      "intent": "SUPPORTING_PRECEDENT",
+      "group": "g154"
+    },
+    {
+      "id": "iq179",
+      "text": "Authorities supporting the plea that a juvenility claim can be raised at any stage",
+      "intent": "SUPPORTING_PRECEDENT",
+      "group": "g155"
+    },
+    {
+      "id": "iq180",
+      "text": "Find judgments relying on Mohinder Singh Gill on reasons in orders",
+      "intent": "SUPPORTING_PRECEDENT",
+      "group": "g156"
+    },
+    {
+      "id": "iq181",
+      "text": "Cases that followed Dilip K. Basu guidelines on arrest and custody",
+      "intent": "SUPPORTING_PRECEDENT",
+      "group": "g157"
+    },
+    {
+      "id": "iq182",
+      "text": "Precedents relied upon to hold that an FIR cannot be quashed when allegations disclose a cognizable offence",
+      "intent": "SUPPORTING_PRECEDENT",
+      "group": "g158"
+    },
+    {
+      "id": "iq183",
+      "text": "Judgments relying on Gian Singh v. State of Punjab on quashing after settlement",
+      "intent": "SUPPORTING_PRECEDENT",
+      "group": "g159"
+    },
+    {
+      "id": "iq184",
+      "text": "Decisions that followed Satender Kumar Antil on bail guidelines",
+      "intent": "SUPPORTING_PRECEDENT",
+      "group": "g160"
+    },
+    {
+      "id": "iq185",
+      "text": "Authorities holding that natural justice is not an unruly horse and can be excluded in some cases, to support my client",
+      "intent": "SUPPORTING_PRECEDENT",
+      "group": "g161"
+    },
+    {
+      "id": "iq186",
+      "text": "Cases following Jacob Mathew on medical negligence",
+      "intent": "SUPPORTING_PRECEDENT",
+      "group": "g162"
+    },
+    {
+      "id": "iq187",
+      "text": "Precedents supporting that an employee cannot be punished twice for the same misconduct",
+      "intent": "SUPPORTING_PRECEDENT",
+      "group": "g163"
+    },
+    {
+      "id": "iq188",
+      "text": "Judgments relying on Kashmira Singh about the use of a co-accused's confession",
+      "intent": "SUPPORTING_PRECEDENT",
+      "group": "g164"
+    },
+    {
+      "id": "iq189",
+      "text": "Cases which followed Sanjay Chandra v. CBI on bail in economic offences",
+      "intent": "SUPPORTING_PRECEDENT",
+      "group": "g165"
+    },
+    {
+      "id": "iq190",
+      "text": "Authorities that relied on Selvi v. State of Karnataka against narco-analysis",
+      "intent": "SUPPORTING_PRECEDENT",
+      "group": "g166"
+    },
+    {
+      "id": "iq191",
+      "text": "Find cases following Navtej Singh Johar on dignity and autonomy",
+      "intent": "SUPPORTING_PRECEDENT",
+      "group": "g167"
+    },
+    {
+      "id": "iq192",
+      "text": "Precedents relying on Neeharika Infrastructure on interim protection while refusing to quash",
+      "intent": "SUPPORTING_PRECEDENT",
+      "group": "g168"
+    },
+    {
+      "id": "iq193",
+      "text": "Cases affirming that the appellate court can re-appreciate the entire evidence in a first appeal",
+      "intent": "SUPPORTING_PRECEDENT",
+      "group": "g169"
+    },
+    {
+      "id": "iq194",
+      "text": "Supreme Court judgments relied on to establish that a sale agreement does not create any interest in property",
+      "intent": "SUPPORTING_PRECEDENT",
+      "group": "g170"
+    },
+    {
+      "id": "iq195",
+      "text": "Authorities supporting the position that limitation for a suit begins from the date of knowledge",
+      "intent": "SUPPORTING_PRECEDENT",
+      "group": "g171"
+    },
+    {
+      "id": "iq196",
+      "text": "Find judgments that distinguished Sharad Birdhichand Sarda on the facts",
+      "intent": "CONTRASTING_PRECEDENT",
+      "group": "g172"
+    },
+    {
+      "id": "iq197",
+      "text": "cases where Sharad Birdhichand Sarda was held inapplicable",
+      "intent": "CONTRASTING_PRECEDENT",
+      "group": "g172"
+    },
+    {
+      "id": "iq198",
+      "text": "Cases taking a contrary view to the proposition that bail is the rule in UAPA offences",
+      "intent": "CONTRASTING_PRECEDENT",
+      "group": "g173"
+    },
+    {
+      "id": "iq199",
+      "text": "decisions holding the bail is the rule principle does not apply to terror cases",
+      "intent": "CONTRASTING_PRECEDENT",
+      "group": "g173"
+    },
+    {
+      "id": "iq200",
+      "text": "Judgments that distinguished Arnesh Kumar guidelines",
+      "intent": "CONTRASTING_PRECEDENT",
+      "group": "g174"
+    },
+    {
+      "id": "iq201",
+      "text": "Find cases which overruled earlier decisions on the sub-classification of scheduled castes",
+      "intent": "CONTRASTING_PRECEDENT",
+      "group": "g175"
+    },
+    {
+      "id": "iq202",
+      "text": "judgments overruling E.V. Chinnaiah",
+      "intent": "CONTRASTING_PRECEDENT",
+      "group": "g175"
+    },
+    {
+      "id": "iq203",
+      "text": "Authorities against the argument that a dying declaration alone can sustain a conviction",
+      "intent": "CONTRASTING_PRECEDENT",
+      "group": "g176"
+    },
+    {
+      "id": "iq204",
+      "text": "Cases where the court refused to follow Gian Singh and declined to quash a serious offence on compromise",
+      "intent": "CONTRASTING_PRECEDENT",
+      "group": "g177"
+    },
+    {
+      "id": "iq205",
+      "text": "Decisions that held Lalita Kumari inapplicable to preliminary inquiry cases",
+      "intent": "CONTRASTING_PRECEDENT",
+      "group": "g178"
+    },
+    {
+      "id": "iq206",
+      "text": "Precedents where the court departed from the rule that an acquittal should not be lightly interfered with",
+      "intent": "CONTRASTING_PRECEDENT",
+      "group": "g179"
+    },
+    {
+      "id": "iq207",
+      "text": "Find judgments distinguishing Bhajan Lal where the court refused to quash the FIR",
+      "intent": "CONTRASTING_PRECEDENT",
+      "group": "g180"
+    },
+    {
+      "id": "iq208",
+      "text": "Contrary authority to the view that compassionate appointment must be considered under the scheme in force on the date of death",
+      "intent": "CONTRASTING_PRECEDENT",
+      "group": "g181"
+    },
+    {
+      "id": "iq209",
+      "text": "Cases where a precedent was declared per incuriam",
+      "intent": "CONTRASTING_PRECEDENT",
+      "group": "g182"
+    },
+    {
+      "id": "iq210",
+      "text": "Judgments that disapproved or doubted earlier rulings on the interest payable under arbitration awards",
+      "intent": "CONTRASTING_PRECEDENT",
+      "group": "g183"
+    },
+    {
+      "id": "iq211",
+      "text": "Counter-authorities to the argument that delay in lodging FIR is always fatal",
+      "intent": "CONTRASTING_PRECEDENT",
+      "group": "g184"
+    },
+    {
+      "id": "iq212",
+      "text": "Cases where the court held that the sole testimony of an interested witness could not be relied upon, contrary to the general rule",
+      "intent": "CONTRASTING_PRECEDENT",
+      "group": "g185"
+    },
+    {
+      "id": "iq213",
+      "text": "Find decisions that distinguished Sarla Verma on the deduction for personal expenses",
+      "intent": "CONTRASTING_PRECEDENT",
+      "group": "g186"
+    },
+    {
+      "id": "iq214",
+      "text": "Judgments holding the rarest of rare test was not satisfied and declining to follow cases that imposed death",
+      "intent": "CONTRASTING_PRECEDENT",
+      "group": "g187"
+    },
+    {
+      "id": "iq215",
+      "text": "Authorities that overruled the view that royalty is a tax",
+      "intent": "CONTRASTING_PRECEDENT",
+      "group": "g188"
+    },
+    {
+      "id": "iq216",
+      "text": "cases overruling India Cement on royalty being tax",
+      "intent": "CONTRASTING_PRECEDENT",
+      "group": "g188"
+    },
+    {
+      "id": "iq217",
+      "text": "Precedents holding that natural justice can be excluded, to counter the argument that a hearing was mandatory",
+      "intent": "CONTRASTING_PRECEDENT",
+      "group": "g189"
+    },
+    {
+      "id": "iq218",
+      "text": "Cases distinguishing Vijay Madanlal Choudhary on the grant of bail under PMLA",
+      "intent": "CONTRASTING_PRECEDENT",
+      "group": "g190"
+    },
+    {
+      "id": "iq219",
+      "text": "Judgments where earlier decisions on Section 6 of the Hindu Succession Act were overruled",
+      "intent": "CONTRASTING_PRECEDENT",
+      "group": "g191"
+    },
+    {
+      "id": "iq220",
+      "text": "Find cases that refused to apply the doctrine of legitimate expectation",
+      "intent": "CONTRASTING_PRECEDENT",
+      "group": "g192"
+    },
+    {
+      "id": "iq221",
+      "text": "Decisions taking the opposite view that a breach of contract can constitute cheating",
+      "intent": "CONTRASTING_PRECEDENT",
+      "group": "g193"
+    },
+    {
+      "id": "iq222",
+      "text": "Cases where the court distinguished K.A. Najeeb and refused bail despite long custody",
+      "intent": "CONTRASTING_PRECEDENT",
+      "group": "g194"
+    },
+    {
+      "id": "iq223",
+      "text": "Contrasting authorities on whether the presumption under Section 139 NI Act is rebuttable on preponderance of probabilities",
+      "intent": "CONTRASTING_PRECEDENT",
+      "group": "g195"
+    },
+    {
+      "id": "iq224",
+      "text": "Find judgments that held earlier precedent inapplicable because the statute had been amended",
+      "intent": "CONTRASTING_PRECEDENT",
+      "group": "g196"
+    },
+    {
+      "id": "iq225",
+      "text": "Judgments disagreeing with the High Court's reliance on an overruled decision",
+      "intent": "CONTRASTING_PRECEDENT",
+      "group": "g197"
+    },
+    {
+      "id": "iq226",
+      "text": "Authorities rejecting the plea that a juvenility claim can be raised at any stage after final disposal",
+      "intent": "CONTRASTING_PRECEDENT",
+      "group": "g198"
+    },
+    {
+      "id": "iq227",
+      "text": "Cases where a larger bench disagreed with a smaller bench and referred the matter",
+      "intent": "CONTRASTING_PRECEDENT",
+      "group": "g199"
+    },
+    {
+      "id": "iq228",
+      "text": "Precedents that do not support the proposition that an FIR must always be registered before a preliminary inquiry",
+      "intent": "CONTRASTING_PRECEDENT",
+      "group": "g200"
+    },
+    {
+      "id": "iq229",
+      "text": "Find cases where Dilip K. Basu was distinguished",
+      "intent": "CONTRASTING_PRECEDENT",
+      "group": "g201"
+    },
+    {
+      "id": "iq230",
+      "text": "Judgments rejecting the argument that the sole testimony of the prosecutrix is enough when it is inconsistent",
+      "intent": "CONTRASTING_PRECEDENT",
+      "group": "g202"
+    },
+    {
+      "id": "iq231",
+      "text": "Decisions distinguishing Jacob Mathew and holding the doctor liable",
+      "intent": "CONTRASTING_PRECEDENT",
+      "group": "g203"
+    },
+    {
+      "id": "iq232",
+      "text": "Cases where the court refused to follow the multiplier method because of special facts",
+      "intent": "CONTRASTING_PRECEDENT",
+      "group": "g204"
+    },
+    {
+      "id": "iq233",
+      "text": "Authorities contrary to the view that an arbitral award can be modified by the court under Section 34",
+      "intent": "CONTRASTING_PRECEDENT",
+      "group": "g205"
+    },
+    {
+      "id": "iq234",
+      "text": "Judgments that departed from Bachan Singh in sentencing",
+      "intent": "CONTRASTING_PRECEDENT",
+      "group": "g206"
+    },
+    {
+      "id": "iq235",
+      "text": "Find judgments that distinguished Puttaswamy on privacy claims against private parties",
+      "intent": "CONTRASTING_PRECEDENT",
+      "group": "g207"
+    },
+    {
+      "id": "iq236",
+      "text": "Cases distinguishing Satender Kumar Antil in economic offences",
+      "intent": "CONTRASTING_PRECEDENT",
+      "group": "g208"
+    },
+    {
+      "id": "iq237",
+      "text": "Decisions that limited or explained away Maneka Gandhi",
+      "intent": "CONTRASTING_PRECEDENT",
+      "group": "g209"
+    },
+    {
+      "id": "iq238",
+      "text": "Precedents overruling earlier views on the limitation period for execution",
+      "intent": "CONTRASTING_PRECEDENT",
+      "group": "g210"
+    },
+    {
+      "id": "iq239",
+      "text": "Counter cases where the court held that a civil dispute did also disclose a criminal offence",
+      "intent": "CONTRASTING_PRECEDENT",
+      "group": "g211"
+    },
+    {
+      "id": "iq240",
+      "text": "Judgments that did not follow Indra Sawhney's creamy layer test for promotions",
+      "intent": "CONTRASTING_PRECEDENT",
+      "group": "g212"
+    },
+    {
+      "id": "iq241",
+      "text": "Find cases where the court held an earlier judgment not good law",
+      "intent": "CONTRASTING_PRECEDENT",
+      "group": "g213"
+    }
+  ]
+}
