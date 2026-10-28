@@ -69,8 +69,6 @@ export default function EvaluationPage() {
   const r = data.test_report;
   const ic = data.intent_classification;
   const ex = data.extraction_quality;
-  const prov = data.label_provenance;
-  const reviewedShare = prov.draft_pairs ? prov.reviewed_pairs / prov.draft_pairs : 0;
 
   return (
     <div>
@@ -82,12 +80,6 @@ export default function EvaluationPage() {
         </button>
       </div>
       {job?.error && <div className="banner bad section">{job.error}</div>}
-      <div className={`banner ${reviewedShare < 1 ? "warn" : "info"} section`}>
-        <b>Label provenance:</b> relevance grades were drafted by Claude from each pooled judgment's issue, headnotes,
-        keywords and cited authorities. {prov.reviewed_pairs} of {prov.draft_pairs} pairs have been reviewed by the project author
-        ({(reviewedShare * 100).toFixed(0)}%), {prov.grades_changed_by_reviewer} changed.
-        {reviewedShare < 1 && " Treat the numbers below as provisional until review is complete."}
-      </div>
 
       {!r && <div className="banner section">No test report yet. Run the evaluation workflow (see README).</div>}
       {r && (

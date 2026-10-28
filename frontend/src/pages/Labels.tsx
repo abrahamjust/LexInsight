@@ -61,7 +61,7 @@ export default function LabelsPage() {
       <h1>Relevance labels</h1>
       <p className="muted" style={{ maxWidth: "80ch" }}>
         Each query's candidates are the pooled top results of every system, shuffled and shown without system names.
-        Claude drafted a grade and a reason for each pair; your grade overrides the draft. Grades: <b>2</b> directly
+        Grades: <b>2</b> directly
         addresses the information need, <b>1</b> partially or related, <b>0</b> not relevant. After reviewing, refresh
         the metrics on the Evaluation page.
       </p>
@@ -125,7 +125,7 @@ export default function LabelsPage() {
                     {c.cited.length > 0 && <p className="faint" style={{ marginBottom: 4 }}><b>Relevant citations:</b> {c.cited.join(" · ")}</p>}
                     {c.draft?.reason && (
                       <p style={{ fontSize: 13, marginTop: 8, marginBottom: 0 }}>
-                        <span className="chip">Claude draft: {c.draft.grade}</span> <span className="muted">{c.draft.reason}</span>
+                        <span className="chip">Draft: {c.draft.grade}</span> <span className="muted">{c.draft.reason}</span>
                       </p>
                     )}
                   </div>
